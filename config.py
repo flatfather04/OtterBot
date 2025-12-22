@@ -5,8 +5,8 @@ import os
 from pathlib import Path
 
 # Otter.ai Credentials (for automated login)
-OTTER_EMAIL = "xdpriyesh@gmail.com"
-OTTER_PASSWORD = "Priyesh@123"
+OTTER_EMAIL = os.getenv("OTTER_EMAIL", "xdpriyesh@gmail.com")
+OTTER_PASSWORD = os.getenv("OTTER_PASSWORD", "Priyesh@123")
 
 # Base directory for downloads
 DOWNLOAD_DIR = Path(__file__).parent / "downloads"

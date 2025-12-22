@@ -1,0 +1,26 @@
+# OtterBot Git Ignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.db
+.DS_Store
+
+# State and Logs
+.otter_state.json
+.otter_session.json
+otter_download.log
+otter_parallel.log
+
+# Data
+downloads/
+
+# Environment
+.venv/
+venv/
+ENV/
+.env
+
+# Docker
+.dockerignore
+Dockerfile
