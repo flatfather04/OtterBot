@@ -1,0 +1,326 @@
+Meeting: Embodi #2
+Wed, Jul 16
+1:00 PM
+37 min
+Priyesh P
+Introduction and Backgrounds
+0:11
+Qualcomm Ventures a
+URL: https://otter.ai/u/vgX3XzUbjpkOsDOYn8A8AKnsgr8
+Downloaded: 2025-12-21T21:33:29.364359
+Method: text_extraction
+============================================================
+
+0:11Hey, how's it going to meet you? Good,
+Hey, how's it going to meet you? Good,
+Hey, how's it going to meet you? Good,
+Hey, how's it going to meet you? Good,
+0:19yeah, how's San Francisco
+yeah, how's San Francisco
+yeah, how's San Francisco
+yeah, how's San Francisco
+0:23as good as ever? Yeah, you're getting warm there,
+as good as ever? Yeah, you're getting warm there,
+as good as ever? Yeah, you're getting warm there,
+as good as ever? Yeah, you're getting warm there,
+0:27yeah? Well, I wouldn't call it warm,
+yeah? Well, I wouldn't call it warm,
+yeah? Well, I wouldn't call it warm,
+yeah? Well, I wouldn't call it warm,
+0:32like today, maybe
+0:42how about you? Where are you based?
+how about you? Where are you based?
+how about you? Where are you based?
+how about you? Where are you based?
+S Speaker 10:44I'm based in Vancouver, Vancouver, Canada, for the time being.
+I'm based in Vancouver, Vancouver, Canada, for the time being.
+I'm based in Vancouver, Vancouver, Canada, for the time being.
+I'm based in Vancouver, Vancouver, Canada, for the time being.
+0:49Might move to the DSF area. Who knows?
+Might move to the DSF area. Who knows?
+Might move to the DSF area. Who knows?
+Might move to the DSF area. Who knows?
+S Speaker 10:53It's where things happen. But yeah, so far, Vancouver is beautiful. It's good. I've been living here for since 2012 actually came here to do my PhD and stayed here,
+It's where things happen. But yeah, so far, Vancouver is beautiful. It's good. I've been living here for since 2012 actually came here to do my PhD and stayed here,
+It's where things happen. But yeah, so far, Vancouver is beautiful. It's good. I've been living here for since 2012 actually came here to do my PhD and stayed here,
+It's where things happen. But yeah, so far, Vancouver is beautiful. It's good. I've been living here for since 2012 actually came here to do my PhD and stayed here,
+S Speaker 21:07and I guess you are also part of century,
+and I guess you are also part of century,
+and I guess you are also part of century,
+and I guess you are also part of century,
+S Speaker 11:12right, yeah. So I was a founding engineer there. So yeah, we as a part of like a four person team. We got hired as an engineering team to build the first robots there. And three of my friends and we each kind of like first, obviously, we were wearing a lot of hats and doing everything, but we each took one part of the stack. So, like, one of my friends, took hardware, the other one took simulation, the other one took software, and I took controls. So I founded that controls departments and grew that to be around like 15 people. We all contributed
+right, yeah. So I was a founding engineer there. So yeah, we as a part of like a four person team. We got hired as an engineering team to build the first robots there. And three of my friends and we each kind of like first, obviously, we were wearing a lot of hats and doing everything, but we each took one part of the stack. So, like, one of my friends, took hardware, the other one took simulation, the other one took software, and I took controls. So I founded that controls departments and grew that to be around like 15 people. We all contributed
+right, yeah. So I was a founding engineer there. So yeah, we as a part of like a four person team. We got hired as an engineering team to build the first robots there. And three of my friends and we each kind of like first, obviously, we were wearing a lot of hats and doing everything, but we each took one part of the stack. So, like, one of my friends, took hardware, the other one took simulation, the other one took software, and I took controls. So I founded that controls departments and grew that to be around like 15 people. We all contributed
+right, yeah. So I was a founding engineer there. So yeah, we as a part of like a four person team. We got hired as an engineering team to build the first robots there. And three of my friends and we each kind of like first, obviously, we were wearing a lot of hats and doing everything, but we each took one part of the stack. So, like, one of my friends, took hardware, the other one took simulation, the other one took software, and I took controls. So I founded that controls departments and grew that to be around like 15 people. We all contributed
+1:58to the technology roadmap until the end. Okay,
+to the technology roadmap until the end. Okay,
+to the technology roadmap until the end. Okay,
+to the technology roadmap until the end. Okay,
+2:03and when did you start this
+and when did you start this
+and when did you start this
+and when did you start this
+2:05company? Yeah, so
+S Speaker 12:09I was at sanctuary since 2018 basically, and left there last year. So that's six years there, and rested a little bit. You know how startups are working like non stop for six years, essentially, yeah, rested a few months and started getting body. I fell in love with humanoids. As I was working at sanctuary, I was kind of like interested in it. But, you know, as I worked more and more, I fell in love with it. You know, I think there's a there's a lot of potential, like societal, society changing potential, right? So what we're talking like the invention of electricity, for instance, it's going to be something like that. Very, very impactful. Yeah. So at embody, I can, I can talk about that a little bit. I
+I was at sanctuary since 2018 basically, and left there last year. So that's six years there, and rested a little bit. You know how startups are working like non stop for six years, essentially, yeah, rested a few months and started getting body. I fell in love with humanoids. As I was working at sanctuary, I was kind of like interested in it. But, you know, as I worked more and more, I fell in love with it. You know, I think there's a there's a lot of potential, like societal, society changing potential, right? So what we're talking like the invention of electricity, for instance, it's going to be something like that. Very, very impactful. Yeah. So at embody, I can, I can talk about that a little bit. I
+I was at sanctuary since 2018 basically, and left there last year. So that's six years there, and rested a little bit. You know how startups are working like non stop for six years, essentially, yeah, rested a few months and started getting body. I fell in love with humanoids. As I was working at sanctuary, I was kind of like interested in it. But, you know, as I worked more and more, I fell in love with it. You know, I think there's a there's a lot of potential, like societal, society changing potential, right? So what we're talking like the invention of electricity, for instance, it's going to be something like that. Very, very impactful. Yeah. So at embody, I can, I can talk about that a little bit. I
+I was at sanctuary since 2018 basically, and left there last year. So that's six years there, and rested a little bit. You know how startups are working like non stop for six years, essentially, yeah, rested a few months and started getting body. I fell in love with humanoids. As I was working at sanctuary, I was kind of like interested in it. But, you know, as I worked more and more, I fell in love with it. You know, I think there's a there's a lot of potential, like societal, society changing potential, right? So what we're talking like the invention of electricity, for instance, it's going to be something like that. Very, very impactful. Yeah. So at embody, I can, I can talk about that a little bit. I
+3:05can introduce myself, yeah, let's, let's do that, and then
+can introduce myself, yeah, let's, let's do that, and then
+can introduce myself, yeah, let's, let's do that, and then
+can introduce myself, yeah, let's, let's do that, and then
+S Speaker 23:09we can jump into So, you know, my background is in software
+we can jump into So, you know, my background is in software
+we can jump into So, you know, my background is in software
+we can jump into So, you know, my background is in software
+3:17and product at Qualcomm, actually, and then
+and product at Qualcomm, actually, and then
+and product at Qualcomm, actually, and then
+and product at Qualcomm, actually, and then
+3:22I've been with Qualcomm ventures for
+I've been with Qualcomm ventures for
+I've been with Qualcomm ventures for
+I've been with Qualcomm ventures for
+S Speaker 23:24a long enough time now, and so I manage the US investments, or North America investments, Canada included.
+a long enough time now, and so I manage the US investments, or North America investments, Canada included.
+a long enough time now, and so I manage the US investments, or North America investments, Canada included.
+a long enough time now, and so I manage the US investments, or North America investments, Canada included.
+S Speaker 13:32We're technically a US based company, Delaware based company.
+We're technically a US based company, Delaware based company.
+We're technically a US based company, Delaware based company.
+We're technically a US based company, Delaware based company.
+3:36So yeah, but I mean,
+S Speaker 23:38I guess would really classify as, like a lot of Israeli companies, are Delaware companies,
+I guess would really classify as, like a lot of Israeli companies, are Delaware companies,
+I guess would really classify as, like a lot of Israeli companies, are Delaware companies,
+I guess would really classify as, like a lot of Israeli companies, are Delaware companies,
+3:45but they're not US companies,
+but they're not US companies,
+but they're not US companies,
+but they're not US companies,
+3:49but North America,
+3:52we do invest in Canada.
+we do invest in Canada.
+we do invest in Canada.
+we do invest in Canada.
+3:55I think they've invested a few companies out of Canada as well. Now
+I think they've invested a few companies out of Canada as well. Now
+I think they've invested a few companies out of Canada as well. Now
+I think they've invested a few companies out of Canada as well. Now
+S Speaker 24:03we invest in areas that are, broadly speaking strategic to Qualcomm, they happen to be a lot of things across, you know, like AI is, of course, a big sector, but then AI for us, robotics is a big, big focus area going forward, it's like one of the top two or three priorities at this point in terms of growth areas for Qualcomm.
+we invest in areas that are, broadly speaking strategic to Qualcomm, they happen to be a lot of things across, you know, like AI is, of course, a big sector, but then AI for us, robotics is a big, big focus area going forward, it's like one of the top two or three priorities at this point in terms of growth areas for Qualcomm.
+we invest in areas that are, broadly speaking strategic to Qualcomm, they happen to be a lot of things across, you know, like AI is, of course, a big sector, but then AI for us, robotics is a big, big focus area going forward, it's like one of the top two or three priorities at this point in terms of growth areas for Qualcomm.
+we invest in areas that are, broadly speaking strategic to Qualcomm, they happen to be a lot of things across, you know, like AI is, of course, a big sector, but then AI for us, robotics is a big, big focus area going forward, it's like one of the top two or three priorities at this point in terms of growth areas for Qualcomm.
+S Speaker 24:34spending a lot of time, and I we've looked at most of the humanoid companies in the space, and we're working with a few like Qualcomm is working with a few companies now, and we invest off the balance sheet. So we do about anywhere from two to $10 million initial check size
+spending a lot of time, and I we've looked at most of the humanoid companies in the space, and we're working with a few like Qualcomm is working with a few companies now, and we invest off the balance sheet. So we do about anywhere from two to $10 million initial check size
+spending a lot of time, and I we've looked at most of the humanoid companies in the space, and we're working with a few like Qualcomm is working with a few companies now, and we invest off the balance sheet. So we do about anywhere from two to $10 million initial check size
+spending a lot of time, and I we've looked at most of the humanoid companies in the space, and we're working with a few like Qualcomm is working with a few companies now, and we invest off the balance sheet. So we do about anywhere from two to $10 million initial check size
+5:04like the way like
+5:06so there's different. You know,
+so there's different. You know,
+so there's different. You know,
+so there's different. You know,
+S Speaker 25:08like Nvidia ventures operates differently. Intel Capital operates differently. We operate as slightly different. Everybody's got slight differences. The way we operate is we invest in areas that are strategic to Qualcomm. We add value to startups through by working with Qualcomm. Sometimes Qualcomm becomes their customer. Sometimes they become Qualcomm's customer. Sometimes it's channel partnership. So you can take a lot of forms, but we invest with a very strong financial discipline as well. So which is, we want to work with companies where they're
+like Nvidia ventures operates differently. Intel Capital operates differently. We operate as slightly different. Everybody's got slight differences. The way we operate is we invest in areas that are strategic to Qualcomm. We add value to startups through by working with Qualcomm. Sometimes Qualcomm becomes their customer. Sometimes they become Qualcomm's customer. Sometimes it's channel partnership. So you can take a lot of forms, but we invest with a very strong financial discipline as well. So which is, we want to work with companies where they're
+like Nvidia ventures operates differently. Intel Capital operates differently. We operate as slightly different. Everybody's got slight differences. The way we operate is we invest in areas that are strategic to Qualcomm. We add value to startups through by working with Qualcomm. Sometimes Qualcomm becomes their customer. Sometimes they become Qualcomm's customer. Sometimes it's channel partnership. So you can take a lot of forms, but we invest with a very strong financial discipline as well. So which is, we want to work with companies where they're
+like Nvidia ventures operates differently. Intel Capital operates differently. We operate as slightly different. Everybody's got slight differences. The way we operate is we invest in areas that are strategic to Qualcomm. We add value to startups through by working with Qualcomm. Sometimes Qualcomm becomes their customer. Sometimes they become Qualcomm's customer. Sometimes it's channel partnership. So you can take a lot of forms, but we invest with a very strong financial discipline as well. So which is, we want to work with companies where they're
+5:44looking to build large, sizable businesses.
+looking to build large, sizable businesses.
+looking to build large, sizable businesses.
+looking to build large, sizable businesses.
+6:04so, yeah. So that's the
+so, yeah. So that's the
+so, yeah. So that's the
+so, yeah. So that's the
+6:09high level overview. You can talk more.
+high level overview. You can talk more.
+high level overview. You can talk more.
+high level overview. You can talk more.
+S Speaker 26:12Talk more about robotic my thoughts on robotics, your thoughts on robotics, and humanoids and bipedal robots, bipedal robots, so we can talk about all of those. But you know, love to learn more about what you're doing. I got some overview from Priyesh,
+Talk more about robotic my thoughts on robotics, your thoughts on robotics, and humanoids and bipedal robots, bipedal robots, so we can talk about all of those. But you know, love to learn more about what you're doing. I got some overview from Priyesh,
+Talk more about robotic my thoughts on robotics, your thoughts on robotics, and humanoids and bipedal robots, bipedal robots, so we can talk about all of those. But you know, love to learn more about what you're doing. I got some overview from Priyesh,
+Talk more about robotic my thoughts on robotics, your thoughts on robotics, and humanoids and bipedal robots, bipedal robots, so we can talk about all of those. But you know, love to learn more about what you're doing. I got some overview from Priyesh,
+6:38and then I have a few questions.
+and then I have a few questions.
+and then I have a few questions.
+and then I have a few questions.
+S Speaker 16:39But looks, yeah, I can give you the spiel, and we can dig deeper in any, any area that you see fit. We can go from there. So I was, I was talking about, you know, my love it for robotics, and the potential of of humanoid specifically to revolutionize, you know, the society. And this is, you know, this is a known fact, like, everyone's running humanoid companies on this, and everyone's realizing this. But the thing is, there is their bottlenecks to get to that utopia, yeah, and one of the bottlenecks is data, right? I think that's the most critical bottleneck. So I give a comparison to LLM models, and I'm sure you're familiar with priyadh resource model that's trained on around 100,000 years worth of data, whereas pi 01, of the most advanced, you know, models from physical intelligence is trained on one Europe. You see the like that this like the massive gap there is, you know, unimaginable. How do we how do we scale that? There's an added complexity here, because robots manipulate the environment. That's added, you know, dimension, so to say, and you know, obviously we need to collect more data on that to be able to capture that. So it's going to be even more than 100,000 years worth of data to be able to, you know, like, get to a point where, like, these robots are running around doing tasks. So I was always thinking, how do we get there? Tele operation is definitely not the key. We've been doing tele operation at sanctuary for a while, since the beginning, and that's that's not scalable, right? So it depends on three entities. I like to think like that three entities are involved in Intel operation. So suppose we've got automated task at the customer side and danger block assembly, there's a guy who's been doing that for 20 years, and the expert in that for data collection. We need a robot through the operation. We need a robot. We need a pilot. So pilot needs to learn from the expert on how to do the task, and the pilot the robot to do that expert. So you see there are three entities which makes it extremely expensive and non scalable. So what we're trying to do is we're trying to eliminate the robot and the pilot in the loop collect directly from the expert by means of wearables. So these are gloves and goggles, minimally based wearables that we're planning on developing, which, in fact, we can use Qualcomm chips in there as well, but yeah, so doing that, capturing data, converting it into robot, readable data, and we keep going through the details of like, how we're going to do that, and what's the roadmap there, and providing that to that infrastructure robotics companies question.
+But looks, yeah, I can give you the spiel, and we can dig deeper in any, any area that you see fit. We can go from there. So I was, I was talking about, you know, my love it for robotics, and the potential of of humanoid specifically to revolutionize, you know, the society. And this is, you know, this is a known fact, like, everyone's running humanoid companies on this, and everyone's realizing this. But the thing is, there is their bottlenecks to get to that utopia, yeah, and one of the bottlenecks is data, right? I think that's the most critical bottleneck. So I give a comparison to LLM models, and I'm sure you're familiar with priyadh resource model that's trained on around 100,000 years worth of data, whereas pi 01, of the most advanced, you know, models from physical intelligence is trained on one Europe. You see the like that this like the massive gap there is, you know, unimaginable. How do we how do we scale that? There's an added complexity here, because robots manipulate the environment. That's added, you know, dimension, so to say, and you know, obviously we need to collect more data on that to be able to capture that. So it's going to be even more than 100,000 years worth of data to be able to, you know, like, get to a point where, like, these robots are running around doing tasks. So I was always thinking, how do we get there? Tele operation is definitely not the key. We've been doing tele operation at sanctuary for a while, since the beginning, and that's that's not scalable, right? So it depends on three entities. I like to think like that three entities are involved in Intel operation. So suppose we've got automated task at the customer side and danger block assembly, there's a guy who's been doing that for 20 years, and the expert in that for data collection. We need a robot through the operation. We need a robot. We need a pilot. So pilot needs to learn from the expert on how to do the task, and the pilot the robot to do that expert. So you see there are three entities which makes it extremely expensive and non scalable. So what we're trying to do is we're trying to eliminate the robot and the pilot in the loop collect directly from the expert by means of wearables. So these are gloves and goggles, minimally based wearables that we're planning on developing, which, in fact, we can use Qualcomm chips in there as well, but yeah, so doing that, capturing data, converting it into robot, readable data, and we keep going through the details of like, how we're going to do that, and what's the roadmap there, and providing that to that infrastructure robotics companies question.
+But looks, yeah, I can give you the spiel, and we can dig deeper in any, any area that you see fit. We can go from there. So I was, I was talking about, you know, my love it for robotics, and the potential of of humanoid specifically to revolutionize, you know, the society. And this is, you know, this is a known fact, like, everyone's running humanoid companies on this, and everyone's realizing this. But the thing is, there is their bottlenecks to get to that utopia, yeah, and one of the bottlenecks is data, right? I think that's the most critical bottleneck. So I give a comparison to LLM models, and I'm sure you're familiar with priyadh resource model that's trained on around 100,000 years worth of data, whereas pi 01, of the most advanced, you know, models from physical intelligence is trained on one Europe. You see the like that this like the massive gap there is, you know, unimaginable. How do we how do we scale that? There's an added complexity here, because robots manipulate the environment. That's added, you know, dimension, so to say, and you know, obviously we need to collect more data on that to be able to capture that. So it's going to be even more than 100,000 years worth of data to be able to, you know, like, get to a point where, like, these robots are running around doing tasks. So I was always thinking, how do we get there? Tele operation is definitely not the key. We've been doing tele operation at sanctuary for a while, since the beginning, and that's that's not scalable, right? So it depends on three entities. I like to think like that three entities are involved in Intel operation. So suppose we've got automated task at the customer side and danger block assembly, there's a guy who's been doing that for 20 years, and the expert in that for data collection. We need a robot through the operation. We need a robot. We need a pilot. So pilot needs to learn from the expert on how to do the task, and the pilot the robot to do that expert. So you see there are three entities which makes it extremely expensive and non scalable. So what we're trying to do is we're trying to eliminate the robot and the pilot in the loop collect directly from the expert by means of wearables. So these are gloves and goggles, minimally based wearables that we're planning on developing, which, in fact, we can use Qualcomm chips in there as well, but yeah, so doing that, capturing data, converting it into robot, readable data, and we keep going through the details of like, how we're going to do that, and what's the roadmap there, and providing that to that infrastructure robotics companies question.
+But looks, yeah, I can give you the spiel, and we can dig deeper in any, any area that you see fit. We can go from there. So I was, I was talking about, you know, my love it for robotics, and the potential of of humanoid specifically to revolutionize, you know, the society. And this is, you know, this is a known fact, like, everyone's running humanoid companies on this, and everyone's realizing this. But the thing is, there is their bottlenecks to get to that utopia, yeah, and one of the bottlenecks is data, right? I think that's the most critical bottleneck. So I give a comparison to LLM models, and I'm sure you're familiar with priyadh resource model that's trained on around 100,000 years worth of data, whereas pi 01, of the most advanced, you know, models from physical intelligence is trained on one Europe. You see the like that this like the massive gap there is, you know, unimaginable. How do we how do we scale that? There's an added complexity here, because robots manipulate the environment. That's added, you know, dimension, so to say, and you know, obviously we need to collect more data on that to be able to capture that. So it's going to be even more than 100,000 years worth of data to be able to, you know, like, get to a point where, like, these robots are running around doing tasks. So I was always thinking, how do we get there? Tele operation is definitely not the key. We've been doing tele operation at sanctuary for a while, since the beginning, and that's that's not scalable, right? So it depends on three entities. I like to think like that three entities are involved in Intel operation. So suppose we've got automated task at the customer side and danger block assembly, there's a guy who's been doing that for 20 years, and the expert in that for data collection. We need a robot through the operation. We need a robot. We need a pilot. So pilot needs to learn from the expert on how to do the task, and the pilot the robot to do that expert. So you see there are three entities which makes it extremely expensive and non scalable. So what we're trying to do is we're trying to eliminate the robot and the pilot in the loop collect directly from the expert by means of wearables. So these are gloves and goggles, minimally based wearables that we're planning on developing, which, in fact, we can use Qualcomm chips in there as well, but yeah, so doing that, capturing data, converting it into robot, readable data, and we keep going through the details of like, how we're going to do that, and what's the roadmap there, and providing that to that infrastructure robotics companies question.
+9:37So you know, whenever I've gone to any of the
+So you know, whenever I've gone to any of the
+So you know, whenever I've gone to any of the
+So you know, whenever I've gone to any of the
+S Speaker 29:41robot companies, yeah, they,
+robot companies, yeah, they,
+robot companies, yeah, they,
+robot companies, yeah, they,
+9:46almost everybody is collecting
+almost everybody is collecting
+almost everybody is collecting
+almost everybody is collecting
+S Speaker 29:48their own data, yep, and, and then the way they typically collect their data is they have somebody tele operating a robot using either VR glasses, or, in some cases, you know, they're operating pillar, operating the arms, and because they
+their own data, yep, and, and then the way they typically collect their data is they have somebody tele operating a robot using either VR glasses, or, in some cases, you know, they're operating pillar, operating the arms, and because they
+their own data, yep, and, and then the way they typically collect their data is they have somebody tele operating a robot using either VR glasses, or, in some cases, you know, they're operating pillar, operating the arms, and because they
+their own data, yep, and, and then the way they typically collect their data is they have somebody tele operating a robot using either VR glasses, or, in some cases, you know, they're operating pillar, operating the arms, and because they
+10:12can visually actually see,
+can visually actually see,
+can visually actually see,
+can visually actually see,
+S Speaker 210:15and That's pretty much how I've seen data getting or these VLA especially, everybody's looking for control data, because the visual language action, visual language models everybody's using off the shelf, and then they're augmenting the control data. And then this is where everybody says that they have their own data collection pipelines that are unique. Everybody thinks that it's unique.
+and That's pretty much how I've seen data getting or these VLA especially, everybody's looking for control data, because the visual language action, visual language models everybody's using off the shelf, and then they're augmenting the control data. And then this is where everybody says that they have their own data collection pipelines that are unique. Everybody thinks that it's unique.
+and That's pretty much how I've seen data getting or these VLA especially, everybody's looking for control data, because the visual language action, visual language models everybody's using off the shelf, and then they're augmenting the control data. And then this is where everybody says that they have their own data collection pipelines that are unique. Everybody thinks that it's unique.
+and That's pretty much how I've seen data getting or these VLA especially, everybody's looking for control data, because the visual language action, visual language models everybody's using off the shelf, and then they're augmenting the control data. And then this is where everybody says that they have their own data collection pipelines that are unique. Everybody thinks that it's unique.
+S Speaker 210:50embody, fit in in this?
+embody, fit in in this?
+embody, fit in in this?
+embody, fit in in this?
+S Speaker 110:53Yeah, so we are not necessarily,
+Yeah, so we are not necessarily,
+Yeah, so we are not necessarily,
+Yeah, so we are not necessarily,
+S Speaker 210:58and they did use is they use all off the shelf components. They're using mostly Chinese arms that are doing something. They're using controllers from China VR headsets. Yeah,
+and they did use is they use all off the shelf components. They're using mostly Chinese arms that are doing something. They're using controllers from China VR headsets. Yeah,
+and they did use is they use all off the shelf components. They're using mostly Chinese arms that are doing something. They're using controllers from China VR headsets. Yeah,
+and they did use is they use all off the shelf components. They're using mostly Chinese arms that are doing something. They're using controllers from China VR headsets. Yeah,
+11:09that's a great question.
+that's a great question.
+that's a great question.
+that's a great question.
+S Speaker 111:14So how I would approach that question is, there's, as you identified correctly, there's like, a control aspect to it. So how do we convert joint torques to, you know, robots movement, right? So, like, there's that which is hardware dependent. So that's, for instance, figures model will be different than that, sanctuaries model than app products model and so on and so forth. And there are multiple ways of doing that. You know, one way is like, through classic controls, so, you know, like PID and MPC and all of that. The other way is through, like, learn controls. Like any biotics is a company that is our portfolio. Yeah, exactly. They're, they're using that. They're, they're using learn controls, distributed learn controls for affordable level stuff. What we're concerned about is like task taxonomy, so to say so the idea here is like we're going to be, or humanoids are going to be automating, in an ideal case, all the tasks out there, right? So we need data on these tasks, how these tasks are done by your robot, and we need that data to train these these models, essentially. So we're looking at the higher level control aspects rather than the lower level control aspects. And the data we're collecting is going like
+So how I would approach that question is, there's, as you identified correctly, there's like, a control aspect to it. So how do we convert joint torques to, you know, robots movement, right? So, like, there's that which is hardware dependent. So that's, for instance, figures model will be different than that, sanctuaries model than app products model and so on and so forth. And there are multiple ways of doing that. You know, one way is like, through classic controls, so, you know, like PID and MPC and all of that. The other way is through, like, learn controls. Like any biotics is a company that is our portfolio. Yeah, exactly. They're, they're using that. They're, they're using learn controls, distributed learn controls for affordable level stuff. What we're concerned about is like task taxonomy, so to say so the idea here is like we're going to be, or humanoids are going to be automating, in an ideal case, all the tasks out there, right? So we need data on these tasks, how these tasks are done by your robot, and we need that data to train these these models, essentially. So we're looking at the higher level control aspects rather than the lower level control aspects. And the data we're collecting is going like
+So how I would approach that question is, there's, as you identified correctly, there's like, a control aspect to it. So how do we convert joint torques to, you know, robots movement, right? So, like, there's that which is hardware dependent. So that's, for instance, figures model will be different than that, sanctuaries model than app products model and so on and so forth. And there are multiple ways of doing that. You know, one way is like, through classic controls, so, you know, like PID and MPC and all of that. The other way is through, like, learn controls. Like any biotics is a company that is our portfolio. Yeah, exactly. They're, they're using that. They're, they're using learn controls, distributed learn controls for affordable level stuff. What we're concerned about is like task taxonomy, so to say so the idea here is like we're going to be, or humanoids are going to be automating, in an ideal case, all the tasks out there, right? So we need data on these tasks, how these tasks are done by your robot, and we need that data to train these these models, essentially. So we're looking at the higher level control aspects rather than the lower level control aspects. And the data we're collecting is going like
+So how I would approach that question is, there's, as you identified correctly, there's like, a control aspect to it. So how do we convert joint torques to, you know, robots movement, right? So, like, there's that which is hardware dependent. So that's, for instance, figures model will be different than that, sanctuaries model than app products model and so on and so forth. And there are multiple ways of doing that. You know, one way is like, through classic controls, so, you know, like PID and MPC and all of that. The other way is through, like, learn controls. Like any biotics is a company that is our portfolio. Yeah, exactly. They're, they're using that. They're, they're using learn controls, distributed learn controls for affordable level stuff. What we're concerned about is like task taxonomy, so to say so the idea here is like we're going to be, or humanoids are going to be automating, in an ideal case, all the tasks out there, right? So we need data on these tasks, how these tasks are done by your robot, and we need that data to train these these models, essentially. So we're looking at the higher level control aspects rather than the lower level control aspects. And the data we're collecting is going like
+S Speaker 212:39a figure. How does like? So, how does figure use this? So,
+a figure. How does like? So, how does figure use this? So,
+a figure. How does like? So, how does figure use this? So,
+a figure. How does like? So, how does figure use this? So,
+S Speaker 112:45so fig figure exactly like they're collecting the robot data through teleoperation right now. And that has two parts to it. One part is the high level task taxonomy. So, like, how are you assembling the engine block as if you're a robot? And second, yes, the second is the, okay, those like single positions. How do they translate to join torques, right? So there are two parts and figures using this data as a you know, for both of them, because they're collecting from
+so fig figure exactly like they're collecting the robot data through teleoperation right now. And that has two parts to it. One part is the high level task taxonomy. So, like, how are you assembling the engine block as if you're a robot? And second, yes, the second is the, okay, those like single positions. How do they translate to join torques, right? So there are two parts and figures using this data as a you know, for both of them, because they're collecting from
+so fig figure exactly like they're collecting the robot data through teleoperation right now. And that has two parts to it. One part is the high level task taxonomy. So, like, how are you assembling the engine block as if you're a robot? And second, yes, the second is the, okay, those like single positions. How do they translate to join torques, right? So there are two parts and figures using this data as a you know, for both of them, because they're collecting from
+so fig figure exactly like they're collecting the robot data through teleoperation right now. And that has two parts to it. One part is the high level task taxonomy. So, like, how are you assembling the engine block as if you're a robot? And second, yes, the second is the, okay, those like single positions. How do they translate to join torques, right? So there are two parts and figures using this data as a you know, for both of them, because they're collecting from
+S Speaker 213:21the if you work with someone, like a figure, then would you ship like, do you collect data for them? Or do you ship your
+the if you work with someone, like a figure, then would you ship like, do you collect data for them? Or do you ship your
+the if you work with someone, like a figure, then would you ship like, do you collect data for them? Or do you ship your
+the if you work with someone, like a figure, then would you ship like, do you collect data for them? Or do you ship your
+13:33what is it like you're building an air
+what is it like you're building an air
+what is it like you're building an air
+what is it like you're building an air
+S Speaker 113:34structure? Yeah. So, yeah, exactly. So we do have, like, a hardware, software infrastructure, so, like the gloves and goggles are the hardware aspect and the software aspect is basically this data gets uploaded the cloud system. And in the cloud system, it gets converted into robot data and few other data types which we can go to and the user, the robotics company will take this infrastructure, distribute it to its customers, or whoever's they're trying to collect data from, and they just collect the data. So
+structure? Yeah. So, yeah, exactly. So we do have, like, a hardware, software infrastructure, so, like the gloves and goggles are the hardware aspect and the software aspect is basically this data gets uploaded the cloud system. And in the cloud system, it gets converted into robot data and few other data types which we can go to and the user, the robotics company will take this infrastructure, distribute it to its customers, or whoever's they're trying to collect data from, and they just collect the data. So
+structure? Yeah. So, yeah, exactly. So we do have, like, a hardware, software infrastructure, so, like the gloves and goggles are the hardware aspect and the software aspect is basically this data gets uploaded the cloud system. And in the cloud system, it gets converted into robot data and few other data types which we can go to and the user, the robotics company will take this infrastructure, distribute it to its customers, or whoever's they're trying to collect data from, and they just collect the data. So
+structure? Yeah. So, yeah, exactly. So we do have, like, a hardware, software infrastructure, so, like the gloves and goggles are the hardware aspect and the software aspect is basically this data gets uploaded the cloud system. And in the cloud system, it gets converted into robot data and few other data types which we can go to and the user, the robotics company will take this infrastructure, distribute it to its customers, or whoever's they're trying to collect data from, and they just collect the data. So
+14:08instead of tele operation, they use this
+instead of tele operation, they use this
+instead of tele operation, they use this
+instead of tele operation, they use this
+14:11also. Instead, yes,
+14:14exactly, they will replace whatever
+exactly, they will replace whatever
+exactly, they will replace whatever
+exactly, they will replace whatever
+14:16they're using. Yep.
+14:19Do you happen to have, like, a demo video.
+Do you happen to have, like, a demo video.
+Do you happen to have, like, a demo video.
+Do you happen to have, like, a demo video.
+S Speaker 114:22We do have a demo video in our data room. I can link you guys to the data room. I can show it. I gotta dig in. I'll send it to you after the fact. I don't have it right here, but I can link you guys to the data room, if you guys are interested. Yeah. I mean,
+We do have a demo video in our data room. I can link you guys to the data room. I can show it. I gotta dig in. I'll send it to you after the fact. I don't have it right here, but I can link you guys to the data room, if you guys are interested. Yeah. I mean,
+We do have a demo video in our data room. I can link you guys to the data room. I can show it. I gotta dig in. I'll send it to you after the fact. I don't have it right here, but I can link you guys to the data room, if you guys are interested. Yeah. I mean,
+We do have a demo video in our data room. I can link you guys to the data room. I can show it. I gotta dig in. I'll send it to you after the fact. I don't have it right here, but I can link you guys to the data room, if you guys are interested. Yeah. I mean,
+14:38that would be great, because,
+that would be great, because,
+that would be great, because,
+that would be great, because,
+14:42I mean, I just want to see,
+I mean, I just want to see,
+I mean, I just want to see,
+I mean, I just want to see,
+S Speaker 214:44like how, because everybody, sort of, right now, uses the same stuff, and then does it change the way they collect data and their data pipeline somehow
+like how, because everybody, sort of, right now, uses the same stuff, and then does it change the way they collect data and their data pipeline somehow
+like how, because everybody, sort of, right now, uses the same stuff, and then does it change the way they collect data and their data pipeline somehow
+like how, because everybody, sort of, right now, uses the same stuff, and then does it change the way they collect data and their data pipeline somehow
+15:44Your website is embody.io
+Your website is embody.io
+Your website is embody.io
+Your website is embody.io
+S Speaker 215:47right? I was trying to see if there was a video. Yeah, send me. We're being
+right? I was trying to see if there was a video. Yeah, send me. We're being
+right? I was trying to see if there was a video. Yeah, send me. We're being
+right? I was trying to see if there was a video. Yeah, send me. We're being
+S Speaker 115:53pretty secretive at the moment. I can talk about the roadmap a little bit.
+pretty secretive at the moment. I can talk about the roadmap a little bit.
+pretty secretive at the moment. I can talk about the roadmap a little bit.
+pretty secretive at the moment. I can talk about the roadmap a little bit.
+S Speaker 215:59So are you working with humanoid companies,
+So are you working with humanoid companies,
+So are you working with humanoid companies,
+So are you working with humanoid companies,
+S Speaker 116:03so we're in the process of getting them on board. So we've basically talked to so we're definitely pre product. So yeah, so we started in January. We're a small team. We've demonstrated that we can de risk some of some bits of the technology which that's where the video is from. So we essentially collect data from doing a task and then map it on one robot in offline factor. So it demonstrates that CSV can do this instead of operation. So it's a viable path. But yeah, we're talking to a few robotics companies right now. We're talking to mimic robotics. I'm talking to app product. In fact, I have a, I have a call with Jeff, their CEO right after this, so gonna kind of talk to him, regards the edge of partnership there, talking to Red Rabbit robotics as their new robotics companies. And also, we're talking to applied intuition. So interestingly enough, applied intuition, they want to move into humanoid robotics as well. So there's a simulator. Applied intuition, yes, they, they're not trying to build a simulator. I'm not, yeah. So what they're trying to do is, essentially, they're trying to use the learnings from, you know, autonomous vehicles, I think they're an infrastructure provider for autonomous vehicles, use the learnings there to apply to humanoid so that they're trying to, like, enter somehow into the humanoid market, because they see the potential, and I'm talking to them with regards to, you know, potential cooperation on data, yeah, okay, yeah.
+so we're in the process of getting them on board. So we've basically talked to so we're definitely pre product. So yeah, so we started in January. We're a small team. We've demonstrated that we can de risk some of some bits of the technology which that's where the video is from. So we essentially collect data from doing a task and then map it on one robot in offline factor. So it demonstrates that CSV can do this instead of operation. So it's a viable path. But yeah, we're talking to a few robotics companies right now. We're talking to mimic robotics. I'm talking to app product. In fact, I have a, I have a call with Jeff, their CEO right after this, so gonna kind of talk to him, regards the edge of partnership there, talking to Red Rabbit robotics as their new robotics companies. And also, we're talking to applied intuition. So interestingly enough, applied intuition, they want to move into humanoid robotics as well. So there's a simulator. Applied intuition, yes, they, they're not trying to build a simulator. I'm not, yeah. So what they're trying to do is, essentially, they're trying to use the learnings from, you know, autonomous vehicles, I think they're an infrastructure provider for autonomous vehicles, use the learnings there to apply to humanoid so that they're trying to, like, enter somehow into the humanoid market, because they see the potential, and I'm talking to them with regards to, you know, potential cooperation on data, yeah, okay, yeah.
+so we're in the process of getting them on board. So we've basically talked to so we're definitely pre product. So yeah, so we started in January. We're a small team. We've demonstrated that we can de risk some of some bits of the technology which that's where the video is from. So we essentially collect data from doing a task and then map it on one robot in offline factor. So it demonstrates that CSV can do this instead of operation. So it's a viable path. But yeah, we're talking to a few robotics companies right now. We're talking to mimic robotics. I'm talking to app product. In fact, I have a, I have a call with Jeff, their CEO right after this, so gonna kind of talk to him, regards the edge of partnership there, talking to Red Rabbit robotics as their new robotics companies. And also, we're talking to applied intuition. So interestingly enough, applied intuition, they want to move into humanoid robotics as well. So there's a simulator. Applied intuition, yes, they, they're not trying to build a simulator. I'm not, yeah. So what they're trying to do is, essentially, they're trying to use the learnings from, you know, autonomous vehicles, I think they're an infrastructure provider for autonomous vehicles, use the learnings there to apply to humanoid so that they're trying to, like, enter somehow into the humanoid market, because they see the potential, and I'm talking to them with regards to, you know, potential cooperation on data, yeah, okay, yeah.
+so we're in the process of getting them on board. So we've basically talked to so we're definitely pre product. So yeah, so we started in January. We're a small team. We've demonstrated that we can de risk some of some bits of the technology which that's where the video is from. So we essentially collect data from doing a task and then map it on one robot in offline factor. So it demonstrates that CSV can do this instead of operation. So it's a viable path. But yeah, we're talking to a few robotics companies right now. We're talking to mimic robotics. I'm talking to app product. In fact, I have a, I have a call with Jeff, their CEO right after this, so gonna kind of talk to him, regards the edge of partnership there, talking to Red Rabbit robotics as their new robotics companies. And also, we're talking to applied intuition. So interestingly enough, applied intuition, they want to move into humanoid robotics as well. So there's a simulator. Applied intuition, yes, they, they're not trying to build a simulator. I'm not, yeah. So what they're trying to do is, essentially, they're trying to use the learnings from, you know, autonomous vehicles, I think they're an infrastructure provider for autonomous vehicles, use the learnings there to apply to humanoid so that they're trying to, like, enter somehow into the humanoid market, because they see the potential, and I'm talking to them with regards to, you know, potential cooperation on data, yeah, okay, yeah.
+S Speaker 217:56when do you plan, like, what's your plan for? When you plan
+when do you plan, like, what's your plan for? When you plan
+when do you plan, like, what's your plan for? When you plan
+when do you plan, like, what's your plan for? When you plan
+S Speaker 118:00to have the product ready. Yeah, so we're deep in the weeds of fundraising right now. So what we're raising? I'm sure you see that you've seen the pitch deck. We're raising 10 million to kick start all the product development and customer efforts. So with the 10 million, that's going to take us 18 months to work with three to five customers who build the product, be one product, and also, obviously go between to do that right, and apply for patents and apply for dual use as well, because it has defense applications as well. So yeah, we're tackling all that in the first 18 months, working with customers in the loop to develop the product.
+to have the product ready. Yeah, so we're deep in the weeds of fundraising right now. So what we're raising? I'm sure you see that you've seen the pitch deck. We're raising 10 million to kick start all the product development and customer efforts. So with the 10 million, that's going to take us 18 months to work with three to five customers who build the product, be one product, and also, obviously go between to do that right, and apply for patents and apply for dual use as well, because it has defense applications as well. So yeah, we're tackling all that in the first 18 months, working with customers in the loop to develop the product.
+to have the product ready. Yeah, so we're deep in the weeds of fundraising right now. So what we're raising? I'm sure you see that you've seen the pitch deck. We're raising 10 million to kick start all the product development and customer efforts. So with the 10 million, that's going to take us 18 months to work with three to five customers who build the product, be one product, and also, obviously go between to do that right, and apply for patents and apply for dual use as well, because it has defense applications as well. So yeah, we're tackling all that in the first 18 months, working with customers in the loop to develop the product.
+to have the product ready. Yeah, so we're deep in the weeds of fundraising right now. So what we're raising? I'm sure you see that you've seen the pitch deck. We're raising 10 million to kick start all the product development and customer efforts. So with the 10 million, that's going to take us 18 months to work with three to five customers who build the product, be one product, and also, obviously go between to do that right, and apply for patents and apply for dual use as well, because it has defense applications as well. So yeah, we're tackling all that in the first 18 months, working with customers in the loop to develop the product.
+S Speaker 218:46So essentially, the product you think will be ready by end of next year, correct? Got it, got it. Okay.
+So essentially, the product you think will be ready by end of next year, correct? Got it, got it. Okay.
+So essentially, the product you think will be ready by end of next year, correct? Got it, got it. Okay.
+So essentially, the product you think will be ready by end of next year, correct? Got it, got it. Okay.
+18:56And how big is the
+S Speaker 118:58the team is over three people right now we're bringing a fourth so it's myself, Holly Peck. Holly Peck. She was employee number one at sanctuary, and she department sanctuary just before COVID,
+the team is over three people right now we're bringing a fourth so it's myself, Holly Peck. Holly Peck. She was employee number one at sanctuary, and she department sanctuary just before COVID,
+the team is over three people right now we're bringing a fourth so it's myself, Holly Peck. Holly Peck. She was employee number one at sanctuary, and she department sanctuary just before COVID,
+the team is over three people right now we're bringing a fourth so it's myself, Holly Peck. Holly Peck. She was employee number one at sanctuary, and she department sanctuary just before COVID,
+19:14first month of 2020,
+S Speaker 119:17and went on her own journey of investing at startups. She's a co founder of fights right now. Bytes is a kind of like a competitor to hugging face, so to say they're raising a lot of money at the moment. But even with that, she's tried to transfer to embody, because she sees the potential
+and went on her own journey of investing at startups. She's a co founder of fights right now. Bytes is a kind of like a competitor to hugging face, so to say they're raising a lot of money at the moment. But even with that, she's tried to transfer to embody, because she sees the potential
+and went on her own journey of investing at startups. She's a co founder of fights right now. Bytes is a kind of like a competitor to hugging face, so to say they're raising a lot of money at the moment. But even with that, she's tried to transfer to embody, because she sees the potential
+and went on her own journey of investing at startups. She's a co founder of fights right now. Bytes is a kind of like a competitor to hugging face, so to say they're raising a lot of money at the moment. But even with that, she's tried to transfer to embody, because she sees the potential
+S Speaker 219:39bikes, isn't she? She's not a founder or something.
+bikes, isn't she? She's not a founder or something.
+bikes, isn't she? She's not a founder or something.
+bikes, isn't she? She's not a founder or something.
+20:57and what would be the business model have to definitely like
+and what would be the business model have to definitely like
+and what would be the business model have to definitely like
+and what would be the business model have to definitely like
+S Speaker 221:00you sell these hardware
+you sell these hardware
+you sell these hardware
+you sell these hardware
+S Speaker 222:50so right now, like the number of logos that you work with
+so right now, like the number of logos that you work with
+so right now, like the number of logos that you work with
+so right now, like the number of logos that you work with
+22:57is about like 10 or 15 logos, right?
+is about like 10 or 15 logos, right?
+is about like 10 or 15 logos, right?
+is about like 10 or 15 logos, right?
+23:02Correct? The number of like main ICP,
+Correct? The number of like main ICP,
+Correct? The number of like main ICP,
+Correct? The number of like main ICP,
+S Speaker 223:04yeah, that would be like 10 or 15 companies, right? Because that's the number of companies that are going after this today, right? Yep, and,
+yeah, that would be like 10 or 15 companies, right? Because that's the number of companies that are going after this today, right? Yep, and,
+yeah, that would be like 10 or 15 companies, right? Because that's the number of companies that are going after this today, right? Yep, and,
+yeah, that would be like 10 or 15 companies, right? Because that's the number of companies that are going after this today, right? Yep, and,
+S Speaker 223:20with these customers, you would have to have some really large contracts eventually to be able to build a
+with these customers, you would have to have some really large contracts eventually to be able to build a
+with these customers, you would have to have some really large contracts eventually to be able to build a
+with these customers, you would have to have some really large contracts eventually to be able to build a
+23:27sizable company, right?
+sizable company, right?
+sizable company, right?
+sizable company, right?
+23:33it's not like you have
+it's not like you have
+it's not like you have
+it's not like you have

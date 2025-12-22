@@ -1,0 +1,458 @@
+Meeting: LP GP Meetup
+Mon, May 19
+6:53 PM
+35 min
+Priyesh P
+Introductions and Backgrounds of Participants
+0:00
+URL: https://otter.ai/u/kbAN3lxb2_nq5_zB6v1lnpQ43g0
+Downloaded: 2025-12-22T10:09:42.414831
+Method: text_extraction
+============================================================
+
+S Speaker 10:00Much, yeah. So definitely US manufacturing, reassuring is a great opportunity here. So if any of you want to talk about that, talk to Lee Sheng about it. So we're gonna do like a quick intro for everybody, just to accelerate things a little bit going from this site, maybe if you guys can take like, 30 seconds to introduce like, who you are, we do and what do you want to get out of it tonight? That'd be great. Yeah. Hi,
+Much, yeah. So definitely US manufacturing, reassuring is a great opportunity here. So if any of you want to talk about that, talk to Lee Sheng about it. So we're gonna do like a quick intro for everybody, just to accelerate things a little bit going from this site, maybe if you guys can take like, 30 seconds to introduce like, who you are, we do and what do you want to get out of it tonight? That'd be great. Yeah. Hi,
+Much, yeah. So definitely US manufacturing, reassuring is a great opportunity here. So if any of you want to talk about that, talk to Lee Sheng about it. So we're gonna do like a quick intro for everybody, just to accelerate things a little bit going from this site, maybe if you guys can take like, 30 seconds to introduce like, who you are, we do and what do you want to get out of it tonight? That'd be great. Yeah. Hi,
+Much, yeah. So definitely US manufacturing, reassuring is a great opportunity here. So if any of you want to talk about that, talk to Lee Sheng about it. So we're gonna do like a quick intro for everybody, just to accelerate things a little bit going from this site, maybe if you guys can take like, 30 seconds to introduce like, who you are, we do and what do you want to get out of it tonight? That'd be great. Yeah. Hi,
+S Speaker 20:32I'm Elena. I'm based in Romania, in Bucharest, and I am raising a VC fund for early stage in helteco. Come.
+I'm Elena. I'm based in Romania, in Bucharest, and I am raising a VC fund for early stage in helteco. Come.
+I'm Elena. I'm based in Romania, in Bucharest, and I am raising a VC fund for early stage in helteco. Come.
+I'm Elena. I'm based in Romania, in Bucharest, and I am raising a VC fund for early stage in helteco. Come.
+S Speaker 30:43Hello everyone. I'm Santa, originally from Romania, so very good friends here. I live in San Francisco, and I'm working with a healthcare accelerate at Stanford, and also a lot of projects with Elena.
+Hello everyone. I'm Santa, originally from Romania, so very good friends here. I live in San Francisco, and I'm working with a healthcare accelerate at Stanford, and also a lot of projects with Elena.
+Hello everyone. I'm Santa, originally from Romania, so very good friends here. I live in San Francisco, and I'm working with a healthcare accelerate at Stanford, and also a lot of projects with Elena.
+Hello everyone. I'm Santa, originally from Romania, so very good friends here. I live in San Francisco, and I'm working with a healthcare accelerate at Stanford, and also a lot of projects with Elena.
+S Speaker 40:56Hi, I'm Sam. I work for a not my single family office on the direct and the fund to fund side. On the direct side, we lead series A through D, mostly kind of Nvidia frenemies, hardware, semiconductors. And then we have a small life science book that invests in med devices. On the fund to fund side, we look for kind of complementary strategies or funds, whether that's stage or vertical. So just looking to talk about ideas of smart people.
+Hi, I'm Sam. I work for a not my single family office on the direct and the fund to fund side. On the direct side, we lead series A through D, mostly kind of Nvidia frenemies, hardware, semiconductors. And then we have a small life science book that invests in med devices. On the fund to fund side, we look for kind of complementary strategies or funds, whether that's stage or vertical. So just looking to talk about ideas of smart people.
+Hi, I'm Sam. I work for a not my single family office on the direct and the fund to fund side. On the direct side, we lead series A through D, mostly kind of Nvidia frenemies, hardware, semiconductors. And then we have a small life science book that invests in med devices. On the fund to fund side, we look for kind of complementary strategies or funds, whether that's stage or vertical. So just looking to talk about ideas of smart people.
+Hi, I'm Sam. I work for a not my single family office on the direct and the fund to fund side. On the direct side, we lead series A through D, mostly kind of Nvidia frenemies, hardware, semiconductors. And then we have a small life science book that invests in med devices. On the fund to fund side, we look for kind of complementary strategies or funds, whether that's stage or vertical. So just looking to talk about ideas of smart people.
+S Speaker 51:24Hey guys. My name is David. I'm GPA data from former university. We are incubators in our office of Bucha way, we incubate founders in pre seed prey seed stage. Last year we incubated 232, companies with seven of them. Data going to YC, four of them coming to HR zero and a lot of companies equality and we are currently reach our second fund, looking for smart founders, especially young founders and investors alike. Thank you.
+Hey guys. My name is David. I'm GPA data from former university. We are incubators in our office of Bucha way, we incubate founders in pre seed prey seed stage. Last year we incubated 232, companies with seven of them. Data going to YC, four of them coming to HR zero and a lot of companies equality and we are currently reach our second fund, looking for smart founders, especially young founders and investors alike. Thank you.
+Hey guys. My name is David. I'm GPA data from former university. We are incubators in our office of Bucha way, we incubate founders in pre seed prey seed stage. Last year we incubated 232, companies with seven of them. Data going to YC, four of them coming to HR zero and a lot of companies equality and we are currently reach our second fund, looking for smart founders, especially young founders and investors alike. Thank you.
+Hey guys. My name is David. I'm GPA data from former university. We are incubators in our office of Bucha way, we incubate founders in pre seed prey seed stage. Last year we incubated 232, companies with seven of them. Data going to YC, four of them coming to HR zero and a lot of companies equality and we are currently reach our second fund, looking for smart founders, especially young founders and investors alike. Thank you.
+1:57Hi everyone. I'm Armand
+Hi everyone. I'm Armand
+Hi everyone. I'm Armand
+Hi everyone. I'm Armand
+S Speaker 62:00venture visitor at Venture Partners in San Francisco. I have some exposure to the farmer landscape back in Europe and just moved to the States, and together with my twin brother Armin, we were fundraising in a couple of months to start our own fund.
+venture visitor at Venture Partners in San Francisco. I have some exposure to the farmer landscape back in Europe and just moved to the States, and together with my twin brother Armin, we were fundraising in a couple of months to start our own fund.
+venture visitor at Venture Partners in San Francisco. I have some exposure to the farmer landscape back in Europe and just moved to the States, and together with my twin brother Armin, we were fundraising in a couple of months to start our own fund.
+venture visitor at Venture Partners in San Francisco. I have some exposure to the farmer landscape back in Europe and just moved to the States, and together with my twin brother Armin, we were fundraising in a couple of months to start our own fund.
+S Speaker 12:22Hi, my name is Jasmine. She I'm a single family office, and we have invested in all the startup and including OpenAI perplexity, as well as diabetes one cure healthcare. And just hear, to me, like minded investors and understand how to make money and while contributing to the greater human science here.
+Hi, my name is Jasmine. She I'm a single family office, and we have invested in all the startup and including OpenAI perplexity, as well as diabetes one cure healthcare. And just hear, to me, like minded investors and understand how to make money and while contributing to the greater human science here.
+Hi, my name is Jasmine. She I'm a single family office, and we have invested in all the startup and including OpenAI perplexity, as well as diabetes one cure healthcare. And just hear, to me, like minded investors and understand how to make money and while contributing to the greater human science here.
+Hi, my name is Jasmine. She I'm a single family office, and we have invested in all the startup and including OpenAI perplexity, as well as diabetes one cure healthcare. And just hear, to me, like minded investors and understand how to make money and while contributing to the greater human science here.
+S Speaker 72:50My name is Andrew. I run a PC fund for single family office in New York. Yeah, first time in Palo Alto, first event in Palo Alto. So with some smart people.
+My name is Andrew. I run a PC fund for single family office in New York. Yeah, first time in Palo Alto, first event in Palo Alto. So with some smart people.
+My name is Andrew. I run a PC fund for single family office in New York. Yeah, first time in Palo Alto, first event in Palo Alto. So with some smart people.
+My name is Andrew. I run a PC fund for single family office in New York. Yeah, first time in Palo Alto, first event in Palo Alto. So with some smart people.
+S Speaker 83:09Hi everyone. This is Jasmine lien. I also ran a family office in Singapore and also in care. So we invest in those venture capitals and hedge fund. So if you are doing,
+Hi everyone. This is Jasmine lien. I also ran a family office in Singapore and also in care. So we invest in those venture capitals and hedge fund. So if you are doing,
+Hi everyone. This is Jasmine lien. I also ran a family office in Singapore and also in care. So we invest in those venture capitals and hedge fund. So if you are doing,
+Hi everyone. This is Jasmine lien. I also ran a family office in Singapore and also in care. So we invest in those venture capitals and hedge fund. So if you are doing,
+S Speaker 33:30Hello, everyone, my name is Sonia. I'm working for you to Vc. We have an office in San Francisco and Istanbul. We invest in founders from Europe and Turkey. We are earliest investors in carbon health that is founded by a Turkish founder. Right now we are running, we ran our fund balance too. Right now we are fundraising for our third fund. Yeah, so I'm looking forward to talk to everyone. Have your business question? School. Hi
+Hello, everyone, my name is Sonia. I'm working for you to Vc. We have an office in San Francisco and Istanbul. We invest in founders from Europe and Turkey. We are earliest investors in carbon health that is founded by a Turkish founder. Right now we are running, we ran our fund balance too. Right now we are fundraising for our third fund. Yeah, so I'm looking forward to talk to everyone. Have your business question? School. Hi
+Hello, everyone, my name is Sonia. I'm working for you to Vc. We have an office in San Francisco and Istanbul. We invest in founders from Europe and Turkey. We are earliest investors in carbon health that is founded by a Turkish founder. Right now we are running, we ran our fund balance too. Right now we are fundraising for our third fund. Yeah, so I'm looking forward to talk to everyone. Have your business question? School. Hi
+Hello, everyone, my name is Sonia. I'm working for you to Vc. We have an office in San Francisco and Istanbul. We invest in founders from Europe and Turkey. We are earliest investors in carbon health that is founded by a Turkish founder. Right now we are running, we ran our fund balance too. Right now we are fundraising for our third fund. Yeah, so I'm looking forward to talk to everyone. Have your business question? School. Hi
+S Speaker 94:05everyone. My name is Sabine shake. I work with different family offices. I also advise DC funds and some private equity funds. I primarily work at the intersection of healthcare and AI ml technologies, and work predominantly with med tech. And I also invest into some points as well myself. So I came here because I was interested in hearing what other people were doing with
+everyone. My name is Sabine shake. I work with different family offices. I also advise DC funds and some private equity funds. I primarily work at the intersection of healthcare and AI ml technologies, and work predominantly with med tech. And I also invest into some points as well myself. So I came here because I was interested in hearing what other people were doing with
+everyone. My name is Sabine shake. I work with different family offices. I also advise DC funds and some private equity funds. I primarily work at the intersection of healthcare and AI ml technologies, and work predominantly with med tech. And I also invest into some points as well myself. So I came here because I was interested in hearing what other people were doing with
+everyone. My name is Sabine shake. I work with different family offices. I also advise DC funds and some private equity funds. I primarily work at the intersection of healthcare and AI ml technologies, and work predominantly with med tech. And I also invest into some points as well myself. So I came here because I was interested in hearing what other people were doing with
+S Speaker 105:07I just walked in the door, but wow. Okay, hi, I'm Jeremiah. I'm a GP at Blitzscaling ventures. I run an event series for AI founders called llama lounge, and I love we invest in early stage startups. So I host that event for founders and Blitzscaling. We're also hosting event for family offices in September. It'll be hosted by Chris yeh and Reid Hoffman. Come chat with me for your family office. Thank you.
+I just walked in the door, but wow. Okay, hi, I'm Jeremiah. I'm a GP at Blitzscaling ventures. I run an event series for AI founders called llama lounge, and I love we invest in early stage startups. So I host that event for founders and Blitzscaling. We're also hosting event for family offices in September. It'll be hosted by Chris yeh and Reid Hoffman. Come chat with me for your family office. Thank you.
+I just walked in the door, but wow. Okay, hi, I'm Jeremiah. I'm a GP at Blitzscaling ventures. I run an event series for AI founders called llama lounge, and I love we invest in early stage startups. So I host that event for founders and Blitzscaling. We're also hosting event for family offices in September. It'll be hosted by Chris yeh and Reid Hoffman. Come chat with me for your family office. Thank you.
+I just walked in the door, but wow. Okay, hi, I'm Jeremiah. I'm a GP at Blitzscaling ventures. I run an event series for AI founders called llama lounge, and I love we invest in early stage startups. So I host that event for founders and Blitzscaling. We're also hosting event for family offices in September. It'll be hosted by Chris yeh and Reid Hoffman. Come chat with me for your family office. Thank you.
+S Speaker 55:35Hi everyone. My name is Carl. I'm a partner at alumni ventures, which, if you don't know, we raise money from alumni of a different university. I happen to run the Berkeley fund, and we have a few thematic funds as well. So our team does more deep tech investments, but pretty broad across the board in terms of sectors and stages. So I switch
+Hi everyone. My name is Carl. I'm a partner at alumni ventures, which, if you don't know, we raise money from alumni of a different university. I happen to run the Berkeley fund, and we have a few thematic funds as well. So our team does more deep tech investments, but pretty broad across the board in terms of sectors and stages. So I switch
+Hi everyone. My name is Carl. I'm a partner at alumni ventures, which, if you don't know, we raise money from alumni of a different university. I happen to run the Berkeley fund, and we have a few thematic funds as well. So our team does more deep tech investments, but pretty broad across the board in terms of sectors and stages. So I switch
+Hi everyone. My name is Carl. I'm a partner at alumni ventures, which, if you don't know, we raise money from alumni of a different university. I happen to run the Berkeley fund, and we have a few thematic funds as well. So our team does more deep tech investments, but pretty broad across the board in terms of sectors and stages. So I switch
+S Speaker 115:59off. Hi everyone. My name is and this is my colleague, David. We are general practitioners.
+off. Hi everyone. My name is and this is my colleague, David. We are general practitioners.
+off. Hi everyone. My name is and this is my colleague, David. We are general practitioners.
+off. Hi everyone. My name is and this is my colleague, David. We are general practitioners.
+6:07Sorry, I just came from a medical
+Sorry, I just came from a medical
+Sorry, I just came from a medical
+Sorry, I just came from a medical
+S Speaker 116:11GPS and a new fund, Solaris, venture partners here based in Colombia. We focus on two things, which is cross border investments and AI infrastructure. So data centers, investments into those areas. Most of our LPs are currently institutional investors outside of Asia, Singapore, Hong Kong, China. And we are building up a bank with some of the sovereign funds here to just meet everyone, learn more about everyone, and see if there's any opportunities to collaborate.
+GPS and a new fund, Solaris, venture partners here based in Colombia. We focus on two things, which is cross border investments and AI infrastructure. So data centers, investments into those areas. Most of our LPs are currently institutional investors outside of Asia, Singapore, Hong Kong, China. And we are building up a bank with some of the sovereign funds here to just meet everyone, learn more about everyone, and see if there's any opportunities to collaborate.
+GPS and a new fund, Solaris, venture partners here based in Colombia. We focus on two things, which is cross border investments and AI infrastructure. So data centers, investments into those areas. Most of our LPs are currently institutional investors outside of Asia, Singapore, Hong Kong, China. And we are building up a bank with some of the sovereign funds here to just meet everyone, learn more about everyone, and see if there's any opportunities to collaborate.
+GPS and a new fund, Solaris, venture partners here based in Colombia. We focus on two things, which is cross border investments and AI infrastructure. So data centers, investments into those areas. Most of our LPs are currently institutional investors outside of Asia, Singapore, Hong Kong, China. And we are building up a bank with some of the sovereign funds here to just meet everyone, learn more about everyone, and see if there's any opportunities to collaborate.
+S Speaker 76:44Hi everyone. My name is Jeff Lee. I run a family office. VC, we focus on healthcare and AI, 50% healthcare and 50% AI, we were already invested in Christopher and moderna. So everyone knows price waiver. So happy to tell you, everyone, hi. My name is David ohm. I work with Amar flora. He already explained everything that I was supposed to do, digital infrastructure science. So I do data center development and financing GPU. We have actually kept up a VMO focusing on CSV and pre IPO. So basically, more like a private equity focus. I'm here to network with everyone, very interesting and wonderful people today.
+Hi everyone. My name is Jeff Lee. I run a family office. VC, we focus on healthcare and AI, 50% healthcare and 50% AI, we were already invested in Christopher and moderna. So everyone knows price waiver. So happy to tell you, everyone, hi. My name is David ohm. I work with Amar flora. He already explained everything that I was supposed to do, digital infrastructure science. So I do data center development and financing GPU. We have actually kept up a VMO focusing on CSV and pre IPO. So basically, more like a private equity focus. I'm here to network with everyone, very interesting and wonderful people today.
+Hi everyone. My name is Jeff Lee. I run a family office. VC, we focus on healthcare and AI, 50% healthcare and 50% AI, we were already invested in Christopher and moderna. So everyone knows price waiver. So happy to tell you, everyone, hi. My name is David ohm. I work with Amar flora. He already explained everything that I was supposed to do, digital infrastructure science. So I do data center development and financing GPU. We have actually kept up a VMO focusing on CSV and pre IPO. So basically, more like a private equity focus. I'm here to network with everyone, very interesting and wonderful people today.
+Hi everyone. My name is Jeff Lee. I run a family office. VC, we focus on healthcare and AI, 50% healthcare and 50% AI, we were already invested in Christopher and moderna. So everyone knows price waiver. So happy to tell you, everyone, hi. My name is David ohm. I work with Amar flora. He already explained everything that I was supposed to do, digital infrastructure science. So I do data center development and financing GPU. We have actually kept up a VMO focusing on CSV and pre IPO. So basically, more like a private equity focus. I'm here to network with everyone, very interesting and wonderful people today.
+S Speaker 127:33Hi everybody. I'm Jason Seidler. We're international accelerator policy of go to market accelerator for international companies coming to the US. We're also raising our first fund as well. So generally, go to market for seed to series A plus type companies. We've got offices in the UK, Singapore and Australia, soon to be Dubai, and my offices that evolved that way.
+Hi everybody. I'm Jason Seidler. We're international accelerator policy of go to market accelerator for international companies coming to the US. We're also raising our first fund as well. So generally, go to market for seed to series A plus type companies. We've got offices in the UK, Singapore and Australia, soon to be Dubai, and my offices that evolved that way.
+Hi everybody. I'm Jason Seidler. We're international accelerator policy of go to market accelerator for international companies coming to the US. We're also raising our first fund as well. So generally, go to market for seed to series A plus type companies. We've got offices in the UK, Singapore and Australia, soon to be Dubai, and my offices that evolved that way.
+Hi everybody. I'm Jason Seidler. We're international accelerator policy of go to market accelerator for international companies coming to the US. We're also raising our first fund as well. So generally, go to market for seed to series A plus type companies. We've got offices in the UK, Singapore and Australia, soon to be Dubai, and my offices that evolved that way.
+7:55Hi everyone. I'm Armen, and
+Hi everyone. I'm Armen, and
+Hi everyone. I'm Armen, and
+Hi everyone. I'm Armen, and
+7:59I'm also a Venture Partners,
+I'm also a Venture Partners,
+I'm also a Venture Partners,
+I'm also a Venture Partners,
+S Speaker 68:02venture partners based in San Francisco, and as my brother also mentioned earlier, we will be launching our own VC fund in the near future, and our primary focus will be on healthcare, but also be Investing beyond healthcare opportunities. Happy to be here.
+venture partners based in San Francisco, and as my brother also mentioned earlier, we will be launching our own VC fund in the near future, and our primary focus will be on healthcare, but also be Investing beyond healthcare opportunities. Happy to be here.
+venture partners based in San Francisco, and as my brother also mentioned earlier, we will be launching our own VC fund in the near future, and our primary focus will be on healthcare, but also be Investing beyond healthcare opportunities. Happy to be here.
+venture partners based in San Francisco, and as my brother also mentioned earlier, we will be launching our own VC fund in the near future, and our primary focus will be on healthcare, but also be Investing beyond healthcare opportunities. Happy to be here.
+S Speaker 138:55Hello, everyone. I am Raj baronia. I'm originally a computer scientist by training, but then
+Hello, everyone. I am Raj baronia. I'm originally a computer scientist by training, but then
+Hello, everyone. I am Raj baronia. I'm originally a computer scientist by training, but then
+Hello, everyone. I am Raj baronia. I'm originally a computer scientist by training, but then
+9:02did a few startups in technology, and then
+did a few startups in technology, and then
+did a few startups in technology, and then
+did a few startups in technology, and then
+S Speaker 149:05turned to the dark side. I worked for a private equity firm for several years, so
+turned to the dark side. I worked for a private equity firm for several years, so
+turned to the dark side. I worked for a private equity firm for several years, so
+turned to the dark side. I worked for a private equity firm for several years, so
+S Speaker 139:11right now, actively involved as a media investor and LP with a few venture funds.
+right now, actively involved as a media investor and LP with a few venture funds.
+right now, actively involved as a media investor and LP with a few venture funds.
+right now, actively involved as a media investor and LP with a few venture funds.
+9:19My primary focus is AI and health tech,
+My primary focus is AI and health tech,
+My primary focus is AI and health tech,
+My primary focus is AI and health tech,
+S Speaker 1510:02Hello. Everyone. My name is Iris, so I,
+Hello. Everyone. My name is Iris, so I,
+Hello. Everyone. My name is Iris, so I,
+Hello. Everyone. My name is Iris, so I,
+10:07I've been trying to develop a defense AI consumer based, AI application
+I've been trying to develop a defense AI consumer based, AI application
+I've been trying to develop a defense AI consumer based, AI application
+I've been trying to develop a defense AI consumer based, AI application
+S Speaker 1510:12apps. And also I'm trying to develop a defense, exciting optimism, AI field.
+apps. And also I'm trying to develop a defense, exciting optimism, AI field.
+apps. And also I'm trying to develop a defense, exciting optimism, AI field.
+apps. And also I'm trying to develop a defense, exciting optimism, AI field.
+10:22And I have a background in engineering. And
+And I have a background in engineering. And
+And I have a background in engineering. And
+And I have a background in engineering. And
+S Speaker 110:30Hi everyone. My name is Christina. I'm investing in platform technologies that are going to scale out cell energy therapies like CRISPR, including automation, computer vision and AI, and I'm also fundraising.
+Hi everyone. My name is Christina. I'm investing in platform technologies that are going to scale out cell energy therapies like CRISPR, including automation, computer vision and AI, and I'm also fundraising.
+Hi everyone. My name is Christina. I'm investing in platform technologies that are going to scale out cell energy therapies like CRISPR, including automation, computer vision and AI, and I'm also fundraising.
+Hi everyone. My name is Christina. I'm investing in platform technologies that are going to scale out cell energy therapies like CRISPR, including automation, computer vision and AI, and I'm also fundraising.
+S Speaker 1610:46Hi, my name is Erica. I'm from braider turned friendship partner. Now I'm with a phone called normal. BC, we're 400 plus portfolio company across the globe. Around half of our portfolio companies are the founders and very closely
+Hi, my name is Erica. I'm from braider turned friendship partner. Now I'm with a phone called normal. BC, we're 400 plus portfolio company across the globe. Around half of our portfolio companies are the founders and very closely
+Hi, my name is Erica. I'm from braider turned friendship partner. Now I'm with a phone called normal. BC, we're 400 plus portfolio company across the globe. Around half of our portfolio companies are the founders and very closely
+Hi, my name is Erica. I'm from braider turned friendship partner. Now I'm with a phone called normal. BC, we're 400 plus portfolio company across the globe. Around half of our portfolio companies are the founders and very closely
+S Speaker 1611:01and we're one of the earliest bonds, Evergreen, Evergreen kind of bond structure. So if you're interested in the end of
+and we're one of the earliest bonds, Evergreen, Evergreen kind of bond structure. So if you're interested in the end of
+and we're one of the earliest bonds, Evergreen, Evergreen kind of bond structure. So if you're interested in the end of
+and we're one of the earliest bonds, Evergreen, Evergreen kind of bond structure. So if you're interested in the end of
+11:08that, happy to check with funds, coal investors or
+that, happy to check with funds, coal investors or
+that, happy to check with funds, coal investors or
+that, happy to check with funds, coal investors or
+S Speaker 1711:12founders. I'm Jim Farris from foster capital. I run a real estate private equity firm that's based in San Francisco, and invest all through the Bay Area, from Palo Alto, not that that matters, but, and you know, looking for investors or looking to learn about technology as well. Thank you.
+founders. I'm Jim Farris from foster capital. I run a real estate private equity firm that's based in San Francisco, and invest all through the Bay Area, from Palo Alto, not that that matters, but, and you know, looking for investors or looking to learn about technology as well. Thank you.
+founders. I'm Jim Farris from foster capital. I run a real estate private equity firm that's based in San Francisco, and invest all through the Bay Area, from Palo Alto, not that that matters, but, and you know, looking for investors or looking to learn about technology as well. Thank you.
+founders. I'm Jim Farris from foster capital. I run a real estate private equity firm that's based in San Francisco, and invest all through the Bay Area, from Palo Alto, not that that matters, but, and you know, looking for investors or looking to learn about technology as well. Thank you.
+S Speaker 511:34Thank you. Martin Newlands, I work with Andrew at bay bridge ventures. We are sustainability fund for investing and plus million dollars revenue. I also run the open Future Forum event series that many of you convene to some of you have spoken at. If you're interested in speaking at other events with startups, please let me know. Thank
+Thank you. Martin Newlands, I work with Andrew at bay bridge ventures. We are sustainability fund for investing and plus million dollars revenue. I also run the open Future Forum event series that many of you convene to some of you have spoken at. If you're interested in speaking at other events with startups, please let me know. Thank
+Thank you. Martin Newlands, I work with Andrew at bay bridge ventures. We are sustainability fund for investing and plus million dollars revenue. I also run the open Future Forum event series that many of you convene to some of you have spoken at. If you're interested in speaking at other events with startups, please let me know. Thank
+Thank you. Martin Newlands, I work with Andrew at bay bridge ventures. We are sustainability fund for investing and plus million dollars revenue. I also run the open Future Forum event series that many of you convene to some of you have spoken at. If you're interested in speaking at other events with startups, please let me know. Thank
+S Speaker 1811:53you. Hi all. My name is Ed dugray, and I'm a partner at IAC ventures. We were Berkeley based. We're on our second fund. We should start deploying for a second fund. We focus on software driven, robotics, health tech and vertical AI, and we'd love to collaborate with other investors here on deals we do very early stage, pre seed, seed, deep tech, software driven, no hardware. Thank you.
+you. Hi all. My name is Ed dugray, and I'm a partner at IAC ventures. We were Berkeley based. We're on our second fund. We should start deploying for a second fund. We focus on software driven, robotics, health tech and vertical AI, and we'd love to collaborate with other investors here on deals we do very early stage, pre seed, seed, deep tech, software driven, no hardware. Thank you.
+you. Hi all. My name is Ed dugray, and I'm a partner at IAC ventures. We were Berkeley based. We're on our second fund. We should start deploying for a second fund. We focus on software driven, robotics, health tech and vertical AI, and we'd love to collaborate with other investors here on deals we do very early stage, pre seed, seed, deep tech, software driven, no hardware. Thank you.
+you. Hi all. My name is Ed dugray, and I'm a partner at IAC ventures. We were Berkeley based. We're on our second fund. We should start deploying for a second fund. We focus on software driven, robotics, health tech and vertical AI, and we'd love to collaborate with other investors here on deals we do very early stage, pre seed, seed, deep tech, software driven, no hardware. Thank you.
+12:38Hello everyone. I'm Omar from Iceland,
+Hello everyone. I'm Omar from Iceland,
+Hello everyone. I'm Omar from Iceland,
+Hello everyone. I'm Omar from Iceland,
+S Speaker 2012:42and we have a C and series a fund, one. It's an intentional in Europe fund, investing in AI in front software. Thank you.
+and we have a C and series a fund, one. It's an intentional in Europe fund, investing in AI in front software. Thank you.
+and we have a C and series a fund, one. It's an intentional in Europe fund, investing in AI in front software. Thank you.
+and we have a C and series a fund, one. It's an intentional in Europe fund, investing in AI in front software. Thank you.
+S Speaker 2213:09Hi everyone. My name is the founder and CEO of the startup project, which is an AI agent for maintenance. We built and launched the end of last year we are selling this year. I'm here to interact with you guys. Hello,
+Hi everyone. My name is the founder and CEO of the startup project, which is an AI agent for maintenance. We built and launched the end of last year we are selling this year. I'm here to interact with you guys. Hello,
+Hi everyone. My name is the founder and CEO of the startup project, which is an AI agent for maintenance. We built and launched the end of last year we are selling this year. I'm here to interact with you guys. Hello,
+Hi everyone. My name is the founder and CEO of the startup project, which is an AI agent for maintenance. We built and launched the end of last year we are selling this year. I'm here to interact with you guys. Hello,
+S Speaker 2313:24there. Marco marglucci Here, I run a company is called minder bridge. We are an intersection of large corporates and startups. We do that at scale, so we validate probably a good 10,000 startups per year throughout our different offices in San Francisco, Israel, Barcelona, Korea and Australia, we work as an extension of corporate venture capital for a good 35 companies, particularly looking for B to B solutions. Also run our own fund early stage, just hold my receipt to do the job. Hey everybody. My name is Kristen Kant. I'm one of the partners at race Capital One block that way. There's a lot of people one block all around.
+there. Marco marglucci Here, I run a company is called minder bridge. We are an intersection of large corporates and startups. We do that at scale, so we validate probably a good 10,000 startups per year throughout our different offices in San Francisco, Israel, Barcelona, Korea and Australia, we work as an extension of corporate venture capital for a good 35 companies, particularly looking for B to B solutions. Also run our own fund early stage, just hold my receipt to do the job. Hey everybody. My name is Kristen Kant. I'm one of the partners at race Capital One block that way. There's a lot of people one block all around.
+there. Marco marglucci Here, I run a company is called minder bridge. We are an intersection of large corporates and startups. We do that at scale, so we validate probably a good 10,000 startups per year throughout our different offices in San Francisco, Israel, Barcelona, Korea and Australia, we work as an extension of corporate venture capital for a good 35 companies, particularly looking for B to B solutions. Also run our own fund early stage, just hold my receipt to do the job. Hey everybody. My name is Kristen Kant. I'm one of the partners at race Capital One block that way. There's a lot of people one block all around.
+there. Marco marglucci Here, I run a company is called minder bridge. We are an intersection of large corporates and startups. We do that at scale, so we validate probably a good 10,000 startups per year throughout our different offices in San Francisco, Israel, Barcelona, Korea and Australia, we work as an extension of corporate venture capital for a good 35 companies, particularly looking for B to B solutions. Also run our own fund early stage, just hold my receipt to do the job. Hey everybody. My name is Kristen Kant. I'm one of the partners at race Capital One block that way. There's a lot of people one block all around.
+S Speaker 1114:13We mostly focus on early stage, infrastructure, enterprise, things. We're early seed investors in companies like Databricks, opaque systems go Bears, vectara grok play a bunch of other companies. And then before this, I used to be a trail of
+We mostly focus on early stage, infrastructure, enterprise, things. We're early seed investors in companies like Databricks, opaque systems go Bears, vectara grok play a bunch of other companies. And then before this, I used to be a trail of
+We mostly focus on early stage, infrastructure, enterprise, things. We're early seed investors in companies like Databricks, opaque systems go Bears, vectara grok play a bunch of other companies. And then before this, I used to be a trail of
+We mostly focus on early stage, infrastructure, enterprise, things. We're early seed investors in companies like Databricks, opaque systems go Bears, vectara grok play a bunch of other companies. And then before this, I used to be a trail of
+14:36partners. Hi everybody. My name is Tonya Bucha. I'm
+partners. Hi everybody. My name is Tonya Bucha. I'm
+partners. Hi everybody. My name is Tonya Bucha. I'm
+partners. Hi everybody. My name is Tonya Bucha. I'm
+S Speaker 2515:48Hey, folks. My name is debang. I spent last 20 years as a product executive, first 10 years at Nvidia, one of the first product managers for CUDA. I joined Twilio after that, and then I was at snorkel AI, which is now unicorn. Earlier this year, I started a venture firm called model ventures and primarily invested into enterprise AI, looking forward into robotics. And
+Hey, folks. My name is debang. I spent last 20 years as a product executive, first 10 years at Nvidia, one of the first product managers for CUDA. I joined Twilio after that, and then I was at snorkel AI, which is now unicorn. Earlier this year, I started a venture firm called model ventures and primarily invested into enterprise AI, looking forward into robotics. And
+Hey, folks. My name is debang. I spent last 20 years as a product executive, first 10 years at Nvidia, one of the first product managers for CUDA. I joined Twilio after that, and then I was at snorkel AI, which is now unicorn. Earlier this year, I started a venture firm called model ventures and primarily invested into enterprise AI, looking forward into robotics. And
+Hey, folks. My name is debang. I spent last 20 years as a product executive, first 10 years at Nvidia, one of the first product managers for CUDA. I joined Twilio after that, and then I was at snorkel AI, which is now unicorn. Earlier this year, I started a venture firm called model ventures and primarily invested into enterprise AI, looking forward into robotics. And
+S Speaker 2616:15Hey guys, I'm Julius, founder and LP and a deep tech fund, and I have been working the longevity healthcare and workspace investments deep tech, also longevity and violence related, but also food and food robotics. So we want to talk to any investors who invest in food robotics. It's a fascinating space. Anyone
+Hey guys, I'm Julius, founder and LP and a deep tech fund, and I have been working the longevity healthcare and workspace investments deep tech, also longevity and violence related, but also food and food robotics. So we want to talk to any investors who invest in food robotics. It's a fascinating space. Anyone
+Hey guys, I'm Julius, founder and LP and a deep tech fund, and I have been working the longevity healthcare and workspace investments deep tech, also longevity and violence related, but also food and food robotics. So we want to talk to any investors who invest in food robotics. It's a fascinating space. Anyone
+Hey guys, I'm Julius, founder and LP and a deep tech fund, and I have been working the longevity healthcare and workspace investments deep tech, also longevity and violence related, but also food and food robotics. So we want to talk to any investors who invest in food robotics. It's a fascinating space. Anyone
+16:41interested in longevity and
+interested in longevity and
+interested in longevity and
+interested in longevity and
+S Speaker 2616:44health and proactive health overall, always fascinating to chat with. I'm also co hosting an
+health and proactive health overall, always fascinating to chat with. I'm also co hosting an
+health and proactive health overall, always fascinating to chat with. I'm also co hosting an
+health and proactive health overall, always fascinating to chat with. I'm also co hosting an
+16:51LP family office dinner series,
+LP family office dinner series,
+LP family office dinner series,
+LP family office dinner series,
+S Speaker 2616:55Jason and a few others here. So if you want to join and
+Jason and a few others here. So if you want to join and
+Jason and a few others here. So if you want to join and
+Jason and a few others here. So if you want to join and
+17:01work with my people, I I
+work with my people, I I
+work with my people, I I
+work with my people, I I
+17:06was a very soothing voice.
+was a very soothing voice.
+was a very soothing voice.
+was a very soothing voice.
+17:08I don't know how to go after that.
+I don't know how to go after that.
+I don't know how to go after that.
+I don't know how to go after that.
+S Speaker 2517:13My name is Washington, and my founder that's not raising for money, but I'm an owner of an advertising firm here in San Francisco, Silicon Valley, we focus primarily in brand marketing, storytelling, whether that be through design, film product design. So with brand experiences, whatever you want to call that. So we work with electric fashions, automotive companies, enterprise tech companies, some beauty companies. So So we kind of our skills are kind of varies from either dropping bombs or telling a story through brand experiences. So however, when you see that, that's your perspective. So because they're looking into some of that brand storytelling with our discussion with you guys work as a project. So that's it. Hi.
+My name is Washington, and my founder that's not raising for money, but I'm an owner of an advertising firm here in San Francisco, Silicon Valley, we focus primarily in brand marketing, storytelling, whether that be through design, film product design. So with brand experiences, whatever you want to call that. So we work with electric fashions, automotive companies, enterprise tech companies, some beauty companies. So So we kind of our skills are kind of varies from either dropping bombs or telling a story through brand experiences. So however, when you see that, that's your perspective. So because they're looking into some of that brand storytelling with our discussion with you guys work as a project. So that's it. Hi.
+My name is Washington, and my founder that's not raising for money, but I'm an owner of an advertising firm here in San Francisco, Silicon Valley, we focus primarily in brand marketing, storytelling, whether that be through design, film product design. So with brand experiences, whatever you want to call that. So we work with electric fashions, automotive companies, enterprise tech companies, some beauty companies. So So we kind of our skills are kind of varies from either dropping bombs or telling a story through brand experiences. So however, when you see that, that's your perspective. So because they're looking into some of that brand storytelling with our discussion with you guys work as a project. So that's it. Hi.
+My name is Washington, and my founder that's not raising for money, but I'm an owner of an advertising firm here in San Francisco, Silicon Valley, we focus primarily in brand marketing, storytelling, whether that be through design, film product design. So with brand experiences, whatever you want to call that. So we work with electric fashions, automotive companies, enterprise tech companies, some beauty companies. So So we kind of our skills are kind of varies from either dropping bombs or telling a story through brand experiences. So however, when you see that, that's your perspective. So because they're looking into some of that brand storytelling with our discussion with you guys work as a project. So that's it. Hi.
+S Speaker 2118:02My name is Mindy. Actually, I work for him. I'm the account director, and you know, really coming here, we only have one goal was to just connect with you awesome people, and we have met a few and yeah, so if you guys again, have any branding or advertising questions, please feel free to come up to us and we'll talk to you guys. Thanks. Bye, talk to
+My name is Mindy. Actually, I work for him. I'm the account director, and you know, really coming here, we only have one goal was to just connect with you awesome people, and we have met a few and yeah, so if you guys again, have any branding or advertising questions, please feel free to come up to us and we'll talk to you guys. Thanks. Bye, talk to
+My name is Mindy. Actually, I work for him. I'm the account director, and you know, really coming here, we only have one goal was to just connect with you awesome people, and we have met a few and yeah, so if you guys again, have any branding or advertising questions, please feel free to come up to us and we'll talk to you guys. Thanks. Bye, talk to
+My name is Mindy. Actually, I work for him. I'm the account director, and you know, really coming here, we only have one goal was to just connect with you awesome people, and we have met a few and yeah, so if you guys again, have any branding or advertising questions, please feel free to come up to us and we'll talk to you guys. Thanks. Bye, talk to
+18:24you guys. Thanks. My name is Max.
+you guys. Thanks. My name is Max.
+you guys. Thanks. My name is Max.
+you guys. Thanks. My name is Max.
+S Speaker 1418:27I've been involved for the past 30 years consulting ventures on technical due diligence, consulting startups to prepare them for technical due diligence. Along the way, I picked up a couple of startups. One is in health, tech, post marketing, the other one is completely different from decentralized data centers, AI infrastructure, massive, scalable and supervising
+I've been involved for the past 30 years consulting ventures on technical due diligence, consulting startups to prepare them for technical due diligence. Along the way, I picked up a couple of startups. One is in health, tech, post marketing, the other one is completely different from decentralized data centers, AI infrastructure, massive, scalable and supervising
+I've been involved for the past 30 years consulting ventures on technical due diligence, consulting startups to prepare them for technical due diligence. Along the way, I picked up a couple of startups. One is in health, tech, post marketing, the other one is completely different from decentralized data centers, AI infrastructure, massive, scalable and supervising
+I've been involved for the past 30 years consulting ventures on technical due diligence, consulting startups to prepare them for technical due diligence. Along the way, I picked up a couple of startups. One is in health, tech, post marketing, the other one is completely different from decentralized data centers, AI infrastructure, massive, scalable and supervising
+S Speaker 2719:01data. This sounds interesting. Hi, hello. My name is Antonio. I'm from Hong Kong and Singapore, where I run a qualitative trading firm specialized in crypto. So I've been running that for five years, and then allocate a partial Community Capital, bouncy to fail to release to AI, personally, I'm traveling the US for two months, just looking around what kind of activities there in the US, but also looking around activities related to AI as well in China, including
+data. This sounds interesting. Hi, hello. My name is Antonio. I'm from Hong Kong and Singapore, where I run a qualitative trading firm specialized in crypto. So I've been running that for five years, and then allocate a partial Community Capital, bouncy to fail to release to AI, personally, I'm traveling the US for two months, just looking around what kind of activities there in the US, but also looking around activities related to AI as well in China, including
+data. This sounds interesting. Hi, hello. My name is Antonio. I'm from Hong Kong and Singapore, where I run a qualitative trading firm specialized in crypto. So I've been running that for five years, and then allocate a partial Community Capital, bouncy to fail to release to AI, personally, I'm traveling the US for two months, just looking around what kind of activities there in the US, but also looking around activities related to AI as well in China, including
+data. This sounds interesting. Hi, hello. My name is Antonio. I'm from Hong Kong and Singapore, where I run a qualitative trading firm specialized in crypto. So I've been running that for five years, and then allocate a partial Community Capital, bouncy to fail to release to AI, personally, I'm traveling the US for two months, just looking around what kind of activities there in the US, but also looking around activities related to AI as well in China, including
+19:36this timestamp. So I would be stay here for
+this timestamp. So I would be stay here for
+this timestamp. So I would be stay here for
+this timestamp. So I would be stay here for
+S Speaker 2719:41another two weeks to the Easter coast. So feel free to tell me, I also want to connect with people here in the US. Hi.
+another two weeks to the Easter coast. So feel free to tell me, I also want to connect with people here in the US. Hi.
+another two weeks to the Easter coast. So feel free to tell me, I also want to connect with people here in the US. Hi.
+another two weeks to the Easter coast. So feel free to tell me, I also want to connect with people here in the US. Hi.
+S Speaker 2819:52My name is Paul, starting a fund called Death VC. My co founder was one of first 10 folks at OpenAI, and I was former partner at Index Ventures together, we've done 90 angel investments so far, and we are raising for a person's digital fund.
+My name is Paul, starting a fund called Death VC. My co founder was one of first 10 folks at OpenAI, and I was former partner at Index Ventures together, we've done 90 angel investments so far, and we are raising for a person's digital fund.
+My name is Paul, starting a fund called Death VC. My co founder was one of first 10 folks at OpenAI, and I was former partner at Index Ventures together, we've done 90 angel investments so far, and we are raising for a person's digital fund.
+My name is Paul, starting a fund called Death VC. My co founder was one of first 10 folks at OpenAI, and I was former partner at Index Ventures together, we've done 90 angel investments so far, and we are raising for a person's digital fund.
+S Speaker 1720:14Now. My name is Colin baring for baring capital, and we are an integrated real estate and venture capital firm, we manage over about 1.5 billion in different property and investments. We are effectively integrated at the intersection of venture and real estate, and what that means is different things for different people within our properties. We invest in technologies that boost the power and the returns on real estate, but also we host accelerator and incubator programs for founders and for venture firms. We host your companies and save them cash on the space and all the money that they blow on live, work, play, go and hosting their LPs. So, you know, really a cool ecosystem of tech and real estate. So here to meet various people in the space, whether it happens to be on the venture side, on investing in their LPs, or the founders themselves, different things for different people, anybody.
+Now. My name is Colin baring for baring capital, and we are an integrated real estate and venture capital firm, we manage over about 1.5 billion in different property and investments. We are effectively integrated at the intersection of venture and real estate, and what that means is different things for different people within our properties. We invest in technologies that boost the power and the returns on real estate, but also we host accelerator and incubator programs for founders and for venture firms. We host your companies and save them cash on the space and all the money that they blow on live, work, play, go and hosting their LPs. So, you know, really a cool ecosystem of tech and real estate. So here to meet various people in the space, whether it happens to be on the venture side, on investing in their LPs, or the founders themselves, different things for different people, anybody.
+Now. My name is Colin baring for baring capital, and we are an integrated real estate and venture capital firm, we manage over about 1.5 billion in different property and investments. We are effectively integrated at the intersection of venture and real estate, and what that means is different things for different people within our properties. We invest in technologies that boost the power and the returns on real estate, but also we host accelerator and incubator programs for founders and for venture firms. We host your companies and save them cash on the space and all the money that they blow on live, work, play, go and hosting their LPs. So, you know, really a cool ecosystem of tech and real estate. So here to meet various people in the space, whether it happens to be on the venture side, on investing in their LPs, or the founders themselves, different things for different people, anybody.
+Now. My name is Colin baring for baring capital, and we are an integrated real estate and venture capital firm, we manage over about 1.5 billion in different property and investments. We are effectively integrated at the intersection of venture and real estate, and what that means is different things for different people within our properties. We invest in technologies that boost the power and the returns on real estate, but also we host accelerator and incubator programs for founders and for venture firms. We host your companies and save them cash on the space and all the money that they blow on live, work, play, go and hosting their LPs. So, you know, really a cool ecosystem of tech and real estate. So here to meet various people in the space, whether it happens to be on the venture side, on investing in their LPs, or the founders themselves, different things for different people, anybody.
+S Speaker 2121:21We missed. Hi, I'm lay I'm with Alliance ventures. So we're the corporate firms for no need to mitigate. And we currently have a little bit over 300 million under asset management. And we invest
+We missed. Hi, I'm lay I'm with Alliance ventures. So we're the corporate firms for no need to mitigate. And we currently have a little bit over 300 million under asset management. And we invest
+We missed. Hi, I'm lay I'm with Alliance ventures. So we're the corporate firms for no need to mitigate. And we currently have a little bit over 300 million under asset management. And we invest
+We missed. Hi, I'm lay I'm with Alliance ventures. So we're the corporate firms for no need to mitigate. And we currently have a little bit over 300 million under asset management. And we invest
+S Speaker 2421:34across all the way to we also have funded fund positions,
+across all the way to we also have funded fund positions,
+across all the way to we also have funded fund positions,
+across all the way to we also have funded fund positions,
+S Speaker 2121:37and we invest globally. So we're very interested in talking to people who are interested in mobility, enterprise, AI, robotics, supply chain, sustainability and climate.
+and we invest globally. So we're very interested in talking to people who are interested in mobility, enterprise, AI, robotics, supply chain, sustainability and climate.
+and we invest globally. So we're very interested in talking to people who are interested in mobility, enterprise, AI, robotics, supply chain, sustainability and climate.
+and we invest globally. So we're very interested in talking to people who are interested in mobility, enterprise, AI, robotics, supply chain, sustainability and climate.
+S Speaker 2921:56Anybody? Thanks. Hey, folks. I'm John. I'm the founder of inference.ai, we do software defined GPUs. So basically, if you don't want to buy a full, expensive Nvidia GPU, you come to media, I can sell you 1/30 of a virtualized GPU for you to run your AI code. Thank you. Anybody else? Hi, I'm Alan, a founder, and I'll be in a deep Tech Club, I guess he's been listing and looking at doing
+Anybody? Thanks. Hey, folks. I'm John. I'm the founder of inference.ai, we do software defined GPUs. So basically, if you don't want to buy a full, expensive Nvidia GPU, you come to media, I can sell you 1/30 of a virtualized GPU for you to run your AI code. Thank you. Anybody else? Hi, I'm Alan, a founder, and I'll be in a deep Tech Club, I guess he's been listing and looking at doing
+Anybody? Thanks. Hey, folks. I'm John. I'm the founder of inference.ai, we do software defined GPUs. So basically, if you don't want to buy a full, expensive Nvidia GPU, you come to media, I can sell you 1/30 of a virtualized GPU for you to run your AI code. Thank you. Anybody else? Hi, I'm Alan, a founder, and I'll be in a deep Tech Club, I guess he's been listing and looking at doing
+Anybody? Thanks. Hey, folks. I'm John. I'm the founder of inference.ai, we do software defined GPUs. So basically, if you don't want to buy a full, expensive Nvidia GPU, you come to media, I can sell you 1/30 of a virtualized GPU for you to run your AI code. Thank you. Anybody else? Hi, I'm Alan, a founder, and I'll be in a deep Tech Club, I guess he's been listing and looking at doing
+22:29some things along jelly space.
+some things along jelly space.
+some things along jelly space.
+some things along jelly space.
+22:32Probably going to do a fun at some point. Okay,
+Probably going to do a fun at some point. Okay,
+Probably going to do a fun at some point. Okay,
+Probably going to do a fun at some point. Okay,
+22:40on the last one, let's
+on the last one, let's
+on the last one, let's
+on the last one, let's
+S Speaker 1122:50enjoy the food and hope everybody have a good time here. Thank you. Everybody. You've been
+enjoy the food and hope everybody have a good time here. Thank you. Everybody. You've been
+enjoy the food and hope everybody have a good time here. Thank you. Everybody. You've been
+enjoy the food and hope everybody have a good time here. Thank you. Everybody. You've been
+S Speaker 3023:13trying to do a couple of times.
+trying to do a couple of times.
+trying to do a couple of times.
+trying to do a couple of times.
+23:42they're now completely
+they're now completely
+they're now completely
+they're now completely
+S Speaker 3123:45pivoted into their interface, into agent communication, and agent to agent payment, which has got a wrapper on any kind of K to L or MCB. So these guys got funding as well. They got the lead investor. I have probably maybe they
+pivoted into their interface, into agent communication, and agent to agent payment, which has got a wrapper on any kind of K to L or MCB. So these guys got funding as well. They got the lead investor. I have probably maybe they
+pivoted into their interface, into agent communication, and agent to agent payment, which has got a wrapper on any kind of K to L or MCB. So these guys got funding as well. They got the lead investor. I have probably maybe they
+pivoted into their interface, into agent communication, and agent to agent payment, which has got a wrapper on any kind of K to L or MCB. So these guys got funding as well. They got the lead investor. I have probably maybe they
+S Speaker 3024:09were round early and the round that they were really something like that, right? So I had literally around five. Sometimes we go no to two and a half three. But that's very important. That's very important
+were round early and the round that they were really something like that, right? So I had literally around five. Sometimes we go no to two and a half three. But that's very important. That's very important
+were round early and the round that they were really something like that, right? So I had literally around five. Sometimes we go no to two and a half three. But that's very important. That's very important
+were round early and the round that they were really something like that, right? So I had literally around five. Sometimes we go no to two and a half three. But that's very important. That's very important
+S Speaker 3124:26at that point, it's something that fits our
+at that point, it's something that fits our
+at that point, it's something that fits our
+at that point, it's something that fits our
+24:37people. Our two people
+people. Our two people
+people. Our two people
+people. Our two people
+S Speaker 3224:46tag, but what they do is they provide a
+tag, but what they do is they provide a
+tag, but what they do is they provide a
+tag, but what they do is they provide a
+24:57call to is they provided
+call to is they provided
+call to is they provided
+call to is they provided
+S Speaker 3025:04agent function and then have a reinforcement learning list so that they can learn whether this specific function call was right for them or not. A lot of pages. And one of the problems with empathy is that one thing across
+agent function and then have a reinforcement learning list so that they can learn whether this specific function call was right for them or not. A lot of pages. And one of the problems with empathy is that one thing across
+agent function and then have a reinforcement learning list so that they can learn whether this specific function call was right for them or not. A lot of pages. And one of the problems with empathy is that one thing across
+agent function and then have a reinforcement learning list so that they can learn whether this specific function call was right for them or not. A lot of pages. And one of the problems with empathy is that one thing across
+25:18a lot of tools or functions, with a lot of functions,
+a lot of tools or functions, with a lot of functions,
+a lot of tools or functions, with a lot of functions,
+a lot of tools or functions, with a lot of functions,
+S Speaker 3025:30hopefully, down the line, when you have a lot of agents, while the workflows are very variable, a lot of functions, and figure out the right function, for sure, it's a very interesting categorized
+hopefully, down the line, when you have a lot of agents, while the workflows are very variable, a lot of functions, and figure out the right function, for sure, it's a very interesting categorized
+hopefully, down the line, when you have a lot of agents, while the workflows are very variable, a lot of functions, and figure out the right function, for sure, it's a very interesting categorized
+hopefully, down the line, when you have a lot of agents, while the workflows are very variable, a lot of functions, and figure out the right function, for sure, it's a very interesting categorized
+25:49as infrastructure
+25:54for AI infrastructure spaces referred to as more
+for AI infrastructure spaces referred to as more
+for AI infrastructure spaces referred to as more
+for AI infrastructure spaces referred to as more
+26:06but at The same time, because everything
+but at The same time, because everything
+but at The same time, because everything
+but at The same time, because everything
+26:21so far, Do you know what
+so far, Do you know what
+so far, Do you know what
+so far, Do you know what
+S Speaker 3026:37the negative big thing of the you get it right,
+the negative big thing of the you get it right,
+the negative big thing of the you get it right,
+the negative big thing of the you get it right,
+26:51What else have you seen in
+What else have you seen in
+What else have you seen in
+What else have you seen in
+26:58the statement? What
+S Speaker 3027:02are but not really have a direct sales. So everyone knew that they would start
+are but not really have a direct sales. So everyone knew that they would start
+are but not really have a direct sales. So everyone knew that they would start
+are but not really have a direct sales. So everyone knew that they would start
+27:28that we are trying to find so many attempts in trying to find I love what their act was not as good, because, specifically, we have aI mobile IoT, So we can sort of create
+that we are trying to find so many attempts in trying to find I love what their act was not as good, because, specifically, we have aI mobile IoT, So we can sort of create
+that we are trying to find so many attempts in trying to find I love what their act was not as good, because, specifically, we have aI mobile IoT, So we can sort of create
+that we are trying to find so many attempts in trying to find I love what their act was not as good, because, specifically, we have aI mobile IoT, So we can sort of create
+S Speaker 3028:02A story for the How long?
+A story for the How long?
+A story for the How long?
+A story for the How long?
+28:27And all vast number of, like,
+And all vast number of, like,
+And all vast number of, like,
+And all vast number of, like,
+S Speaker 3028:47more people, the students role that at the university got multiple people from there that got
+more people, the students role that at the university got multiple people from there that got
+more people, the students role that at the university got multiple people from there that got
+more people, the students role that at the university got multiple people from there that got
+S Speaker 3128:57one studio that I did, like five or six went to an investment internship.
+one studio that I did, like five or six went to an investment internship.
+one studio that I did, like five or six went to an investment internship.
+one studio that I did, like five or six went to an investment internship.
+S Speaker 3129:07but I am also relatively interested in India and the
+but I am also relatively interested in India and the
+but I am also relatively interested in India and the
+but I am also relatively interested in India and the
+29:22badge. Days of 2023,
+S Speaker 3129:262024 of them got wiped out,
+2024 of them got wiped out,
+2024 of them got wiped out,
+2024 of them got wiped out,
+29:35only the good ones and large
+only the good ones and large
+only the good ones and large
+only the good ones and large
+S Speaker 3029:40ones. Now, what are you looking at? How do you solve so, what? So, what I'm doing is I'm calling SP news right
+ones. Now, what are you looking at? How do you solve so, what? So, what I'm doing is I'm calling SP news right
+ones. Now, what are you looking at? How do you solve so, what? So, what I'm doing is I'm calling SP news right
+ones. Now, what are you looking at? How do you solve so, what? So, what I'm doing is I'm calling SP news right
+29:48now. So that's going
+S Speaker 3129:50fine. That's going fine. But for me, I'm now looking to align with some
+fine. That's going fine. But for me, I'm now looking to align with some
+fine. That's going fine. But for me, I'm now looking to align with some
+fine. That's going fine. But for me, I'm now looking to align with some
+29:53other part anywhere I'm happy to walk
+other part anywhere I'm happy to walk
+other part anywhere I'm happy to walk
+other part anywhere I'm happy to walk
+29:58back at this point of time, but it's Become clearly
+back at this point of time, but it's Become clearly
+back at this point of time, but it's Become clearly
+back at this point of time, but it's Become clearly
+30:02going to this point of
+going to this point of
+going to this point of
+going to this point of
+S Speaker 3330:25was looking at us. We have now been an operator for
+was looking at us. We have now been an operator for
+was looking at us. We have now been an operator for
+was looking at us. We have now been an operator for
+S Speaker 3130:40some time. Yeah, an operator
+some time. Yeah, an operator
+some time. Yeah, an operator
+some time. Yeah, an operator
+30:46for some time, so that
+for some time, so that
+for some time, so that
+for some time, so that
+30:51sometimes you get filtered
+sometimes you get filtered
+sometimes you get filtered
+sometimes you get filtered
+S Speaker 3031:01out, like the point. I believe it was a fund, I wish it was a little bit less fun companies In the recent months because of that interesting. But
+out, like the point. I believe it was a fund, I wish it was a little bit less fun companies In the recent months because of that interesting. But
+out, like the point. I believe it was a fund, I wish it was a little bit less fun companies In the recent months because of that interesting. But
+out, like the point. I believe it was a fund, I wish it was a little bit less fun companies In the recent months because of that interesting. But
+32:09That they have different thought
+That they have different thought
+That they have different thought
+That they have different thought
+S Speaker 3032:16process community in a specific time period. Developer that does
+process community in a specific time period. Developer that does
+process community in a specific time period. Developer that does
+process community in a specific time period. Developer that does
+S Speaker 3332:32provide some very good. Thank you. From you.
+provide some very good. Thank you. From you.
+provide some very good. Thank you. From you.
+provide some very good. Thank you. From you.
+S Speaker 3032:51For example,
+S Speaker 3433:13the site they're not Doing are
+the site they're not Doing are
+the site they're not Doing are
+the site they're not Doing are
+33:42relevant around that.
+relevant around that.
+relevant around that.
+relevant around that.
+34:41Dad. Sweet for me.

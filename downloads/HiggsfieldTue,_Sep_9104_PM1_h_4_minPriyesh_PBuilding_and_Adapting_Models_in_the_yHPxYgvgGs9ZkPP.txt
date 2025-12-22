@@ -1,0 +1,370 @@
+Meeting: Higgsfield
+Tue, Sep 9
+1:04 PM
+1 h 4 min
+Priyesh P
+Building and Adapting Models in the Coding Space
+0
+URL: https://otter.ai/u/yHPxYgvgGs9ZkPPrrpmYHT2IOz0
+Downloaded: 2025-12-21T20:24:38.315478
+Method: text_extraction
+============================================================
+
+S Speaker 10:00Yeah, where they started building their own models, and they wanted to go after the movie industry, and then there's Moon Valley and a bunch of others that
+Yeah, where they started building their own models, and they wanted to go after the movie industry, and then there's Moon Valley and a bunch of others that
+Yeah, where they started building their own models, and they wanted to go after the movie industry, and then there's Moon Valley and a bunch of others that
+Yeah, where they started building their own models, and they wanted to go after the movie industry, and then there's Moon Valley and a bunch of others that
+0:14came with me build my own model.
+came with me build my own model.
+came with me build my own model.
+came with me build my own model.
+S Speaker 10:19and then now, all of a sudden, we've got a lot of companies that are going after
+and then now, all of a sudden, we've got a lot of companies that are going after
+and then now, all of a sudden, we've got a lot of companies that are going after
+and then now, all of a sudden, we've got a lot of companies that are going after
+0:28not building their own model.
+not building their own model.
+not building their own model.
+not building their own model.
+S Speaker 10:31And I wonder if pendulum, you know, like, for example, if I look at the coding space, people went from okay, you know what? We don't need to build our own models. We're going to cursor and, you know, windsurf and all these companies, they started saying, Okay, we're going to just use Cloud and OpenAI. And then now they're saying, Okay, this is essentially an RL layer, and then the intelligence layer as commodity. We can build our own model because we understand the user actions and then pendulum swinging back into Okay, I'm going to go build my own model in that space in order to have a better
+And I wonder if pendulum, you know, like, for example, if I look at the coding space, people went from okay, you know what? We don't need to build our own models. We're going to cursor and, you know, windsurf and all these companies, they started saying, Okay, we're going to just use Cloud and OpenAI. And then now they're saying, Okay, this is essentially an RL layer, and then the intelligence layer as commodity. We can build our own model because we understand the user actions and then pendulum swinging back into Okay, I'm going to go build my own model in that space in order to have a better
+And I wonder if pendulum, you know, like, for example, if I look at the coding space, people went from okay, you know what? We don't need to build our own models. We're going to cursor and, you know, windsurf and all these companies, they started saying, Okay, we're going to just use Cloud and OpenAI. And then now they're saying, Okay, this is essentially an RL layer, and then the intelligence layer as commodity. We can build our own model because we understand the user actions and then pendulum swinging back into Okay, I'm going to go build my own model in that space in order to have a better
+And I wonder if pendulum, you know, like, for example, if I look at the coding space, people went from okay, you know what? We don't need to build our own models. We're going to cursor and, you know, windsurf and all these companies, they started saying, Okay, we're going to just use Cloud and OpenAI. And then now they're saying, Okay, this is essentially an RL layer, and then the intelligence layer as commodity. We can build our own model because we understand the user actions and then pendulum swinging back into Okay, I'm going to go build my own model in that space in order to have a better
+S Speaker 21:14control, yeah. And I think, you know, video is a little bit different, because, you know, standard diffusion models are pretty well understood in terms of, you know, for images, it's very well understood, yeah, I would say for video, it's a little bit more challenging, because it is really the application of physics, frame over frame. And we think at least where we have spent the most amount of time is post training to to get visual accuracy out of the models, but also finding that there is no one size fits all right, like we, we have eight models that we that we operate ourselves. And then there's, I think, seven others that were API integrated, that are closed source models, yeah. And they all have their strengths and weaknesses. You know, like now banana is, it's very fast,
+control, yeah. And I think, you know, video is a little bit different, because, you know, standard diffusion models are pretty well understood in terms of, you know, for images, it's very well understood, yeah, I would say for video, it's a little bit more challenging, because it is really the application of physics, frame over frame. And we think at least where we have spent the most amount of time is post training to to get visual accuracy out of the models, but also finding that there is no one size fits all right, like we, we have eight models that we that we operate ourselves. And then there's, I think, seven others that were API integrated, that are closed source models, yeah. And they all have their strengths and weaknesses. You know, like now banana is, it's very fast,
+control, yeah. And I think, you know, video is a little bit different, because, you know, standard diffusion models are pretty well understood in terms of, you know, for images, it's very well understood, yeah, I would say for video, it's a little bit more challenging, because it is really the application of physics, frame over frame. And we think at least where we have spent the most amount of time is post training to to get visual accuracy out of the models, but also finding that there is no one size fits all right, like we, we have eight models that we that we operate ourselves. And then there's, I think, seven others that were API integrated, that are closed source models, yeah. And they all have their strengths and weaknesses. You know, like now banana is, it's very fast,
+control, yeah. And I think, you know, video is a little bit different, because, you know, standard diffusion models are pretty well understood in terms of, you know, for images, it's very well understood, yeah, I would say for video, it's a little bit more challenging, because it is really the application of physics, frame over frame. And we think at least where we have spent the most amount of time is post training to to get visual accuracy out of the models, but also finding that there is no one size fits all right, like we, we have eight models that we that we operate ourselves. And then there's, I think, seven others that were API integrated, that are closed source models, yeah. And they all have their strengths and weaknesses. You know, like now banana is, it's very fast,
+2:25but its ability to do
+but its ability to do
+but its ability to do
+but its ability to do
+S Speaker 22:29like, high resolution, yeah, it's very limited. While vo three is really good at high resolution, but it's also, it's about $37 per second a video,
+like, high resolution, yeah, it's very limited. While vo three is really good at high resolution, but it's also, it's about $37 per second a video,
+like, high resolution, yeah, it's very limited. While vo three is really good at high resolution, but it's also, it's about $37 per second a video,
+like, high resolution, yeah, it's very limited. While vo three is really good at high resolution, but it's also, it's about $37 per second a video,
+2:41is that, right? Well,
+is that, right? Well,
+is that, right? Well,
+is that, right? Well,
+S Speaker 22:43so, you know, it works in in certain situations, but like, even for ad production, you know, company, if that were the only alternative, they might still prefer to shoot video because it's it's cheaper, so, but I can talk to this a little bit about, you know, where we differentiated ourselves and where we think we have, like an enduring mode for the Business. Okay, so, first and foremost, I think, in comparison to companies like runway and Luma, we are very much short form video focused. We are not going after Hollywood. We're not, you know, like the state of the art in producing like 8k video for a two hour movie will cost considerably more than what Pixar and, you know, LucasArts spends today on building that. So our view is that, you know, the market, like when we think about what we have in what we've had in market is really this very easy use, high fidelity engine for social media and social media ads. But what we aspire to do is to take what we call our video reasoning engine that's really optimized for overcoming social media blindness and driving engagement and conversion, because this is what our customers want. This is what they demand. So when we think about the the addressable market you've got, you know, if you just look at social media content creation. You know, of course, Google, YouTube, Tiktok, have a, have a completely captive environment there, but it's a huge market. So like, when we think about the coding space, it's about a sixth of that, right? Like, if you look at the entire ecosystem for coding, including, like code production, managing third party tools and third party teams. This is a much bigger market. And if you look at just the tool space of that today, and you look at the Adobe's all the post production tools, including from Apple and Microsoft, figma, Canva. That's a $40 billion market today. And we think What's disruptable, really addressable is half that
+so, you know, it works in in certain situations, but like, even for ad production, you know, company, if that were the only alternative, they might still prefer to shoot video because it's it's cheaper, so, but I can talk to this a little bit about, you know, where we differentiated ourselves and where we think we have, like an enduring mode for the Business. Okay, so, first and foremost, I think, in comparison to companies like runway and Luma, we are very much short form video focused. We are not going after Hollywood. We're not, you know, like the state of the art in producing like 8k video for a two hour movie will cost considerably more than what Pixar and, you know, LucasArts spends today on building that. So our view is that, you know, the market, like when we think about what we have in what we've had in market is really this very easy use, high fidelity engine for social media and social media ads. But what we aspire to do is to take what we call our video reasoning engine that's really optimized for overcoming social media blindness and driving engagement and conversion, because this is what our customers want. This is what they demand. So when we think about the the addressable market you've got, you know, if you just look at social media content creation. You know, of course, Google, YouTube, Tiktok, have a, have a completely captive environment there, but it's a huge market. So like, when we think about the coding space, it's about a sixth of that, right? Like, if you look at the entire ecosystem for coding, including, like code production, managing third party tools and third party teams. This is a much bigger market. And if you look at just the tool space of that today, and you look at the Adobe's all the post production tools, including from Apple and Microsoft, figma, Canva. That's a $40 billion market today. And we think What's disruptable, really addressable is half that
+so, you know, it works in in certain situations, but like, even for ad production, you know, company, if that were the only alternative, they might still prefer to shoot video because it's it's cheaper, so, but I can talk to this a little bit about, you know, where we differentiated ourselves and where we think we have, like an enduring mode for the Business. Okay, so, first and foremost, I think, in comparison to companies like runway and Luma, we are very much short form video focused. We are not going after Hollywood. We're not, you know, like the state of the art in producing like 8k video for a two hour movie will cost considerably more than what Pixar and, you know, LucasArts spends today on building that. So our view is that, you know, the market, like when we think about what we have in what we've had in market is really this very easy use, high fidelity engine for social media and social media ads. But what we aspire to do is to take what we call our video reasoning engine that's really optimized for overcoming social media blindness and driving engagement and conversion, because this is what our customers want. This is what they demand. So when we think about the the addressable market you've got, you know, if you just look at social media content creation. You know, of course, Google, YouTube, Tiktok, have a, have a completely captive environment there, but it's a huge market. So like, when we think about the coding space, it's about a sixth of that, right? Like, if you look at the entire ecosystem for coding, including, like code production, managing third party tools and third party teams. This is a much bigger market. And if you look at just the tool space of that today, and you look at the Adobe's all the post production tools, including from Apple and Microsoft, figma, Canva. That's a $40 billion market today. And we think What's disruptable, really addressable is half that
+so, you know, it works in in certain situations, but like, even for ad production, you know, company, if that were the only alternative, they might still prefer to shoot video because it's it's cheaper, so, but I can talk to this a little bit about, you know, where we differentiated ourselves and where we think we have, like an enduring mode for the Business. Okay, so, first and foremost, I think, in comparison to companies like runway and Luma, we are very much short form video focused. We are not going after Hollywood. We're not, you know, like the state of the art in producing like 8k video for a two hour movie will cost considerably more than what Pixar and, you know, LucasArts spends today on building that. So our view is that, you know, the market, like when we think about what we have in what we've had in market is really this very easy use, high fidelity engine for social media and social media ads. But what we aspire to do is to take what we call our video reasoning engine that's really optimized for overcoming social media blindness and driving engagement and conversion, because this is what our customers want. This is what they demand. So when we think about the the addressable market you've got, you know, if you just look at social media content creation. You know, of course, Google, YouTube, Tiktok, have a, have a completely captive environment there, but it's a huge market. So like, when we think about the coding space, it's about a sixth of that, right? Like, if you look at the entire ecosystem for coding, including, like code production, managing third party tools and third party teams. This is a much bigger market. And if you look at just the tool space of that today, and you look at the Adobe's all the post production tools, including from Apple and Microsoft, figma, Canva. That's a $40 billion market today. And we think What's disruptable, really addressable is half that
+5:39market. I agree. Yeah. I mean, and
+market. I agree. Yeah. I mean, and
+market. I agree. Yeah. I mean, and
+market. I agree. Yeah. I mean, and
+S Speaker 15:47by market, you see, you think, like these creators, that's how much they're spending.
+by market, you see, you think, like these creators, that's how much they're spending.
+by market, you see, you think, like these creators, that's how much they're spending.
+by market, you see, you think, like these creators, that's how much they're spending.
+S Speaker 25:55Well, yeah, if you look at the SAM that's how much they're spending, right? Like, Adobe's revenues, like $26 billion yeah? And it's all sort of in this. I mean, yes, they have corporate customers, but it's a tiny slice of
+Well, yeah, if you look at the SAM that's how much they're spending, right? Like, Adobe's revenues, like $26 billion yeah? And it's all sort of in this. I mean, yes, they have corporate customers, but it's a tiny slice of
+Well, yeah, if you look at the SAM that's how much they're spending, right? Like, Adobe's revenues, like $26 billion yeah? And it's all sort of in this. I mean, yes, they have corporate customers, but it's a tiny slice of
+Well, yeah, if you look at the SAM that's how much they're spending, right? Like, Adobe's revenues, like $26 billion yeah? And it's all sort of in this. I mean, yes, they have corporate customers, but it's a tiny slice of
+S Speaker 16:11is that tiny, yeah, compared to, although Adobe is, I
+is that tiny, yeah, compared to, although Adobe is, I
+is that tiny, yeah, compared to, although Adobe is, I
+is that tiny, yeah, compared to, although Adobe is, I
+6:18think Adobe's got existential prices,
+think Adobe's got existential prices,
+think Adobe's got existential prices,
+think Adobe's got existential prices,
+S Speaker 26:20yeah, and I think AI,
+yeah, and I think AI,
+yeah, and I think AI,
+yeah, and I think AI,
+S Speaker 16:24are they acquiring, I haven't seen. I mean, they tried to acquire Canva that didn't go through. Why? I think
+are they acquiring, I haven't seen. I mean, they tried to acquire Canva that didn't go through. Why? I think
+are they acquiring, I haven't seen. I mean, they tried to acquire Canva that didn't go through. Why? I think
+are they acquiring, I haven't seen. I mean, they tried to acquire Canva that didn't go through. Why? I think
+S Speaker 26:33they should probably try again. I mean, like they also tried to buy figma, and Figmas IPO is way north of would they tried to back figma or Ken Miller, both, both and FTC said no to both of them. Wow. But today, I doubt if the Trump driven FTC is going to be interventionist. But you know, Adobe's continuously in their history, they've grown through big acquisitions, and as much as like Firefly is an interesting add on to Photoshop, like their answer for video just doesn't exist.
+they should probably try again. I mean, like they also tried to buy figma, and Figmas IPO is way north of would they tried to back figma or Ken Miller, both, both and FTC said no to both of them. Wow. But today, I doubt if the Trump driven FTC is going to be interventionist. But you know, Adobe's continuously in their history, they've grown through big acquisitions, and as much as like Firefly is an interesting add on to Photoshop, like their answer for video just doesn't exist.
+they should probably try again. I mean, like they also tried to buy figma, and Figmas IPO is way north of would they tried to back figma or Ken Miller, both, both and FTC said no to both of them. Wow. But today, I doubt if the Trump driven FTC is going to be interventionist. But you know, Adobe's continuously in their history, they've grown through big acquisitions, and as much as like Firefly is an interesting add on to Photoshop, like their answer for video just doesn't exist.
+they should probably try again. I mean, like they also tried to buy figma, and Figmas IPO is way north of would they tried to back figma or Ken Miller, both, both and FTC said no to both of them. Wow. But today, I doubt if the Trump driven FTC is going to be interventionist. But you know, Adobe's continuously in their history, they've grown through big acquisitions, and as much as like Firefly is an interesting add on to Photoshop, like their answer for video just doesn't exist.
+S Speaker 17:17I don't I think what Adobe, still in the near future has is distribution with enterprise and then, but they have to act like, they have to like, act almost like how Google eventually acted, and then now it feels like together,
+I don't I think what Adobe, still in the near future has is distribution with enterprise and then, but they have to act like, they have to like, act almost like how Google eventually acted, and then now it feels like together,
+I don't I think what Adobe, still in the near future has is distribution with enterprise and then, but they have to act like, they have to like, act almost like how Google eventually acted, and then now it feels like together,
+I don't I think what Adobe, still in the near future has is distribution with enterprise and then, but they have to act like, they have to like, act almost like how Google eventually acted, and then now it feels like together,
+S Speaker 27:36yeah. I mean, markets not crazy about right? Like the stock isn't, hasn't been doing that well. And I think it's a reflection of, even if, because Canada's been talking a little bit more publicly, I think they're probably trying to go public next $3.3 billion your business, right? And they stole that entire market from Photoshop. So I think Photoshop light on a standalone basis is still bigger, but the growth, okay, so here's how we look at the competition, yeah. So we don't put like agent there. I'm sorry. We do have agent. We don't put, I runway there, because we think it's a completely different market. But the two dimensions that we really
+yeah. I mean, markets not crazy about right? Like the stock isn't, hasn't been doing that well. And I think it's a reflection of, even if, because Canada's been talking a little bit more publicly, I think they're probably trying to go public next $3.3 billion your business, right? And they stole that entire market from Photoshop. So I think Photoshop light on a standalone basis is still bigger, but the growth, okay, so here's how we look at the competition, yeah. So we don't put like agent there. I'm sorry. We do have agent. We don't put, I runway there, because we think it's a completely different market. But the two dimensions that we really
+yeah. I mean, markets not crazy about right? Like the stock isn't, hasn't been doing that well. And I think it's a reflection of, even if, because Canada's been talking a little bit more publicly, I think they're probably trying to go public next $3.3 billion your business, right? And they stole that entire market from Photoshop. So I think Photoshop light on a standalone basis is still bigger, but the growth, okay, so here's how we look at the competition, yeah. So we don't put like agent there. I'm sorry. We do have agent. We don't put, I runway there, because we think it's a completely different market. But the two dimensions that we really
+yeah. I mean, markets not crazy about right? Like the stock isn't, hasn't been doing that well. And I think it's a reflection of, even if, because Canada's been talking a little bit more publicly, I think they're probably trying to go public next $3.3 billion your business, right? And they stole that entire market from Photoshop. So I think Photoshop light on a standalone basis is still bigger, but the growth, okay, so here's how we look at the competition, yeah. So we don't put like agent there. I'm sorry. We do have agent. We don't put, I runway there, because we think it's a completely different market. But the two dimensions that we really
+S Speaker 18:30why do you say that? Because, I mean, they can go for a short form video content as well, runway and Luma can go for short form. Yeah.
+why do you say that? Because, I mean, they can go for a short form video content as well, runway and Luma can go for short form. Yeah.
+why do you say that? Because, I mean, they can go for a short form video content as well, runway and Luma can go for short form. Yeah.
+why do you say that? Because, I mean, they can go for a short form video content as well, runway and Luma can go for short form. Yeah.
+S Speaker 28:39So let's start with the easy one, Luma, almost no traction in the market. Right? Hats off. They went to the Gulf. They raised a lot of money. But like all the VCs on Sand Hill basically said, Look, how are you going to differentiate? And they didn't have a story today. In terms of market like market presence, revenue there, they've got an incredible war chest, but nothing more than that. Runway, you know, runways strategy was, you know, let's go sign exclusive contracts. Did that Luma round even happen? Yeah, the one yet last year,
+So let's start with the easy one, Luma, almost no traction in the market. Right? Hats off. They went to the Gulf. They raised a lot of money. But like all the VCs on Sand Hill basically said, Look, how are you going to differentiate? And they didn't have a story today. In terms of market like market presence, revenue there, they've got an incredible war chest, but nothing more than that. Runway, you know, runways strategy was, you know, let's go sign exclusive contracts. Did that Luma round even happen? Yeah, the one yet last year,
+So let's start with the easy one, Luma, almost no traction in the market. Right? Hats off. They went to the Gulf. They raised a lot of money. But like all the VCs on Sand Hill basically said, Look, how are you going to differentiate? And they didn't have a story today. In terms of market like market presence, revenue there, they've got an incredible war chest, but nothing more than that. Runway, you know, runways strategy was, you know, let's go sign exclusive contracts. Did that Luma round even happen? Yeah, the one yet last year,
+So let's start with the easy one, Luma, almost no traction in the market. Right? Hats off. They went to the Gulf. They raised a lot of money. But like all the VCs on Sand Hill basically said, Look, how are you going to differentiate? And they didn't have a story today. In terms of market like market presence, revenue there, they've got an incredible war chest, but nothing more than that. Runway, you know, runways strategy was, you know, let's go sign exclusive contracts. Did that Luma round even happen? Yeah, the one yet last year,
+S Speaker 19:23last quarter, last quarter, right? Last quarter. Yeah, it wasn't like the last year. One never happened the last year when we get got dragged out through like last quarter or something. But I know that if you go to humane website, they have like, Grog and Luma over there.
+last quarter, last quarter, right? Last quarter. Yeah, it wasn't like the last year. One never happened the last year when we get got dragged out through like last quarter or something. But I know that if you go to humane website, they have like, Grog and Luma over there.
+last quarter, last quarter, right? Last quarter. Yeah, it wasn't like the last year. One never happened the last year when we get got dragged out through like last quarter or something. But I know that if you go to humane website, they have like, Grog and Luma over there.
+last quarter, last quarter, right? Last quarter. Yeah, it wasn't like the last year. One never happened the last year when we get got dragged out through like last quarter or something. But I know that if you go to humane website, they have like, Grog and Luma over there.
+S Speaker 29:47My understanding is they also got some money from
+My understanding is they also got some money from
+My understanding is they also got some money from
+My understanding is they also got some money from
+S Speaker 19:52because CFIUS is like, like, it's not going to be like once they say yes, if yes, when there's 100
+because CFIUS is like, like, it's not going to be like once they say yes, if yes, when there's 100
+because CFIUS is like, like, it's not going to be like once they say yes, if yes, when there's 100
+because CFIUS is like, like, it's not going to be like once they say yes, if yes, when there's 100
+10:01fair enough, but I also thought that
+fair enough, but I also thought that
+fair enough, but I also thought that
+fair enough, but I also thought that
+10:06the smaller arm of
+10:13PYA came in in their classrooms
+PYA came in in their classrooms
+PYA came in in their classrooms
+PYA came in in their classrooms
+S Speaker 110:18anyway, So, okay, no, I'm just saying, from a technology perspective, the Lumas of the world, the runways of the world, the
+anyway, So, okay, no, I'm just saying, from a technology perspective, the Lumas of the world, the runways of the world, the
+anyway, So, okay, no, I'm just saying, from a technology perspective, the Lumas of the world, the runways of the world, the
+anyway, So, okay, no, I'm just saying, from a technology perspective, the Lumas of the world, the runways of the world, the
+10:28moon valleys of the world.
+moon valleys of the world.
+moon valleys of the world.
+moon valleys of the world.
+S Speaker 110:33From a tech perspective, they can also go for short for video content, right?
+From a tech perspective, they can also go for short for video content, right?
+From a tech perspective, they can also go for short for video content, right?
+From a tech perspective, they can also go for short for video content, right?
+S Speaker 210:37They could. Yeah, I think that. So we just hired someone that's a refugee from from runway. And the problem with runway is runway went in to Hollywood and basically signed a bunch of exclusive deals, but they can't. They're now not unable to produce content at the pace like so the first big thing is Lionsgate, like Lionsgate, is using our platform for After Effects. It's not, I mean, we're not trying to build movies from scratch, but the stuff that they have tried,
+They could. Yeah, I think that. So we just hired someone that's a refugee from from runway. And the problem with runway is runway went in to Hollywood and basically signed a bunch of exclusive deals, but they can't. They're now not unable to produce content at the pace like so the first big thing is Lionsgate, like Lionsgate, is using our platform for After Effects. It's not, I mean, we're not trying to build movies from scratch, but the stuff that they have tried,
+They could. Yeah, I think that. So we just hired someone that's a refugee from from runway. And the problem with runway is runway went in to Hollywood and basically signed a bunch of exclusive deals, but they can't. They're now not unable to produce content at the pace like so the first big thing is Lionsgate, like Lionsgate, is using our platform for After Effects. It's not, I mean, we're not trying to build movies from scratch, but the stuff that they have tried,
+They could. Yeah, I think that. So we just hired someone that's a refugee from from runway. And the problem with runway is runway went in to Hollywood and basically signed a bunch of exclusive deals, but they can't. They're now not unable to produce content at the pace like so the first big thing is Lionsgate, like Lionsgate, is using our platform for After Effects. It's not, I mean, we're not trying to build movies from scratch, but the stuff that they have tried,
+11:15they have not been able to deliver.
+they have not been able to deliver.
+they have not been able to deliver.
+they have not been able to deliver.
+S Speaker 111:18And where's the state of because there was a Wall Street Journal article, I think,
+And where's the state of because there was a Wall Street Journal article, I think,
+And where's the state of because there was a Wall Street Journal article, I think,
+And where's the state of because there was a Wall Street Journal article, I think,
+11:23yesterday or earlier this week,
+yesterday or earlier this week,
+yesterday or earlier this week,
+yesterday or earlier this week,
+S Speaker 111:27about OpenAI wants to go build movies better than Hollywood can ever do, or cheaper than Hollywood can ever do. Like my guess is, OpenAI will also try to build models I mean,
+about OpenAI wants to go build movies better than Hollywood can ever do, or cheaper than Hollywood can ever do. Like my guess is, OpenAI will also try to build models I mean,
+about OpenAI wants to go build movies better than Hollywood can ever do, or cheaper than Hollywood can ever do. Like my guess is, OpenAI will also try to build models I mean,
+about OpenAI wants to go build movies better than Hollywood can ever do, or cheaper than Hollywood can ever do. Like my guess is, OpenAI will also try to build models I mean,
+11:41so they have Sora. Well,
+so they have Sora. Well,
+so they have Sora. Well,
+so they have Sora. Well,
+11:44Sora, they just had maybe four engineers on Sora.
+Sora, they just had maybe four engineers on Sora.
+Sora, they just had maybe four engineers on Sora.
+Sora, they just had maybe four engineers on Sora.
+S Speaker 211:48And I still think that, like, if you look at the researchers, I mean, to to Luma is credit, they actually have a pretty good bank of researchers, like people that have published that do interesting things, they just haven't been able to parlay that into a product. And so look, there's no question that if OpenAI got really serious about the space, they could go by someone and accelerate that. But at the same time, I think video and visual reasoning is quite different from like core transformer LLM
+And I still think that, like, if you look at the researchers, I mean, to to Luma is credit, they actually have a pretty good bank of researchers, like people that have published that do interesting things, they just haven't been able to parlay that into a product. And so look, there's no question that if OpenAI got really serious about the space, they could go by someone and accelerate that. But at the same time, I think video and visual reasoning is quite different from like core transformer LLM
+And I still think that, like, if you look at the researchers, I mean, to to Luma is credit, they actually have a pretty good bank of researchers, like people that have published that do interesting things, they just haven't been able to parlay that into a product. And so look, there's no question that if OpenAI got really serious about the space, they could go by someone and accelerate that. But at the same time, I think video and visual reasoning is quite different from like core transformer LLM
+And I still think that, like, if you look at the researchers, I mean, to to Luma is credit, they actually have a pretty good bank of researchers, like people that have published that do interesting things, they just haven't been able to parlay that into a product. And so look, there's no question that if OpenAI got really serious about the space, they could go by someone and accelerate that. But at the same time, I think video and visual reasoning is quite different from like core transformer LLM
+S Speaker 112:39research. So essentially, you still think that, like the hayjins of the world, I don't know now, but the hayjins of the world, they're not even saying that I want to go build that team. See what I'm saying. Like, I don't even want to build that team. Captions, I believe now, because they've raised so much money, are now building models, their own models. That's what I remember. I read recently that they're
+research. So essentially, you still think that, like the hayjins of the world, I don't know now, but the hayjins of the world, they're not even saying that I want to go build that team. See what I'm saying. Like, I don't even want to build that team. Captions, I believe now, because they've raised so much money, are now building models, their own models. That's what I remember. I read recently that they're
+research. So essentially, you still think that, like the hayjins of the world, I don't know now, but the hayjins of the world, they're not even saying that I want to go build that team. See what I'm saying. Like, I don't even want to build that team. Captions, I believe now, because they've raised so much money, are now building models, their own models. That's what I remember. I read recently that they're
+research. So essentially, you still think that, like the hayjins of the world, I don't know now, but the hayjins of the world, they're not even saying that I want to go build that team. See what I'm saying. Like, I don't even want to build that team. Captions, I believe now, because they've raised so much money, are now building models, their own models. That's what I remember. I read recently that they're
+S Speaker 213:08building, yeah, you know, a very senior partner at Sequoia. Well, who we? We showed them, you know, they're big in captions and he basically said, Look, if we had seen you guys, we would never invest in captions, because they have a story about
+building, yeah, you know, a very senior partner at Sequoia. Well, who we? We showed them, you know, they're big in captions and he basically said, Look, if we had seen you guys, we would never invest in captions, because they have a story about
+building, yeah, you know, a very senior partner at Sequoia. Well, who we? We showed them, you know, they're big in captions and he basically said, Look, if we had seen you guys, we would never invest in captions, because they have a story about
+building, yeah, you know, a very senior partner at Sequoia. Well, who we? We showed them, you know, they're big in captions and he basically said, Look, if we had seen you guys, we would never invest in captions, because they have a story about
+13:31everything from,
+S Speaker 213:35you know, the model of they don't do competing deals. We never see them in the market,
+you know, the model of they don't do competing deals. We never see them in the market,
+you know, the model of they don't do competing deals. We never see them in the market,
+you know, the model of they don't do competing deals. We never see them in the market,
+13:42no, as in, Sequoia doesn't do competing
+no, as in, Sequoia doesn't do competing
+no, as in, Sequoia doesn't do competing
+no, as in, Sequoia doesn't do competing
+S Speaker 213:45well. I mean, clearly they do,
+well. I mean, clearly they do,
+well. I mean, clearly they do,
+well. I mean, clearly they do,
+S Speaker 113:49yeah, you know, like, that's what we see speak of saying,
+yeah, you know, like, that's what we see speak of saying,
+yeah, you know, like, that's what we see speak of saying,
+yeah, you know, like, that's what we see speak of saying,
+13:54but at the same time.
+but at the same time.
+but at the same time.
+but at the same time.
+13:58So I used to sit on a board with this guy, yeah,
+So I used to sit on a board with this guy, yeah,
+So I used to sit on a board with this guy, yeah,
+So I used to sit on a board with this guy, yeah,
+S Speaker 114:59So let me take a look at this. I was gonna ask, which is, what was a Y axis and x axis, and how you looking at the market? Yeah? So this is artifacts require many iterations.
+So let me take a look at this. I was gonna ask, which is, what was a Y axis and x axis, and how you looking at the market? Yeah? So this is artifacts require many iterations.
+So let me take a look at this. I was gonna ask, which is, what was a Y axis and x axis, and how you looking at the market? Yeah? So this is artifacts require many iterations.
+So let me take a look at this. I was gonna ask, which is, what was a Y axis and x axis, and how you looking at the market? Yeah? So this is artifacts require many iterations.
+S Speaker 215:10Just, just think of it this way, right? The two dimensions is ease of use, yeah, drag and drop, point and click, like we, like one of our customers actually coined it, which is click to video. It's not starting your experience with a prompt box. And then, you know, trying to do prompt engineering, you cannot go get the 27 million people that pay $30 a month to Canva. With that user experience, it's got to be click.
+Just, just think of it this way, right? The two dimensions is ease of use, yeah, drag and drop, point and click, like we, like one of our customers actually coined it, which is click to video. It's not starting your experience with a prompt box. And then, you know, trying to do prompt engineering, you cannot go get the 27 million people that pay $30 a month to Canva. With that user experience, it's got to be click.
+Just, just think of it this way, right? The two dimensions is ease of use, yeah, drag and drop, point and click, like we, like one of our customers actually coined it, which is click to video. It's not starting your experience with a prompt box. And then, you know, trying to do prompt engineering, you cannot go get the 27 million people that pay $30 a month to Canva. With that user experience, it's got to be click.
+Just, just think of it this way, right? The two dimensions is ease of use, yeah, drag and drop, point and click, like we, like one of our customers actually coined it, which is click to video. It's not starting your experience with a prompt box. And then, you know, trying to do prompt engineering, you cannot go get the 27 million people that pay $30 a month to Canva. With that user experience, it's got to be click.
+S Speaker 115:43No one click experience, okay, so that's bad.
+No one click experience, okay, so that's bad.
+No one click experience, okay, so that's bad.
+No one click experience, okay, so that's bad.
+15:47And, and then, then what's
+And, and then, then what's
+And, and then, then what's
+And, and then, then what's
+S Speaker 215:51the x axis is visual accuracy, which is accuracy, yes, so, and this is no variations, visual coherence and and the number of iterations it takes like that level of accuracy, we have almost a 70% download rate of videos generated on our platform, yeah, which really speaks to they're not having to go through a ton of iterations before they get something useful.
+the x axis is visual accuracy, which is accuracy, yes, so, and this is no variations, visual coherence and and the number of iterations it takes like that level of accuracy, we have almost a 70% download rate of videos generated on our platform, yeah, which really speaks to they're not having to go through a ton of iterations before they get something useful.
+the x axis is visual accuracy, which is accuracy, yes, so, and this is no variations, visual coherence and and the number of iterations it takes like that level of accuracy, we have almost a 70% download rate of videos generated on our platform, yeah, which really speaks to they're not having to go through a ton of iterations before they get something useful.
+the x axis is visual accuracy, which is accuracy, yes, so, and this is no variations, visual coherence and and the number of iterations it takes like that level of accuracy, we have almost a 70% download rate of videos generated on our platform, yeah, which really speaks to they're not having to go through a ton of iterations before they get something useful.
+16:23And I think that this is
+And I think that this is
+And I think that this is
+And I think that this is
+S Speaker 116:25where do you put like platforms, like, you know, open art, like, where do you put them in?
+where do you put like platforms, like, you know, open art, like, where do you put them in?
+where do you put like platforms, like, you know, open art, like, where do you put them in?
+where do you put like platforms, like, you know, open art, like, where do you put them in?
+S Speaker 216:33Like, Open Art, if you look at what they do, like, a lot of it is like anime style. It's not photo realism, it's for people that are like
+Like, Open Art, if you look at what they do, like, a lot of it is like anime style. It's not photo realism, it's for people that are like
+Like, Open Art, if you look at what they do, like, a lot of it is like anime style. It's not photo realism, it's for people that are like
+Like, Open Art, if you look at what they do, like, a lot of it is like anime style. It's not photo realism, it's for people that are like
+16:46working on design projects. And
+working on design projects. And
+working on design projects. And
+working on design projects. And
+S Speaker 216:49I think the monetization of something like open art is very challenging. Yeah, they were an early mover, and I think they got some traction that when we, when we look at them as a as someone that comes up in conversations, they never do okay
+I think the monetization of something like open art is very challenging. Yeah, they were an early mover, and I think they got some traction that when we, when we look at them as a as someone that comes up in conversations, they never do okay
+I think the monetization of something like open art is very challenging. Yeah, they were an early mover, and I think they got some traction that when we, when we look at them as a as someone that comes up in conversations, they never do okay
+I think the monetization of something like open art is very challenging. Yeah, they were an early mover, and I think they got some traction that when we, when we look at them as a as someone that comes up in conversations, they never do okay
+17:06for where you like, got it
+for where you like, got it
+for where you like, got it
+for where you like, got it
+S Speaker 117:10mostly I sounds like, Hey, Jen comes up for you.
+mostly I sounds like, Hey, Jen comes up for you.
+mostly I sounds like, Hey, Jen comes up for you.
+mostly I sounds like, Hey, Jen comes up for you.
+S Speaker 217:15You know, hey, Gen comes out in the sense that they like. Synthesia was the first company to really get traction with like avatars, hey Jen was kind of the next follow on. But for us, like our avatars are, are photorealistic, like you could not tell them from humans. Why? I think with Hey Jen, there's still that, you know that the laughter
+You know, hey, Gen comes out in the sense that they like. Synthesia was the first company to really get traction with like avatars, hey Jen was kind of the next follow on. But for us, like our avatars are, are photorealistic, like you could not tell them from humans. Why? I think with Hey Jen, there's still that, you know that the laughter
+You know, hey, Gen comes out in the sense that they like. Synthesia was the first company to really get traction with like avatars, hey Jen was kind of the next follow on. But for us, like our avatars are, are photorealistic, like you could not tell them from humans. Why? I think with Hey Jen, there's still that, you know that the laughter
+You know, hey, Gen comes out in the sense that they like. Synthesia was the first company to really get traction with like avatars, hey Jen was kind of the next follow on. But for us, like our avatars are, are photorealistic, like you could not tell them from humans. Why? I think with Hey Jen, there's still that, you know that the laughter
+S Speaker 117:43being able to give I looked at your avatar, I guess since these avatars also, I was looking at yesterday, wow, even there. I mean, their avatars weren't as good, maybe last year, last year, but now they're getting better, like human avatar, and then companies like Tavis are cool. So the avatar space also,
+being able to give I looked at your avatar, I guess since these avatars also, I was looking at yesterday, wow, even there. I mean, their avatars weren't as good, maybe last year, last year, but now they're getting better, like human avatar, and then companies like Tavis are cool. So the avatar space also,
+being able to give I looked at your avatar, I guess since these avatars also, I was looking at yesterday, wow, even there. I mean, their avatars weren't as good, maybe last year, last year, but now they're getting better, like human avatar, and then companies like Tavis are cool. So the avatar space also,
+being able to give I looked at your avatar, I guess since these avatars also, I was looking at yesterday, wow, even there. I mean, their avatars weren't as good, maybe last year, last year, but now they're getting better, like human avatar, and then companies like Tavis are cool. So the avatar space also,
+S Speaker 218:05yeah, but I think, I think that the issue with avatars is there's a couple of things. One is, how do you create character consistency? And like with Synthesia, they did it because there's a fixed number of, you know, sort of models and permutations. I think Hagen has tried to do a little bit more while ours, you know, you can, you can take a real human use that as reference, build your avatar on that, and and character consistency, from not just like frame to frame, but from, you know, different iterations of production, yeah, keeping that consistent. I think that's where we stand, okay, head and shoulders above. So there's a couple of things I wanted to showcase Yeah, on where we made the market, right? We were the first people to have these templates and presets for VFX. There's a lot of people that have tried to cut to copy that draw the video. The fact that you could upload something, you can scribble on it
+yeah, but I think, I think that the issue with avatars is there's a couple of things. One is, how do you create character consistency? And like with Synthesia, they did it because there's a fixed number of, you know, sort of models and permutations. I think Hagen has tried to do a little bit more while ours, you know, you can, you can take a real human use that as reference, build your avatar on that, and and character consistency, from not just like frame to frame, but from, you know, different iterations of production, yeah, keeping that consistent. I think that's where we stand, okay, head and shoulders above. So there's a couple of things I wanted to showcase Yeah, on where we made the market, right? We were the first people to have these templates and presets for VFX. There's a lot of people that have tried to cut to copy that draw the video. The fact that you could upload something, you can scribble on it
+yeah, but I think, I think that the issue with avatars is there's a couple of things. One is, how do you create character consistency? And like with Synthesia, they did it because there's a fixed number of, you know, sort of models and permutations. I think Hagen has tried to do a little bit more while ours, you know, you can, you can take a real human use that as reference, build your avatar on that, and and character consistency, from not just like frame to frame, but from, you know, different iterations of production, yeah, keeping that consistent. I think that's where we stand, okay, head and shoulders above. So there's a couple of things I wanted to showcase Yeah, on where we made the market, right? We were the first people to have these templates and presets for VFX. There's a lot of people that have tried to cut to copy that draw the video. The fact that you could upload something, you can scribble on it
+yeah, but I think, I think that the issue with avatars is there's a couple of things. One is, how do you create character consistency? And like with Synthesia, they did it because there's a fixed number of, you know, sort of models and permutations. I think Hagen has tried to do a little bit more while ours, you know, you can, you can take a real human use that as reference, build your avatar on that, and and character consistency, from not just like frame to frame, but from, you know, different iterations of production, yeah, keeping that consistent. I think that's where we stand, okay, head and shoulders above. So there's a couple of things I wanted to showcase Yeah, on where we made the market, right? We were the first people to have these templates and presets for VFX. There's a lot of people that have tried to cut to copy that draw the video. The fact that you could upload something, you can scribble on it
+19:16that was yours, right? Like that.
+that was yours, right? Like that.
+that was yours, right? Like that.
+that was yours, right? Like that.
+19:20The furniture. Yeah.
+S Speaker 219:23And then with soul and soul ID, it's this idea that you can extract the soul of an image and then apply that to what does that mean? It may be a style, but Well, it's capturing the soul of a scene, right? So objects in the scene, who's in it, and then being able to use that as reference for a building,
+And then with soul and soul ID, it's this idea that you can extract the soul of an image and then apply that to what does that mean? It may be a style, but Well, it's capturing the soul of a scene, right? So objects in the scene, who's in it, and then being able to use that as reference for a building,
+And then with soul and soul ID, it's this idea that you can extract the soul of an image and then apply that to what does that mean? It may be a style, but Well, it's capturing the soul of a scene, right? So objects in the scene, who's in it, and then being able to use that as reference for a building,
+And then with soul and soul ID, it's this idea that you can extract the soul of an image and then apply that to what does that mean? It may be a style, but Well, it's capturing the soul of a scene, right? So objects in the scene, who's in it, and then being able to use that as reference for a building,
+S Speaker 119:49like, is it generated? So it's a color to like,
+like, is it generated? So it's a color to like,
+like, is it generated? So it's a color to like,
+like, is it generated? So it's a color to like,
+19:55just the style, the
+S Speaker 219:58filters, or no, it's actually the content itself, the vibe, yeah, yeah. It's kind of the vibe of it, yeah. But it's also, it's being able to build a full 3d model with whatever that you're sampling and and to be able to render that with very strong visual.
+filters, or no, it's actually the content itself, the vibe, yeah, yeah. It's kind of the vibe of it, yeah. But it's also, it's being able to build a full 3d model with whatever that you're sampling and and to be able to render that with very strong visual.
+filters, or no, it's actually the content itself, the vibe, yeah, yeah. It's kind of the vibe of it, yeah. But it's also, it's being able to build a full 3d model with whatever that you're sampling and and to be able to render that with very strong visual.
+filters, or no, it's actually the content itself, the vibe, yeah, yeah. It's kind of the vibe of it, yeah. But it's also, it's being able to build a full 3d model with whatever that you're sampling and and to be able to render that with very strong visual.
+S Speaker 120:22So this is I've got an image, and I say, take this image and then extract the soul of this and then apply it to another image, anything you wanted, or generate an image or apply it to another image that I have.
+So this is I've got an image, and I say, take this image and then extract the soul of this and then apply it to another image, anything you wanted, or generate an image or apply it to another image that I have.
+So this is I've got an image, and I say, take this image and then extract the soul of this and then apply it to another image, anything you wanted, or generate an image or apply it to another image that I have.
+So this is I've got an image, and I say, take this image and then extract the soul of this and then apply it to another image, anything you wanted, or generate an image or apply it to another image that I have.
+S Speaker 220:36Yeah, but probably the highest use case is taking a you know, a image, like a camera shot, and then be able to turn whatever object in that scene into full motion video. So it might be the person in the middle this so for some reason that the colors aren't right, but,
+Yeah, but probably the highest use case is taking a you know, a image, like a camera shot, and then be able to turn whatever object in that scene into full motion video. So it might be the person in the middle this so for some reason that the colors aren't right, but,
+Yeah, but probably the highest use case is taking a you know, a image, like a camera shot, and then be able to turn whatever object in that scene into full motion video. So it might be the person in the middle this so for some reason that the colors aren't right, but,
+Yeah, but probably the highest use case is taking a you know, a image, like a camera shot, and then be able to turn whatever object in that scene into full motion video. So it might be the person in the middle this so for some reason that the colors aren't right, but,
+20:59oh yeah, yeah, yeah,
+S Speaker 121:07that looks like an alien. Yeah, that's blue, okay, got it, got it.
+that looks like an alien. Yeah, that's blue, okay, got it, got it.
+that looks like an alien. Yeah, that's blue, okay, got it, got it.
+that looks like an alien. Yeah, that's blue, okay, got it, got it.
+S Speaker 221:15Got it. But be able to, you know, take the car, turn that into full motion video, take the person you know the scenery, be able to do different camera angles, which is is quite a bit different than the typical sort of prompt driven
+Got it. But be able to, you know, take the car, turn that into full motion video, take the person you know the scenery, be able to do different camera angles, which is is quite a bit different than the typical sort of prompt driven
+Got it. But be able to, you know, take the car, turn that into full motion video, take the person you know the scenery, be able to do different camera angles, which is is quite a bit different than the typical sort of prompt driven
+Got it. But be able to, you know, take the car, turn that into full motion video, take the person you know the scenery, be able to do different camera angles, which is is quite a bit different than the typical sort of prompt driven
+21:32transformations.
+S Speaker 221:37So maybe it's better. I could just turn this around and you guys could hear. So when we first launched this stuff, we didn't,
+So maybe it's better. I could just turn this around and you guys could hear. So when we first launched this stuff, we didn't,
+So maybe it's better. I could just turn this around and you guys could hear. So when we first launched this stuff, we didn't,
+So maybe it's better. I could just turn this around and you guys could hear. So when we first launched this stuff, we didn't,
+S Speaker 122:38and the results will be better than Yeah.
+and the results will be better than Yeah.
+and the results will be better than Yeah.
+and the results will be better than Yeah.
+S Speaker 222:41So thank you. So we've even noticed this, that there's a particular promotion video that Google uses for vo three that was actually output from our and that's that's just understanding the strengths and weaknesses and being able to post train.
+So thank you. So we've even noticed this, that there's a particular promotion video that Google uses for vo three that was actually output from our and that's that's just understanding the strengths and weaknesses and being able to post train.
+So thank you. So we've even noticed this, that there's a particular promotion video that Google uses for vo three that was actually output from our and that's that's just understanding the strengths and weaknesses and being able to post train.
+So thank you. So we've even noticed this, that there's a particular promotion video that Google uses for vo three that was actually output from our and that's that's just understanding the strengths and weaknesses and being able to post train.
+S Speaker 323:02So the VO three fast model that you have on your platform is that your own post train model.
+So the VO three fast model that you have on your platform is that your own post train model.
+So the VO three fast model that you have on your platform is that your own post train model.
+So the VO three fast model that you have on your platform is that your own post train model.
+S Speaker 223:06Yeah, everything you see is post trained for us. But unlike an open source model, where we can get into, you know, the guts of it with with VO three, and pretty much all of these. They're closed source, so it's all API integration, and the post training is, is our interface, both in and out of the right the system. So let me play a few examples for you pretty good.
+Yeah, everything you see is post trained for us. But unlike an open source model, where we can get into, you know, the guts of it with with VO three, and pretty much all of these. They're closed source, so it's all API integration, and the post training is, is our interface, both in and out of the right the system. So let me play a few examples for you pretty good.
+Yeah, everything you see is post trained for us. But unlike an open source model, where we can get into, you know, the guts of it with with VO three, and pretty much all of these. They're closed source, so it's all API integration, and the post training is, is our interface, both in and out of the right the system. So let me play a few examples for you pretty good.
+Yeah, everything you see is post trained for us. But unlike an open source model, where we can get into, you know, the guts of it with with VO three, and pretty much all of these. They're closed source, so it's all API integration, and the post training is, is our interface, both in and out of the right the system. So let me play a few examples for you pretty good.
+23:46Nowadays it's easy to sell something
+Nowadays it's easy to sell something
+Nowadays it's easy to sell something
+Nowadays it's easy to sell something
+24:00these humans are also about your business.
+these humans are also about your business.
+these humans are also about your business.
+these humans are also about your business.
+24:04Generally, there's no humans. These are all synthetic
+Generally, there's no humans. These are all synthetic
+Generally, there's no humans. These are all synthetic
+Generally, there's no humans. These are all synthetic
+S Speaker 424:07fields sold to create a photorealistic scene, choosing one of the presets then integrate your product using Higgs field canvas. The last step is our UGC builder powered by Vo three type in desired actions and phrases, choose voice type and emotion and add some background sounds. It's easy,
+fields sold to create a photorealistic scene, choosing one of the presets then integrate your product using Higgs field canvas. The last step is our UGC builder powered by Vo three type in desired actions and phrases, choose voice type and emotion and add some background sounds. It's easy,
+fields sold to create a photorealistic scene, choosing one of the presets then integrate your product using Higgs field canvas. The last step is our UGC builder powered by Vo three type in desired actions and phrases, choose voice type and emotion and add some background sounds. It's easy,
+fields sold to create a photorealistic scene, choosing one of the presets then integrate your product using Higgs field canvas. The last step is our UGC builder powered by Vo three type in desired actions and phrases, choose voice type and emotion and add some background sounds. It's easy,
+S Speaker 224:37so to just kind of talk about customer journey, right? Let's say you're, you're a designer working on an ad product. You show up at our platform, you might pick a template, you can play around with it, kind of get to know what it is. And then you upgrade, upgrade your product. I mean, upload your product, and like, in a few minutes, you get a fully working rendering of this. And you know, you can, of course, change the background and do whatever enhancements you want to do to that. So speak, which is our, you know, we call them brand ambassadors, but it's our digital avatar.
+so to just kind of talk about customer journey, right? Let's say you're, you're a designer working on an ad product. You show up at our platform, you might pick a template, you can play around with it, kind of get to know what it is. And then you upgrade, upgrade your product. I mean, upload your product, and like, in a few minutes, you get a fully working rendering of this. And you know, you can, of course, change the background and do whatever enhancements you want to do to that. So speak, which is our, you know, we call them brand ambassadors, but it's our digital avatar.
+so to just kind of talk about customer journey, right? Let's say you're, you're a designer working on an ad product. You show up at our platform, you might pick a template, you can play around with it, kind of get to know what it is. And then you upgrade, upgrade your product. I mean, upload your product, and like, in a few minutes, you get a fully working rendering of this. And you know, you can, of course, change the background and do whatever enhancements you want to do to that. So speak, which is our, you know, we call them brand ambassadors, but it's our digital avatar.
+so to just kind of talk about customer journey, right? Let's say you're, you're a designer working on an ad product. You show up at our platform, you might pick a template, you can play around with it, kind of get to know what it is. And then you upgrade, upgrade your product. I mean, upload your product, and like, in a few minutes, you get a fully working rendering of this. And you know, you can, of course, change the background and do whatever enhancements you want to do to that. So speak, which is our, you know, we call them brand ambassadors, but it's our digital avatar.
+25:24Good morning. And to the top
+Good morning. And to the top
+Good morning. And to the top
+Good morning. And to the top
+S Speaker 525:27story about this new thing. If you want to achieve success, you need the one specific thing, and today, we're gonna make that thing from scratch, apply that thing to your face, and you'll feel how that thing
+story about this new thing. If you want to achieve success, you need the one specific thing, and today, we're gonna make that thing from scratch, apply that thing to your face, and you'll feel how that thing
+story about this new thing. If you want to achieve success, you need the one specific thing, and today, we're gonna make that thing from scratch, apply that thing to your face, and you'll feel how that thing
+story about this new thing. If you want to achieve success, you need the one specific thing, and today, we're gonna make that thing from scratch, apply that thing to your face, and you'll feel how that thing
+25:38works. Now I want this thing first.
+works. Now I want this thing first.
+works. Now I want this thing first.
+works. Now I want this thing first.
+25:47I can't believe they did that thing.
+I can't believe they did that thing.
+I can't believe they did that thing.
+I can't believe they did that thing.
+25:51I've never seen a thing like this one. I know how to do the right thing.
+I've never seen a thing like this one. I know how to do the right thing.
+I've never seen a thing like this one. I know how to do the right thing.
+I've never seen a thing like this one. I know how to do the right thing.
+S Speaker 625:55Now it's your turn. It was my idea, my thing. You can even make dog thing.
+Now it's your turn. It was my idea, my thing. You can even make dog thing.
+Now it's your turn. It was my idea, my thing. You can even make dog thing.
+Now it's your turn. It was my idea, my thing. You can even make dog thing.
+26:03That thing rocks. The thing is happening
+That thing rocks. The thing is happening
+That thing rocks. The thing is happening
+That thing rocks. The thing is happening
+26:07here. It's the Costa city.
+here. It's the Costa city.
+here. It's the Costa city.
+here. It's the Costa city.
+S Speaker 726:10Buy that thing right now. Use that thing right now and be ahead of everyone. Oh, one more thing I you.
+Buy that thing right now. Use that thing right now and be ahead of everyone. Oh, one more thing I you.
+Buy that thing right now. Use that thing right now and be ahead of everyone. Oh, one more thing I you.
+Buy that thing right now. Use that thing right now and be ahead of everyone. Oh, one more thing I you.

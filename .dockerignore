@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.db
+.DS_Store
+.git/
+.gitignore
+downloads/
+otter_download.log
+.otter_state.json
+.otter_session.json
+.venv/
+venv/
+node_modules/

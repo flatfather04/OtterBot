@@ -1,0 +1,500 @@
+Meeting: IM Meeting 9/30
+Mon, Sep 30, 2024
+1:32 PM
+1 h 29 min
+Priyesh P
+Kubernetes Deployment Challenges and 
+URL: https://otter.ai/u/iUMtdxBQj_RUgAi8SOAsAglAhc8
+Downloaded: 2025-12-22T14:16:18.955965
+Method: text_extraction
+============================================================
+
+S Speaker 10:00Yeah, the discussion was interesting because one of the leads from the BU mentioned that Kubernetes in industrial is not a big ask for Qualcomm customers today. Okay, right. So
+Yeah, the discussion was interesting because one of the leads from the BU mentioned that Kubernetes in industrial is not a big ask for Qualcomm customers today. Okay, right. So
+Yeah, the discussion was interesting because one of the leads from the BU mentioned that Kubernetes in industrial is not a big ask for Qualcomm customers today. Okay, right. So
+Yeah, the discussion was interesting because one of the leads from the BU mentioned that Kubernetes in industrial is not a big ask for Qualcomm customers today. Okay, right. So
+S Speaker 11:20but regardless, not intentionally. He didn't blew it intensely. I
+but regardless, not intentionally. He didn't blew it intensely. I
+but regardless, not intentionally. He didn't blew it intensely. I
+but regardless, not intentionally. He didn't blew it intensely. I
+S Speaker 32:59So can you table and then can you do me a favor? Do us all a few? Yeah, update this table and state special calling it and then fill out the
+So can you table and then can you do me a favor? Do us all a few? Yeah, update this table and state special calling it and then fill out the
+So can you table and then can you do me a favor? Do us all a few? Yeah, update this table and state special calling it and then fill out the
+So can you table and then can you do me a favor? Do us all a few? Yeah, update this table and state special calling it and then fill out the
+S Speaker 33:16just, just when? When is you anticipate this funding calls that roughly the amount, okay, elevator screen sounds good,
+just, just when? When is you anticipate this funding calls that roughly the amount, okay, elevator screen sounds good,
+just, just when? When is you anticipate this funding calls that roughly the amount, okay, elevator screen sounds good,
+just, just when? When is you anticipate this funding calls that roughly the amount, okay, elevator screen sounds good,
+S Speaker 33:34Okay, okay, so at least we have this on the on this table every week. We'll see. Yeah. Okay, good. So we'll, we'll get, we'll get 60% provider. Sounds like, yeah, 1.3 1.3
+Okay, okay, so at least we have this on the on this table every week. We'll see. Yeah. Okay, good. So we'll, we'll get, we'll get 60% provider. Sounds like, yeah, 1.3 1.3
+Okay, okay, so at least we have this on the on this table every week. We'll see. Yeah. Okay, good. So we'll, we'll get, we'll get 60% provider. Sounds like, yeah, 1.3 1.3
+Okay, okay, so at least we have this on the on this table every week. We'll see. Yeah. Okay, good. So we'll, we'll get, we'll get 60% provider. Sounds like, yeah, 1.3 1.3
+S Speaker 34:00And then on the strategic stuff you figure out, right? So, yes,
+And then on the strategic stuff you figure out, right? So, yes,
+And then on the strategic stuff you figure out, right? So, yes,
+And then on the strategic stuff you figure out, right? So, yes,
+S Speaker 14:03I mean, I am. We were thinking about getting a meeting with Cisco, but Albert mentioned that even it front they don't have any urgency. So whoever, whoever Deepak starts working with you
+I mean, I am. We were thinking about getting a meeting with Cisco, but Albert mentioned that even it front they don't have any urgency. So whoever, whoever Deepak starts working with you
+I mean, I am. We were thinking about getting a meeting with Cisco, but Albert mentioned that even it front they don't have any urgency. So whoever, whoever Deepak starts working with you
+I mean, I am. We were thinking about getting a meeting with Cisco, but Albert mentioned that even it front they don't have any urgency. So whoever, whoever Deepak starts working with you
+S Speaker 24:22didn't even leave that whoever's Deepak starts working with I've seen this trend.
+didn't even leave that whoever's Deepak starts working with I've seen this trend.
+didn't even leave that whoever's Deepak starts working with I've seen this trend.
+didn't even leave that whoever's Deepak starts working with I've seen this trend.
+4:35No, so I think on the it front, if we can do something
+No, so I think on the it front, if we can do something
+No, so I think on the it front, if we can do something
+No, so I think on the it front, if we can do something
+S Speaker 44:41right now, no, they extend the contract with
+S Speaker 14:47so that's that's on VMware, right? Albert, what about rancher? Rancher also is the same thing.
+so that's that's on VMware, right? Albert, what about rancher? Rancher also is the same thing.
+so that's that's on VMware, right? Albert, what about rancher? Rancher also is the same thing.
+so that's that's on VMware, right? Albert, what about rancher? Rancher also is the same thing.
+S Speaker 44:54They're thinking about using, continue to use rancher for Kubernetes management. They're thinking about using structure to VM
+They're thinking about using, continue to use rancher for Kubernetes management. They're thinking about using structure to VM
+They're thinking about using, continue to use rancher for Kubernetes management. They're thinking about using structure to VM
+They're thinking about using, continue to use rancher for Kubernetes management. They're thinking about using structure to VM
+S Speaker 15:08Kubernetes. That's the open source, open source version, yeah,
+Kubernetes. That's the open source, open source version, yeah,
+Kubernetes. That's the open source, open source version, yeah,
+Kubernetes. That's the open source, open source version, yeah,
+S Speaker 15:20I think, I think Rancho. My lead is Rancho can move we are not happy with Rancho. Let me, let me put it this way. I know for a file that
+I think, I think Rancho. My lead is Rancho can move we are not happy with Rancho. Let me, let me put it this way. I know for a file that
+I think, I think Rancho. My lead is Rancho can move we are not happy with Rancho. Let me, let me put it this way. I know for a file that
+I think, I think Rancho. My lead is Rancho can move we are not happy with Rancho. Let me, let me put it this way. I know for a file that
+S Speaker 35:28if I can, we just, can you set up maybe a 15 minutes offline. Let's figure this out. I don't
+if I can, we just, can you set up maybe a 15 minutes offline. Let's figure this out. I don't
+if I can, we just, can you set up maybe a 15 minutes offline. Let's figure this out. I don't
+if I can, we just, can you set up maybe a 15 minutes offline. Let's figure this out. I don't
+S Speaker 15:34know, sounds good, sounds good. We can do that. And the next part path is QC es, he's still in the company I'm working with, working with slomo and QCS, and there's another path there to Quinn, so I'll set up 15 minutes. Let's think upon what we can do strategically. Yeah,
+know, sounds good, sounds good. We can do that. And the next part path is QC es, he's still in the company I'm working with, working with slomo and QCS, and there's another path there to Quinn, so I'll set up 15 minutes. Let's think upon what we can do strategically. Yeah,
+know, sounds good, sounds good. We can do that. And the next part path is QC es, he's still in the company I'm working with, working with slomo and QCS, and there's another path there to Quinn, so I'll set up 15 minutes. Let's think upon what we can do strategically. Yeah,
+know, sounds good, sounds good. We can do that. And the next part path is QC es, he's still in the company I'm working with, working with slomo and QCS, and there's another path there to Quinn, so I'll set up 15 minutes. Let's think upon what we can do strategically. Yeah,
+S Speaker 56:02these last you guys recall real world was merging with a small or acquired a small company based in Europe called Omer. That deal is almost closed, still waiting on signature. So it's not only closed yet. From that time, we have 30 days to decide if we want to join the pay to play front. Yeah, pay to play around. Basically for everyone's context came about because real ware has like $118 million of preference deck. Yeah, they try to reduce the other company as a preference deck that you have combined. Companies are worth around 75 together, right? But the two greens together, yeah, so they want to reduce the preference, to get roughly in line and give management some room. Ben said, The future the company is still real aware for the next year. So, yeah,
+these last you guys recall real world was merging with a small or acquired a small company based in Europe called Omer. That deal is almost closed, still waiting on signature. So it's not only closed yet. From that time, we have 30 days to decide if we want to join the pay to play front. Yeah, pay to play around. Basically for everyone's context came about because real ware has like $118 million of preference deck. Yeah, they try to reduce the other company as a preference deck that you have combined. Companies are worth around 75 together, right? But the two greens together, yeah, so they want to reduce the preference, to get roughly in line and give management some room. Ben said, The future the company is still real aware for the next year. So, yeah,
+these last you guys recall real world was merging with a small or acquired a small company based in Europe called Omer. That deal is almost closed, still waiting on signature. So it's not only closed yet. From that time, we have 30 days to decide if we want to join the pay to play front. Yeah, pay to play around. Basically for everyone's context came about because real ware has like $118 million of preference deck. Yeah, they try to reduce the other company as a preference deck that you have combined. Companies are worth around 75 together, right? But the two greens together, yeah, so they want to reduce the preference, to get roughly in line and give management some room. Ben said, The future the company is still real aware for the next year. So, yeah,
+these last you guys recall real world was merging with a small or acquired a small company based in Europe called Omer. That deal is almost closed, still waiting on signature. So it's not only closed yet. From that time, we have 30 days to decide if we want to join the pay to play front. Yeah, pay to play around. Basically for everyone's context came about because real ware has like $118 million of preference deck. Yeah, they try to reduce the other company as a preference deck that you have combined. Companies are worth around 75 together, right? But the two greens together, yeah, so they want to reduce the preference, to get roughly in line and give management some room. Ben said, The future the company is still real aware for the next year. So, yeah,
+S Speaker 36:56what I remember, I don't know who the email was sent to, was you're going to come back with some recognition, yeah, if we can get comfortable
+what I remember, I don't know who the email was sent to, was you're going to come back with some recognition, yeah, if we can get comfortable
+what I remember, I don't know who the email was sent to, was you're going to come back with some recognition, yeah, if we can get comfortable
+what I remember, I don't know who the email was sent to, was you're going to come back with some recognition, yeah, if we can get comfortable
+S Speaker 57:07to figure out that, because largely 2025, is going to be still again,
+to figure out that, because largely 2025, is going to be still again,
+to figure out that, because largely 2025, is going to be still again,
+to figure out that, because largely 2025, is going to be still again,
+S Speaker 37:11where so can we, maybe you not really take this guys, right? No,
+where so can we, maybe you not really take this guys, right? No,
+where so can we, maybe you not really take this guys, right? No,
+where so can we, maybe you not really take this guys, right? No,
+S Speaker 57:15no, I don't know what the transaction looks like midweek, because our pro rata, not that that matters all that much. Depending on who comes in around, that determines what
+no, I don't know what the transaction looks like midweek, because our pro rata, not that that matters all that much. Depending on who comes in around, that determines what
+no, I don't know what the transaction looks like midweek, because our pro rata, not that that matters all that much. Depending on who comes in around, that determines what
+no, I don't know what the transaction looks like midweek, because our pro rata, not that that matters all that much. Depending on who comes in around, that determines what
+7:30give a better outline of it. Next Monday, yeah,
+S Speaker 37:32but when do you think it's good time to talk about it? I guess. Let me ask you this, do we film that when we come up
+but when do you think it's good time to talk about it? I guess. Let me ask you this, do we film that when we come up
+but when do you think it's good time to talk about it? I guess. Let me ask you this, do we film that when we come up
+but when do you think it's good time to talk about it? I guess. Let me ask you this, do we film that when we come up
+7:37to his promotion? Be fine. Okay, so let's put on
+S Speaker 57:43done earlier, I'll do it next week. If not, I'll do the following. Okay,
+done earlier, I'll do it next week. If not, I'll do the following. Okay,
+done earlier, I'll do it next week. If not, I'll do the following. Okay,
+done earlier, I'll do it next week. If not, I'll do the following. Okay,
+S Speaker 37:47okay, so let's put on the agenda next week and he's not ready. Was
+okay, so let's put on the agenda next week and he's not ready. Was
+okay, so let's put on the agenda next week and he's not ready. Was
+okay, so let's put on the agenda next week and he's not ready. Was
+S Speaker 68:04the full on readout and the analysis is already, I sent over the email to Carlos. I think it's just a penny for, you know, Carlos sent over, okay, yeah, it
+the full on readout and the analysis is already, I sent over the email to Carlos. I think it's just a penny for, you know, Carlos sent over, okay, yeah, it
+the full on readout and the analysis is already, I sent over the email to Carlos. I think it's just a penny for, you know, Carlos sent over, okay, yeah, it
+the full on readout and the analysis is already, I sent over the email to Carlos. I think it's just a penny for, you know, Carlos sent over, okay, yeah, it
+S Speaker 78:15was, yeah, I saw it down. Oh, by the way, I need to do the compliance review as well. So compliance, haven't
+was, yeah, I saw it down. Oh, by the way, I need to do the compliance review as well. So compliance, haven't
+was, yeah, I saw it down. Oh, by the way, I need to do the compliance review as well. So compliance, haven't
+was, yeah, I saw it down. Oh, by the way, I need to do the compliance review as well. So compliance, haven't
+S Speaker 68:27No, no, yeah, I think we gave him the hints we don't want to call with him on Wednesday. I think my recommendation is to do the parada. So as long I think he understanding
+No, no, yeah, I think we gave him the hints we don't want to call with him on Wednesday. I think my recommendation is to do the parada. So as long I think he understanding
+No, no, yeah, I think we gave him the hints we don't want to call with him on Wednesday. I think my recommendation is to do the parada. So as long I think he understanding
+No, no, yeah, I think we gave him the hints we don't want to call with him on Wednesday. I think my recommendation is to do the parada. So as long I think he understanding
+S Speaker 38:39we do more than a parada here is tiny. It's at 20k
+S Speaker 68:46according to my analysis. I think we could, yeah,
+S Speaker 38:55more Morpheus or not, Morpheus, sorry, the early stage fund embark there in early and they said they might even put some more dollars because the valuation is so attractive and legal is putting 500k personal chat,
+more Morpheus or not, Morpheus, sorry, the early stage fund embark there in early and they said they might even put some more dollars because the valuation is so attractive and legal is putting 500k personal chat,
+more Morpheus or not, Morpheus, sorry, the early stage fund embark there in early and they said they might even put some more dollars because the valuation is so attractive and legal is putting 500k personal chat,
+more Morpheus or not, Morpheus, sorry, the early stage fund embark there in early and they said they might even put some more dollars because the valuation is so attractive and legal is putting 500k personal chat,
+S Speaker 39:16I'm not advocating we do a million or anything like that. Okay, good.
+I'm not advocating we do a million or anything like that. Okay, good.
+I'm not advocating we do a million or anything like that. Okay, good.
+I'm not advocating we do a million or anything like that. Okay, good.
+S Speaker 79:22I can. I can roll another analysis or add on, like another table to show the return for having more, maybe 1.5 Parana, right now, I did a one times. Parana, yeah, let's
+I can. I can roll another analysis or add on, like another table to show the return for having more, maybe 1.5 Parana, right now, I did a one times. Parana, yeah, let's
+I can. I can roll another analysis or add on, like another table to show the return for having more, maybe 1.5 Parana, right now, I did a one times. Parana, yeah, let's
+I can. I can roll another analysis or add on, like another table to show the return for having more, maybe 1.5 Parana, right now, I did a one times. Parana, yeah, let's
+S Speaker 39:35say maybe, maybe the analysis should be if we did 2x Yeah,
+say maybe, maybe the analysis should be if we did 2x Yeah,
+say maybe, maybe the analysis should be if we did 2x Yeah,
+say maybe, maybe the analysis should be if we did 2x Yeah,
+S Speaker 39:53So this one, naggy, you who added this? You? You added special color, the Deepak. Oh, you did we need to add the MVF to this table. Yeah, the timeline, everything so that we know. Okay, otherwise, october 28 to close you, please just add this to the bottom of the table. Okay,
+So this one, naggy, you who added this? You? You added special color, the Deepak. Oh, you did we need to add the MVF to this table. Yeah, the timeline, everything so that we know. Okay, otherwise, october 28 to close you, please just add this to the bottom of the table. Okay,
+So this one, naggy, you who added this? You? You added special color, the Deepak. Oh, you did we need to add the MVF to this table. Yeah, the timeline, everything so that we know. Okay, otherwise, october 28 to close you, please just add this to the bottom of the table. Okay,
+So this one, naggy, you who added this? You? You added special color, the Deepak. Oh, you did we need to add the MVF to this table. Yeah, the timeline, everything so that we know. Okay, otherwise, october 28 to close you, please just add this to the bottom of the table. Okay,
+10:21you could put a range of them out, like 240k okay,
+S Speaker 310:42so rich didn't talk about me over next week or the week after India, we had decided is 200 or 400 but many more 200 right? So we're gonna do the bigger play. Otherwise we're gonna get washed out and we have seven happening, seven and four, I don't remember, seven. Spiritual is 1.3 ish. Now we probably can't get more. Anything else that should be it, right? And here's the following. Anything else you
+so rich didn't talk about me over next week or the week after India, we had decided is 200 or 400 but many more 200 right? So we're gonna do the bigger play. Otherwise we're gonna get washed out and we have seven happening, seven and four, I don't remember, seven. Spiritual is 1.3 ish. Now we probably can't get more. Anything else that should be it, right? And here's the following. Anything else you
+so rich didn't talk about me over next week or the week after India, we had decided is 200 or 400 but many more 200 right? So we're gonna do the bigger play. Otherwise we're gonna get washed out and we have seven happening, seven and four, I don't remember, seven. Spiritual is 1.3 ish. Now we probably can't get more. Anything else that should be it, right? And here's the following. Anything else you
+so rich didn't talk about me over next week or the week after India, we had decided is 200 or 400 but many more 200 right? So we're gonna do the bigger play. Otherwise we're gonna get washed out and we have seven happening, seven and four, I don't remember, seven. Spiritual is 1.3 ish. Now we probably can't get more. Anything else that should be it, right? And here's the following. Anything else you
+S Speaker 511:26Yeah, no movement. But we know that there's a follow on coming,
+Yeah, no movement. But we know that there's a follow on coming,
+Yeah, no movement. But we know that there's a follow on coming,
+Yeah, no movement. But we know that there's a follow on coming,
+S Speaker 311:31right? That's fine, and we don't know. We don't know these are actually all active.
+right? That's fine, and we don't know. We don't know these are actually all active.
+right? That's fine, and we don't know. We don't know these are actually all active.
+right? That's fine, and we don't know. We don't know these are actually all active.
+S Speaker 311:53and then the rest of it, because how do we prioritize this stuff on the later summary?
+and then the rest of it, because how do we prioritize this stuff on the later summary?
+and then the rest of it, because how do we prioritize this stuff on the later summary?
+and then the rest of it, because how do we prioritize this stuff on the later summary?
+S Speaker 312:03areas. Let's finish Christa first, then we go to the Yeah. It was fine.
+areas. Let's finish Christa first, then we go to the Yeah. It was fine.
+areas. Let's finish Christa first, then we go to the Yeah. It was fine.
+areas. Let's finish Christa first, then we go to the Yeah. It was fine.
+S Speaker 315:19Yeah, if you guys interested in that diligence report is the is the kick is the
+Yeah, if you guys interested in that diligence report is the is the kick is the
+Yeah, if you guys interested in that diligence report is the is the kick is the
+Yeah, if you guys interested in that diligence report is the is the kick is the
+15:25who's the diligence report is not wrong, right? The other
+who's the diligence report is not wrong, right? The other
+who's the diligence report is not wrong, right? The other
+who's the diligence report is not wrong, right? The other
+S Speaker 715:28it's from the time that they engage the older one, they engage the third party, older one to do, the oligarch to do the diligence. Yeah. So they did over like, I think they're at least one month diligence on this. They talk to many, many people, pretty comprehensive. So, yeah,
+it's from the time that they engage the older one, they engage the third party, older one to do, the oligarch to do the diligence. Yeah. So they did over like, I think they're at least one month diligence on this. They talk to many, many people, pretty comprehensive. So, yeah,
+it's from the time that they engage the older one, they engage the third party, older one to do, the oligarch to do the diligence. Yeah. So they did over like, I think they're at least one month diligence on this. They talk to many, many people, pretty comprehensive. So, yeah,
+it's from the time that they engage the older one, they engage the third party, older one to do, the oligarch to do the diligence. Yeah. So they did over like, I think they're at least one month diligence on this. They talk to many, many people, pretty comprehensive. So, yeah,
+S Speaker 215:52which is what? So this, the VC firm hired a third party to do diligence, all the diligence. Yes,
+which is what? So this, the VC firm hired a third party to do diligence, all the diligence. Yes,
+which is what? So this, the VC firm hired a third party to do diligence, all the diligence. Yes,
+which is what? So this, the VC firm hired a third party to do diligence, all the diligence. Yes,
+S Speaker 216:05Oh, the Qatar. So I'm the so for this third party, I'm curious, in this 200 page report, did they highlight anything, you know, like, is this buy side, sell side, which is, did they highlight any risk? Like, out of all these calls, I'm curious to know if they, you know if it's all positive, were they just,
+Oh, the Qatar. So I'm the so for this third party, I'm curious, in this 200 page report, did they highlight anything, you know, like, is this buy side, sell side, which is, did they highlight any risk? Like, out of all these calls, I'm curious to know if they, you know if it's all positive, were they just,
+Oh, the Qatar. So I'm the so for this third party, I'm curious, in this 200 page report, did they highlight anything, you know, like, is this buy side, sell side, which is, did they highlight any risk? Like, out of all these calls, I'm curious to know if they, you know if it's all positive, were they just,
+Oh, the Qatar. So I'm the so for this third party, I'm curious, in this 200 page report, did they highlight anything, you know, like, is this buy side, sell side, which is, did they highlight any risk? Like, out of all these calls, I'm curious to know if they, you know if it's all positive, were they just,
+S Speaker 317:49I think the question is, what risk could they identify? Yeah, overall, okay,
+I think the question is, what risk could they identify? Yeah, overall, okay,
+I think the question is, what risk could they identify? Yeah, overall, okay,
+I think the question is, what risk could they identify? Yeah, overall, okay,
+S Speaker 717:57I think overall is that they need to prove themselves to be able to be the leader for the virtual agent in the future,
+I think overall is that they need to prove themselves to be able to be the leader for the virtual agent in the future,
+I think overall is that they need to prove themselves to be able to be the leader for the virtual agent in the future,
+I think overall is that they need to prove themselves to be able to be the leader for the virtual agent in the future,
+S Speaker 318:03the virtual agent sounds like competitive, and they haven't
+the virtual agent sounds like competitive, and they haven't
+the virtual agent sounds like competitive, and they haven't
+the virtual agent sounds like competitive, and they haven't
+S Speaker 218:07been. I mean, that's what, like the 200 page report is, then, essentially it's they're selling to the whoever their customer is, right?
+been. I mean, that's what, like the 200 page report is, then, essentially it's they're selling to the whoever their customer is, right?
+been. I mean, that's what, like the 200 page report is, then, essentially it's they're selling to the whoever their customer is, right?
+been. I mean, that's what, like the 200 page report is, then, essentially it's they're selling to the whoever their customer is, right?
+S Speaker 218:20I mean, the key is, every company has risks right on their existing platform, of course, given that you still decide to invest or not invest. But I'm, I'm more interested if they really were given
+I mean, the key is, every company has risks right on their existing platform, of course, given that you still decide to invest or not invest. But I'm, I'm more interested if they really were given
+I mean, the key is, every company has risks right on their existing platform, of course, given that you still decide to invest or not invest. But I'm, I'm more interested if they really were given
+I mean, the key is, every company has risks right on their existing platform, of course, given that you still decide to invest or not invest. But I'm, I'm more interested if they really were given
+S Speaker 219:07man, you can Yes. Highlight. I'm just interested in knowing, I'm sure the report will have 199 pages of great things to say about the company, which is good. But I think the key is the CEO already told the good things, right? The key is to find out if there's anything that we should be looking at. It'll
+man, you can Yes. Highlight. I'm just interested in knowing, I'm sure the report will have 199 pages of great things to say about the company, which is good. But I think the key is the CEO already told the good things, right? The key is to find out if there's anything that we should be looking at. It'll
+man, you can Yes. Highlight. I'm just interested in knowing, I'm sure the report will have 199 pages of great things to say about the company, which is good. But I think the key is the CEO already told the good things, right? The key is to find out if there's anything that we should be looking at. It'll
+man, you can Yes. Highlight. I'm just interested in knowing, I'm sure the report will have 199 pages of great things to say about the company, which is good. But I think the key is the CEO already told the good things, right? The key is to find out if there's anything that we should be looking at. It'll
+21:01well. He mentioned 30 people went with him. I have no doubt
+well. He mentioned 30 people went with him. I have no doubt
+well. He mentioned 30 people went with him. I have no doubt
+well. He mentioned 30 people went with him. I have no doubt
+S Speaker 721:07Yeah. And besides that, he has a, I think a real Gen general. He has a genuine vision that he wants to partner with Qualcomm for the comeback center AI agents to find a way to deploy on PC. Because
+Yeah. And besides that, he has a, I think a real Gen general. He has a genuine vision that he wants to partner with Qualcomm for the comeback center AI agents to find a way to deploy on PC. Because
+Yeah. And besides that, he has a, I think a real Gen general. He has a genuine vision that he wants to partner with Qualcomm for the comeback center AI agents to find a way to deploy on PC. Because
+Yeah. And besides that, he has a, I think a real Gen general. He has a genuine vision that he wants to partner with Qualcomm for the comeback center AI agents to find a way to deploy on PC. Because
+S Speaker 721:26you know, the whole, this whole contact center agent thing, not just on cloud, but also there are portion of that will begin to deploy on prem that you have this agent to work on the PC. So this model inferencing thing, ideally, it's more efficient to be wrong on the edge side. So there's this is a strategic problem.
+you know, the whole, this whole contact center agent thing, not just on cloud, but also there are portion of that will begin to deploy on prem that you have this agent to work on the PC. So this model inferencing thing, ideally, it's more efficient to be wrong on the edge side. So there's this is a strategic problem.
+you know, the whole, this whole contact center agent thing, not just on cloud, but also there are portion of that will begin to deploy on prem that you have this agent to work on the PC. So this model inferencing thing, ideally, it's more efficient to be wrong on the edge side. So there's this is a strategic problem.
+you know, the whole, this whole contact center agent thing, not just on cloud, but also there are portion of that will begin to deploy on prem that you have this agent to work on the PC. So this model inferencing thing, ideally, it's more efficient to be wrong on the edge side. So there's this is a strategic problem.
+S Speaker 821:47We'll be able to show this. We were able to show that with you before last year. So it just depends on which part of the stack the compute team was working, also with level. And there were some technical issues there. But you know the basically, the coaching, as well as transcription, if it is real time, can be shown on the PC. Okay?
+We'll be able to show this. We were able to show that with you before last year. So it just depends on which part of the stack the compute team was working, also with level. And there were some technical issues there. But you know the basically, the coaching, as well as transcription, if it is real time, can be shown on the PC. Okay?
+We'll be able to show this. We were able to show that with you before last year. So it just depends on which part of the stack the compute team was working, also with level. And there were some technical issues there. But you know the basically, the coaching, as well as transcription, if it is real time, can be shown on the PC. Okay?
+We'll be able to show this. We were able to show that with you before last year. So it just depends on which part of the stack the compute team was working, also with level. And there were some technical issues there. But you know the basically, the coaching, as well as transcription, if it is real time, can be shown on the PC. Okay?
+S Speaker 722:12Okay, that's great. Yeah, the CEO this morning, he's not sent us something like the dad and his plan, and then we can connect him with a computer with money to leverage your vendor.
+Okay, that's great. Yeah, the CEO this morning, he's not sent us something like the dad and his plan, and then we can connect him with a computer with money to leverage your vendor.
+Okay, that's great. Yeah, the CEO this morning, he's not sent us something like the dad and his plan, and then we can connect him with a computer with money to leverage your vendor.
+Okay, that's great. Yeah, the CEO this morning, he's not sent us something like the dad and his plan, and then we can connect him with a computer with money to leverage your vendor.
+S Speaker 822:28Who is this? This is open dress team, so Manish, or those are the two guys, yeah, open
+Who is this? This is open dress team, so Manish, or those are the two guys, yeah, open
+Who is this? This is open dress team, so Manish, or those are the two guys, yeah, open
+Who is this? This is open dress team, so Manish, or those are the two guys, yeah, open
+S Speaker 722:43so, yeah, we're gonna proceed to stage one later this week. And before stage one, Albert and I'm gonna have a call with the CFO and CRO because we do want to double click on the pipeline. The good thing is that they engage the Deloitte a third part, sorry, the big investor also engaged door to do financial diligence. So at least we're comfortable with their current revenue. Majority of that is real. If there's no like a fake or overestimated revenue, fake revenue. So at least for that part, comfortable, but for going forward, we do need to double click? We want to double click with the C CFO and the CRO for, you know, the previous turn rate and also the the future growth plan for each customer segment. So double click on that. Yeah.
+so, yeah, we're gonna proceed to stage one later this week. And before stage one, Albert and I'm gonna have a call with the CFO and CRO because we do want to double click on the pipeline. The good thing is that they engage the Deloitte a third part, sorry, the big investor also engaged door to do financial diligence. So at least we're comfortable with their current revenue. Majority of that is real. If there's no like a fake or overestimated revenue, fake revenue. So at least for that part, comfortable, but for going forward, we do need to double click? We want to double click with the C CFO and the CRO for, you know, the previous turn rate and also the the future growth plan for each customer segment. So double click on that. Yeah.
+so, yeah, we're gonna proceed to stage one later this week. And before stage one, Albert and I'm gonna have a call with the CFO and CRO because we do want to double click on the pipeline. The good thing is that they engage the Deloitte a third part, sorry, the big investor also engaged door to do financial diligence. So at least we're comfortable with their current revenue. Majority of that is real. If there's no like a fake or overestimated revenue, fake revenue. So at least for that part, comfortable, but for going forward, we do need to double click? We want to double click with the C CFO and the CRO for, you know, the previous turn rate and also the the future growth plan for each customer segment. So double click on that. Yeah.
+so, yeah, we're gonna proceed to stage one later this week. And before stage one, Albert and I'm gonna have a call with the CFO and CRO because we do want to double click on the pipeline. The good thing is that they engage the Deloitte a third part, sorry, the big investor also engaged door to do financial diligence. So at least we're comfortable with their current revenue. Majority of that is real. If there's no like a fake or overestimated revenue, fake revenue. So at least for that part, comfortable, but for going forward, we do need to double click? We want to double click with the C CFO and the CRO for, you know, the previous turn rate and also the the future growth plan for each customer segment. So double click on that. Yeah.
+S Speaker 723:39So Albert, I think you also mentioned something about the competitors feedback. I think you talked to file nine, right? They have a direct feedback for observe,
+So Albert, I think you also mentioned something about the competitors feedback. I think you talked to file nine, right? They have a direct feedback for observe,
+So Albert, I think you also mentioned something about the competitors feedback. I think you talked to file nine, right? They have a direct feedback for observe,
+So Albert, I think you also mentioned something about the competitors feedback. I think you talked to file nine, right? They have a direct feedback for observe,
+S Speaker 423:56they tend to have the strategic accounts team pushing Cresta into into larger accounts, initially with the real time patient assist product, but now it's more converging to the QA part as well. So, so So level AI, mostly in the mid market. The mid market teams are pushing, start with the QA, but merging into the real time and credit start coming for the Arab. Ending,
+they tend to have the strategic accounts team pushing Cresta into into larger accounts, initially with the real time patient assist product, but now it's more converging to the QA part as well. So, so So level AI, mostly in the mid market. The mid market teams are pushing, start with the QA, but merging into the real time and credit start coming for the Arab. Ending,
+they tend to have the strategic accounts team pushing Cresta into into larger accounts, initially with the real time patient assist product, but now it's more converging to the QA part as well. So, so So level AI, mostly in the mid market. The mid market teams are pushing, start with the QA, but merging into the real time and credit start coming for the Arab. Ending,
+they tend to have the strategic accounts team pushing Cresta into into larger accounts, initially with the real time patient assist product, but now it's more converging to the QA part as well. So, so So level AI, mostly in the mid market. The mid market teams are pushing, start with the QA, but merging into the real time and credit start coming for the Arab. Ending,
+S Speaker 524:24there's no negative feedback, right? Okay,
+S Speaker 725:49Yeah, very good point. Thank you so much. We're gonna, yeah, one thing is our notice that is, they have a pretty hyper rate for sales expense in the future, so we do not double click with their CFO. We're gonna add this questions on Wednesday's divisions call. Are
+Yeah, very good point. Thank you so much. We're gonna, yeah, one thing is our notice that is, they have a pretty hyper rate for sales expense in the future, so we do not double click with their CFO. We're gonna add this questions on Wednesday's divisions call. Are
+Yeah, very good point. Thank you so much. We're gonna, yeah, one thing is our notice that is, they have a pretty hyper rate for sales expense in the future, so we do not double click with their CFO. We're gonna add this questions on Wednesday's divisions call. Are
+Yeah, very good point. Thank you so much. We're gonna, yeah, one thing is our notice that is, they have a pretty hyper rate for sales expense in the future, so we do not double click with their CFO. We're gonna add this questions on Wednesday's divisions call. Are
+S Speaker 326:18all that self sufficiency, and how many like was the quota. What
+all that self sufficiency, and how many like was the quota. What
+all that self sufficiency, and how many like was the quota. What
+all that self sufficiency, and how many like was the quota. What
+S Speaker 826:29will be interesting to note is, why are they feeling that there's no growth in enterprise? That question the CEO couldn't articulate. Well, when we met them, he said he wants to go to SMB for growth, and SMB market. So I was perplexed by that as to why
+will be interesting to note is, why are they feeling that there's no growth in enterprise? That question the CEO couldn't articulate. Well, when we met them, he said he wants to go to SMB for growth, and SMB market. So I was perplexed by that as to why
+will be interesting to note is, why are they feeling that there's no growth in enterprise? That question the CEO couldn't articulate. Well, when we met them, he said he wants to go to SMB for growth, and SMB market. So I was perplexed by that as to why
+will be interesting to note is, why are they feeling that there's no growth in enterprise? That question the CEO couldn't articulate. Well, when we met them, he said he wants to go to SMB for growth, and SMB market. So I was perplexed by that as to why
+S Speaker 426:45make sure we ask that we ask that question. Yes, additional
+make sure we ask that we ask that question. Yes, additional
+make sure we ask that we ask that question. Yes, additional
+make sure we ask that we ask that question. Yes, additional
+26:49color on that. Okay. Future course, essential.
+S Speaker 427:08So if you have a product customers you want to push on that, you don't need to spend on money, yeah, but
+So if you have a product customers you want to push on that, you don't need to spend on money, yeah, but
+So if you have a product customers you want to push on that, you don't need to spend on money, yeah, but
+So if you have a product customers you want to push on that, you don't need to spend on money, yeah, but
+S Speaker 827:14the churn is high, you know, the SMB, right? So I think maybe ask them, Who is the buyer in enterprise? Is it the CIO or customer support and getting delayed because of the AI efficiency? Some other
+the churn is high, you know, the SMB, right? So I think maybe ask them, Who is the buyer in enterprise? Is it the CIO or customer support and getting delayed because of the AI efficiency? Some other
+the churn is high, you know, the SMB, right? So I think maybe ask them, Who is the buyer in enterprise? Is it the CIO or customer support and getting delayed because of the AI efficiency? Some other
+the churn is high, you know, the SMB, right? So I think maybe ask them, Who is the buyer in enterprise? Is it the CIO or customer support and getting delayed because of the AI efficiency? Some other
+S Speaker 727:40way to we'll stop sharing here. Oh, we have a good question listed to ask to the crown.
+way to we'll stop sharing here. Oh, we have a good question listed to ask to the crown.
+way to we'll stop sharing here. Oh, we have a good question listed to ask to the crown.
+way to we'll stop sharing here. Oh, we have a good question listed to ask to the crown.
+S Speaker 327:50It would it be hopefully you joined the caller. To the extent you have time with the CRO they can pull around this
+It would it be hopefully you joined the caller. To the extent you have time with the CRO they can pull around this
+It would it be hopefully you joined the caller. To the extent you have time with the CRO they can pull around this
+It would it be hopefully you joined the caller. To the extent you have time with the CRO they can pull around this
+S Speaker 627:59enterprise sales question, yeah, you have a lot of good enterprise. Yeah, I can. I'll be happy to join. Okay, thanks, people. Okay,
+enterprise sales question, yeah, you have a lot of good enterprise. Yeah, I can. I'll be happy to join. Okay, thanks, people. Okay,
+enterprise sales question, yeah, you have a lot of good enterprise. Yeah, I can. I'll be happy to join. Okay, thanks, people. Okay,
+enterprise sales question, yeah, you have a lot of good enterprise. Yeah, I can. I'll be happy to join. Okay, thanks, people. Okay,
+S Speaker 328:12good, because you've been looking at eclipsing as all these and then also spectrum, right? Most,
+good, because you've been looking at eclipsing as all these and then also spectrum, right? Most,
+good, because you've been looking at eclipsing as all these and then also spectrum, right? Most,
+good, because you've been looking at eclipsing as all these and then also spectrum, right? Most,
+S Speaker 128:18mostly SaaS company like software, subscriptions,
+S Speaker 328:29Okay, been great. How much efficiency of the sales rep, how fast they can ram? Okay, good. Okay, let's go
+Okay, been great. How much efficiency of the sales rep, how fast they can ram? Okay, good. Okay, let's go
+Okay, been great. How much efficiency of the sales rep, how fast they can ram? Okay, good. Okay, let's go
+Okay, been great. How much efficiency of the sales rep, how fast they can ram? Okay, good. Okay, let's go
+28:50So can we focus on the key ones we need to discuss? Yes,
+So can we focus on the key ones we need to discuss? Yes,
+So can we focus on the key ones we need to discuss? Yes,
+So can we focus on the key ones we need to discuss? Yes,
+S Speaker 128:52so I can, I can talk about so there are four companies that are actively raising and of course, we can't do all four just at a high level. There are three series A opportunities and one series B. All of them are first time entrepreneurs. Three of them are in Dev Tools. One is in
+so I can, I can talk about so there are four companies that are actively raising and of course, we can't do all four just at a high level. There are three series A opportunities and one series B. All of them are first time entrepreneurs. Three of them are in Dev Tools. One is in
+so I can, I can talk about so there are four companies that are actively raising and of course, we can't do all four just at a high level. There are three series A opportunities and one series B. All of them are first time entrepreneurs. Three of them are in Dev Tools. One is in
+so I can, I can talk about so there are four companies that are actively raising and of course, we can't do all four just at a high level. There are three series A opportunities and one series B. All of them are first time entrepreneurs. Three of them are in Dev Tools. One is in
+S Speaker 329:47Okay, you're going to talk about two today. Yes, and this one is, yeah, I know this one's special. What is this?
+Okay, you're going to talk about two today. Yes, and this one is, yeah, I know this one's special. What is this?
+Okay, you're going to talk about two today. Yes, and this one is, yeah, I know this one's special. What is this?
+Okay, you're going to talk about two today. Yes, and this one is, yeah, I know this one's special. What is this?
+S Speaker 129:57This is the pensando enovium one. It's in the same space. It's in the networks, networking switch space, but what they do is it's kind of like the orchestration layer. Think, think, all right, all right. So
+This is the pensando enovium one. It's in the same space. It's in the networks, networking switch space, but what they do is it's kind of like the orchestration layer. Think, think, all right, all right. So
+This is the pensando enovium one. It's in the same space. It's in the networks, networking switch space, but what they do is it's kind of like the orchestration layer. Think, think, all right, all right. So
+This is the pensando enovium one. It's in the same space. It's in the networks, networking switch space, but what they do is it's kind of like the orchestration layer. Think, think, all right, all right. So
+S Speaker 130:17Kubernetes in cloud infrastructure, there is similar open source technology called Sonic, yeah, perfect. So that's, that's perfect, right? So what, what happens is called Sonics, penetration today is around 10 to 15%
+Kubernetes in cloud infrastructure, there is similar open source technology called Sonic, yeah, perfect. So that's, that's perfect, right? So what, what happens is called Sonics, penetration today is around 10 to 15%
+Kubernetes in cloud infrastructure, there is similar open source technology called Sonic, yeah, perfect. So that's, that's perfect, right? So what, what happens is called Sonics, penetration today is around 10 to 15%
+Kubernetes in cloud infrastructure, there is similar open source technology called Sonic, yeah, perfect. So that's, that's perfect, right? So what, what happens is called Sonics, penetration today is around 10 to 15%
+30:35they're just building the sonic software, basically. So they
+they're just building the sonic software, basically. So they
+they're just building the sonic software, basically. So they
+they're just building the sonic software, basically. So they
+S Speaker 130:38are commercializing, so everybody, right? Arista Cisco, the Big Four, have their proprietary version of Sonic, yes, what they're building is they're building a standardized Sonic that can enable an enterprise customer to tomorrow, rip and replace Arista with Cisco today, they're locked in because Arista is just building their own proprietary stack of Sonic,
+are commercializing, so everybody, right? Arista Cisco, the Big Four, have their proprietary version of Sonic, yes, what they're building is they're building a standardized Sonic that can enable an enterprise customer to tomorrow, rip and replace Arista with Cisco today, they're locked in because Arista is just building their own proprietary stack of Sonic,
+are commercializing, so everybody, right? Arista Cisco, the Big Four, have their proprietary version of Sonic, yes, what they're building is they're building a standardized Sonic that can enable an enterprise customer to tomorrow, rip and replace Arista with Cisco today, they're locked in because Arista is just building their own proprietary stack of Sonic,
+are commercializing, so everybody, right? Arista Cisco, the Big Four, have their proprietary version of Sonic, yes, what they're building is they're building a standardized Sonic that can enable an enterprise customer to tomorrow, rip and replace Arista with Cisco today, they're locked in because Arista is just building their own proprietary stack of Sonic,
+S Speaker 331:00yeah, but this is hard superconductor these guys have that's,
+yeah, but this is hard superconductor these guys have that's,
+yeah, but this is hard superconductor these guys have that's,
+yeah, but this is hard superconductor these guys have that's,
+S Speaker 131:04that's the interesting part, right? So they started in 2022 Yeah, first year, 1 million. This year they'll be at four. And next year, they have really good visibility, like 75% confidence on 15 million, yeah. And they have eBay, Apple, Walmart, kddis, paying customers. So these are large enterprise accounts, Quinn, and that can grow into multi million dollar contracts. So eBay expanded from 250 K to 1.3 million already.
+that's the interesting part, right? So they started in 2022 Yeah, first year, 1 million. This year they'll be at four. And next year, they have really good visibility, like 75% confidence on 15 million, yeah. And they have eBay, Apple, Walmart, kddis, paying customers. So these are large enterprise accounts, Quinn, and that can grow into multi million dollar contracts. So eBay expanded from 250 K to 1.3 million already.
+that's the interesting part, right? So they started in 2022 Yeah, first year, 1 million. This year they'll be at four. And next year, they have really good visibility, like 75% confidence on 15 million, yeah. And they have eBay, Apple, Walmart, kddis, paying customers. So these are large enterprise accounts, Quinn, and that can grow into multi million dollar contracts. So eBay expanded from 250 K to 1.3 million already.
+that's the interesting part, right? So they started in 2022 Yeah, first year, 1 million. This year they'll be at four. And next year, they have really good visibility, like 75% confidence on 15 million, yeah. And they have eBay, Apple, Walmart, kddis, paying customers. So these are large enterprise accounts, Quinn, and that can grow into multi million dollar contracts. So eBay expanded from 250 K to 1.3 million already.
+S Speaker 331:36Let's get on the call when Rajiv, with this was the CEO, you know, being he knows this stuff. Oh, Quinn's gets his feedback quiz. Rajiv
+Let's get on the call when Rajiv, with this was the CEO, you know, being he knows this stuff. Oh, Quinn's gets his feedback quiz. Rajiv
+Let's get on the call when Rajiv, with this was the CEO, you know, being he knows this stuff. Oh, Quinn's gets his feedback quiz. Rajiv
+Let's get on the call when Rajiv, with this was the CEO, you know, being he knows this stuff. Oh, Quinn's gets his feedback quiz. Rajiv
+S Speaker 131:44is on the board. He's on the board. Yeah, on the top right. And that's why I got this opportunity, because I thought it would be easier to validate and understand this market. But I think talking to Rajiv, he'll definitely be very bullish on this, because he's on the board. I think we might need to talk to somebody who is not biased.
+is on the board. He's on the board. Yeah, on the top right. And that's why I got this opportunity, because I thought it would be easier to validate and understand this market. But I think talking to Rajiv, he'll definitely be very bullish on this, because he's on the board. I think we might need to talk to somebody who is not biased.
+is on the board. He's on the board. Yeah, on the top right. And that's why I got this opportunity, because I thought it would be easier to validate and understand this market. But I think talking to Rajiv, he'll definitely be very bullish on this, because he's on the board. I think we might need to talk to somebody who is not biased.
+is on the board. He's on the board. Yeah, on the top right. And that's why I got this opportunity, because I thought it would be easier to validate and understand this market. But I think talking to Rajiv, he'll definitely be very bullish on this, because he's on the board. I think we might need to talk to somebody who is not biased.
+S Speaker 332:09Okay, so, but this one like, there's no VCs. They have a VC term sheet. It's all strategic, right?
+Okay, so, but this one like, there's no VCs. They have a VC term sheet. It's all strategic, right?
+Okay, so, but this one like, there's no VCs. They have a VC term sheet. It's all strategic, right?
+Okay, so, but this one like, there's no VCs. They have a VC term sheet. It's all strategic, right?
+S Speaker 132:15This is a strategic they're expecting a term sheet from a VC. They're raising the terms for the round would be reasonable. It's 45 million post money, raising 1240. To 45 million post money, raising 12. Okay, okay, okay. So this is like series A opportunity Quinn, but I like the traction. You know, in terms of outcome, could this be a billion dollars, I don't know, but maybe a 300 still, we end up making money, but it depends on how much allocation we get. So I still have work to do there. So I've got in the data room Quinn on this one.
+This is a strategic they're expecting a term sheet from a VC. They're raising the terms for the round would be reasonable. It's 45 million post money, raising 1240. To 45 million post money, raising 12. Okay, okay, okay. So this is like series A opportunity Quinn, but I like the traction. You know, in terms of outcome, could this be a billion dollars, I don't know, but maybe a 300 still, we end up making money, but it depends on how much allocation we get. So I still have work to do there. So I've got in the data room Quinn on this one.
+This is a strategic they're expecting a term sheet from a VC. They're raising the terms for the round would be reasonable. It's 45 million post money, raising 1240. To 45 million post money, raising 12. Okay, okay, okay. So this is like series A opportunity Quinn, but I like the traction. You know, in terms of outcome, could this be a billion dollars, I don't know, but maybe a 300 still, we end up making money, but it depends on how much allocation we get. So I still have work to do there. So I've got in the data room Quinn on this one.
+This is a strategic they're expecting a term sheet from a VC. They're raising the terms for the round would be reasonable. It's 45 million post money, raising 1240. To 45 million post money, raising 12. Okay, okay, okay. So this is like series A opportunity Quinn, but I like the traction. You know, in terms of outcome, could this be a billion dollars, I don't know, but maybe a 300 still, we end up making money, but it depends on how much allocation we get. So I still have work to do there. So I've got in the data room Quinn on this one.
+S Speaker 132:53CEO is Vishal. He comes from Nvidia and Mellanox. He's a first time entrepreneur. I've met him couple of times. He I think he can do a better job pitching, but he's definitely very plugged into the space,
+CEO is Vishal. He comes from Nvidia and Mellanox. He's a first time entrepreneur. I've met him couple of times. He I think he can do a better job pitching, but he's definitely very plugged into the space,
+CEO is Vishal. He comes from Nvidia and Mellanox. He's a first time entrepreneur. I've met him couple of times. He I think he can do a better job pitching, but he's definitely very plugged into the space,
+CEO is Vishal. He comes from Nvidia and Mellanox. He's a first time entrepreneur. I've met him couple of times. He I think he can do a better job pitching, but he's definitely very plugged into the space,
+S Speaker 133:16I think the first meeting I had wasn't like a pitch meeting, so he went all over the place. But, you know, we can, I can spend some more time and get see how he pitches in general. What is
+I think the first meeting I had wasn't like a pitch meeting, so he went all over the place. But, you know, we can, I can spend some more time and get see how he pitches in general. What is
+I think the first meeting I had wasn't like a pitch meeting, so he went all over the place. But, you know, we can, I can spend some more time and get see how he pitches in general. What is
+I think the first meeting I had wasn't like a pitch meeting, so he went all over the place. But, you know, we can, I can spend some more time and get see how he pitches in general. What is
+S Speaker 233:27AI for networking? So, for networking,
+S Speaker 133:31yeah, that's like the futuristic thing. It's a three month old product. I digged into it so they have access to Splunk database. Yeah. So today I'm not pitching. I'm not saying that that's most of the customers is on the sonic piece. Okay? What they're saying is, but they get access to data through which they can actually do auto generated reports or configs, right? Config management. So I'm not pitching this. He'll probably
+yeah, that's like the futuristic thing. It's a three month old product. I digged into it so they have access to Splunk database. Yeah. So today I'm not pitching. I'm not saying that that's most of the customers is on the sonic piece. Okay? What they're saying is, but they get access to data through which they can actually do auto generated reports or configs, right? Config management. So I'm not pitching this. He'll probably
+yeah, that's like the futuristic thing. It's a three month old product. I digged into it so they have access to Splunk database. Yeah. So today I'm not pitching. I'm not saying that that's most of the customers is on the sonic piece. Okay? What they're saying is, but they get access to data through which they can actually do auto generated reports or configs, right? Config management. So I'm not pitching this. He'll probably
+yeah, that's like the futuristic thing. It's a three month old product. I digged into it so they have access to Splunk database. Yeah. So today I'm not pitching. I'm not saying that that's most of the customers is on the sonic piece. Okay? What they're saying is, but they get access to data through which they can actually do auto generated reports or configs, right? Config management. So I'm not pitching this. He'll probably
+S Speaker 233:58talk this year. They're projecting 4 million, 4 million. That's also
+talk this year. They're projecting 4 million, 4 million. That's also
+talk this year. They're projecting 4 million, 4 million. That's also
+talk this year. They're projecting 4 million, 4 million. That's also
+S Speaker 134:03last week they closed apple and Walmart. Oh, that's pretty good. And currently, 2.5 2.5
+last week they closed apple and Walmart. Oh, that's pretty good. And currently, 2.5 2.5
+last week they closed apple and Walmart. Oh, that's pretty good. And currently, 2.5 2.5
+last week they closed apple and Walmart. Oh, that's pretty good. And currently, 2.5 2.5
+S Speaker 334:112.7 and who did they sell to? Did they sell to the boss guys? Or they sell to, like,
+2.7 and who did they sell to? Did they sell to the boss guys? Or they sell to, like,
+2.7 and who did they sell to? Did they sell to the boss guys? Or they sell to, like,
+2.7 and who did they sell to? Did they sell to the boss guys? Or they sell to, like,
+S Speaker 134:16end customer, end customers. So eBay reached out to them directly.
+end customer, end customers. So eBay reached out to them directly.
+end customer, end customers. So eBay reached out to them directly.
+end customer, end customers. So eBay reached out to them directly.
+S Speaker 334:23So it's not understanding this is the OS that runs on the switch box, so
+So it's not understanding this is the OS that runs on the switch box, so
+So it's not understanding this is the OS that runs on the switch box, so
+So it's not understanding this is the OS that runs on the switch box, so
+S Speaker 134:28somebody needs to manage the switches, right? So there might be a team that's sitting and looking after the Arista dashboard, managing Arista switches. But I
+somebody needs to manage the switches, right? So there might be a team that's sitting and looking after the Arista dashboard, managing Arista switches. But I
+somebody needs to manage the switches, right? So there might be a team that's sitting and looking after the Arista dashboard, managing Arista switches. But I
+somebody needs to manage the switches, right? So there might be a team that's sitting and looking after the Arista dashboard, managing Arista switches. But I
+S Speaker 334:38thought the program and something similar, or
+S Speaker 134:42maybe no so, so Arista, there is no VMware like there was in Kubernetes. There's no VMware here, though. The only other player that is another startup that tried this almost three years ago, hedgehog. So I'm reaching out to them. It's a very small startup. It's not a big so that's the other thing, right? So as Kubernetes had multiple players, right? This space doesn't have multiple players, so if they want to hit big, they can become a sizable opportunity. But
+maybe no so, so Arista, there is no VMware like there was in Kubernetes. There's no VMware here, though. The only other player that is another startup that tried this almost three years ago, hedgehog. So I'm reaching out to them. It's a very small startup. It's not a big so that's the other thing, right? So as Kubernetes had multiple players, right? This space doesn't have multiple players, so if they want to hit big, they can become a sizable opportunity. But
+maybe no so, so Arista, there is no VMware like there was in Kubernetes. There's no VMware here, though. The only other player that is another startup that tried this almost three years ago, hedgehog. So I'm reaching out to them. It's a very small startup. It's not a big so that's the other thing, right? So as Kubernetes had multiple players, right? This space doesn't have multiple players, so if they want to hit big, they can become a sizable opportunity. But
+maybe no so, so Arista, there is no VMware like there was in Kubernetes. There's no VMware here, though. The only other player that is another startup that tried this almost three years ago, hedgehog. So I'm reaching out to them. It's a very small startup. It's not a big so that's the other thing, right? So as Kubernetes had multiple players, right? This space doesn't have multiple players, so if they want to hit big, they can become a sizable opportunity. But
+S Speaker 335:16this is very different. This is the only, if I understand you, only on switches.
+this is very different. This is the only, if I understand you, only on switches.
+this is very different. This is the only, if I understand you, only on switches.
+this is very different. This is the only, if I understand you, only on switches.
+S Speaker 135:22Yeah, only on switches. No, I'm not saying that. I'm not comparing. I'm saying that they are built on an open source platform like Kubernetes. They were built on Kubernetes, right? I'm comparing that. I'm not comparing the end market. Okay,
+Yeah, only on switches. No, I'm not saying that. I'm not comparing. I'm saying that they are built on an open source platform like Kubernetes. They were built on Kubernetes, right? I'm comparing that. I'm not comparing the end market. Okay,
+Yeah, only on switches. No, I'm not saying that. I'm not comparing. I'm saying that they are built on an open source platform like Kubernetes. They were built on Kubernetes, right? I'm comparing that. I'm not comparing the end market. Okay,
+Yeah, only on switches. No, I'm not saying that. I'm not comparing. I'm saying that they are built on an open source platform like Kubernetes. They were built on Kubernetes, right? I'm comparing that. I'm not comparing the end market. Okay,
+S Speaker 135:38so I think, but do you have any names that we can we can reach out to to aside from Rajiv, that we can get some knowledge on. I spoke with Alex, by the way, from Digital Bridge. So he's spoken to these guys. He says, I know these guys. Well. They're really solid. Their story is not well put together. And it was a text message. I didn't have a chance to dig into it. So he he commented. Story was not but he, he vouched for the team at least. Yeah, that's the key question. I don't know if it's at his scale, though, and I don't know if he does series A but I can follow up Quinn on that.
+so I think, but do you have any names that we can we can reach out to to aside from Rajiv, that we can get some knowledge on. I spoke with Alex, by the way, from Digital Bridge. So he's spoken to these guys. He says, I know these guys. Well. They're really solid. Their story is not well put together. And it was a text message. I didn't have a chance to dig into it. So he he commented. Story was not but he, he vouched for the team at least. Yeah, that's the key question. I don't know if it's at his scale, though, and I don't know if he does series A but I can follow up Quinn on that.
+so I think, but do you have any names that we can we can reach out to to aside from Rajiv, that we can get some knowledge on. I spoke with Alex, by the way, from Digital Bridge. So he's spoken to these guys. He says, I know these guys. Well. They're really solid. Their story is not well put together. And it was a text message. I didn't have a chance to dig into it. So he he commented. Story was not but he, he vouched for the team at least. Yeah, that's the key question. I don't know if it's at his scale, though, and I don't know if he does series A but I can follow up Quinn on that.
+so I think, but do you have any names that we can we can reach out to to aside from Rajiv, that we can get some knowledge on. I spoke with Alex, by the way, from Digital Bridge. So he's spoken to these guys. He says, I know these guys. Well. They're really solid. Their story is not well put together. And it was a text message. I didn't have a chance to dig into it. So he he commented. Story was not but he, he vouched for the team at least. Yeah, that's the key question. I don't know if it's at his scale, though, and I don't know if he does series A but I can follow up Quinn on that.
+S Speaker 336:16I don't know. This is not concerned, though. This is more in a switching side. Yeah,
+I don't know. This is not concerned, though. This is more in a switching side. Yeah,
+I don't know. This is not concerned, though. This is more in a switching side. Yeah,
+I don't know. This is not concerned, though. This is more in a switching side. Yeah,
+S Speaker 136:20I was saying that it's in the what do you call pensando ecosystem? Yeah.
+I was saying that it's in the what do you call pensando ecosystem? Yeah.
+I was saying that it's in the what do you call pensando ecosystem? Yeah.
+I was saying that it's in the what do you call pensando ecosystem? Yeah.
+S Speaker 336:27Let's figure out. Let's figure out plan. Do you guys know, like anybody versus this area? The only reason I know is because Naomi was doing some acridine
+Let's figure out. Let's figure out plan. Do you guys know, like anybody versus this area? The only reason I know is because Naomi was doing some acridine
+Let's figure out. Let's figure out plan. Do you guys know, like anybody versus this area? The only reason I know is because Naomi was doing some acridine
+Let's figure out. Let's figure out plan. Do you guys know, like anybody versus this area? The only reason I know is because Naomi was doing some acridine
+S Speaker 136:38stuff, exactly, and I worked on pensando with Alex, so I remembered this, this piece, and the market overall. In fact, if you look at it's only four players today. So the market is growing low single digits today. And with AI, of course, you need fast gig network, switch communication, so that's also changing, and the there are only four players that dominate the market, so Arista, Huawei, Cisco, and the new trend is most of them are going ODM direct, yeah. And that's where the opportunity could be Quinn, which is if you go ODM direct, you might want to use more open source. You don't want to stick to Arista stack and and then it can then the market is different. If that happens,
+stuff, exactly, and I worked on pensando with Alex, so I remembered this, this piece, and the market overall. In fact, if you look at it's only four players today. So the market is growing low single digits today. And with AI, of course, you need fast gig network, switch communication, so that's also changing, and the there are only four players that dominate the market, so Arista, Huawei, Cisco, and the new trend is most of them are going ODM direct, yeah. And that's where the opportunity could be Quinn, which is if you go ODM direct, you might want to use more open source. You don't want to stick to Arista stack and and then it can then the market is different. If that happens,
+stuff, exactly, and I worked on pensando with Alex, so I remembered this, this piece, and the market overall. In fact, if you look at it's only four players today. So the market is growing low single digits today. And with AI, of course, you need fast gig network, switch communication, so that's also changing, and the there are only four players that dominate the market, so Arista, Huawei, Cisco, and the new trend is most of them are going ODM direct, yeah. And that's where the opportunity could be Quinn, which is if you go ODM direct, you might want to use more open source. You don't want to stick to Arista stack and and then it can then the market is different. If that happens,
+stuff, exactly, and I worked on pensando with Alex, so I remembered this, this piece, and the market overall. In fact, if you look at it's only four players today. So the market is growing low single digits today. And with AI, of course, you need fast gig network, switch communication, so that's also changing, and the there are only four players that dominate the market, so Arista, Huawei, Cisco, and the new trend is most of them are going ODM direct, yeah. And that's where the opportunity could be Quinn, which is if you go ODM direct, you might want to use more open source. You don't want to stick to Arista stack and and then it can then the market is different. If that happens,
+S Speaker 337:28yeah, see, my worry is the parameter. You guys will do their own thing, whatever they'll do in their data center, Amazon, right? Enterprise guys, I don't know if this is a major issue for them to stop, because there's not that many. This is a top right switch. They don't have that many, so I don't know if they care.
+yeah, see, my worry is the parameter. You guys will do their own thing, whatever they'll do in their data center, Amazon, right? Enterprise guys, I don't know if this is a major issue for them to stop, because there's not that many. This is a top right switch. They don't have that many, so I don't know if they care.
+yeah, see, my worry is the parameter. You guys will do their own thing, whatever they'll do in their data center, Amazon, right? Enterprise guys, I don't know if this is a major issue for them to stop, because there's not that many. This is a top right switch. They don't have that many, so I don't know if they care.
+yeah, see, my worry is the parameter. You guys will do their own thing, whatever they'll do in their data center, Amazon, right? Enterprise guys, I don't know if this is a major issue for them to stop, because there's not that many. This is a top right switch. They don't have that many, so I don't know if they care.
+S Speaker 137:49So that's that's why we should talk to the eBay's and the Walmarts and the apples of the world to see why. So one thing I noticed,
+So that's that's why we should talk to the eBay's and the Walmarts and the apples of the world to see why. So one thing I noticed,
+So that's that's why we should talk to the eBay's and the Walmarts and the apples of the world to see why. So one thing I noticed,
+So that's that's why we should talk to the eBay's and the Walmarts and the apples of the world to see why. So one thing I noticed,
+S Speaker 437:59these companies actually have a skill, but Walmart, eBay,
+these companies actually have a skill, but Walmart, eBay,
+these companies actually have a skill, but Walmart, eBay,
+these companies actually have a skill, but Walmart, eBay,
+S Speaker 338:09but, but even then, I don't know how many switch they buy. These are, like, on top of the rack, on the server stack, right, right? They can't really care for Sonic or something else, I don't know. Okay, let's talk to Rajiv. He might be biased, but let's get feedback.
+but, but even then, I don't know how many switch they buy. These are, like, on top of the rack, on the server stack, right, right? They can't really care for Sonic or something else, I don't know. Okay, let's talk to Rajiv. He might be biased, but let's get feedback.
+but, but even then, I don't know how many switch they buy. These are, like, on top of the rack, on the server stack, right, right? They can't really care for Sonic or something else, I don't know. Okay, let's talk to Rajiv. He might be biased, but let's get feedback.
+but, but even then, I don't know how many switch they buy. These are, like, on top of the rack, on the server stack, right, right? They can't really care for Sonic or something else, I don't know. Okay, let's talk to Rajiv. He might be biased, but let's get feedback.
+S Speaker 138:23Yeah, and it's also cost element. I can I can show you the cost benefit here, but there is more value problem, yeah, then just being vendor agnostic, but we can talk to Rajiv and get some insights.
+Yeah, and it's also cost element. I can I can show you the cost benefit here, but there is more value problem, yeah, then just being vendor agnostic, but we can talk to Rajiv and get some insights.
+Yeah, and it's also cost element. I can I can show you the cost benefit here, but there is more value problem, yeah, then just being vendor agnostic, but we can talk to Rajiv and get some insights.
+Yeah, and it's also cost element. I can I can show you the cost benefit here, but there is more value problem, yeah, then just being vendor agnostic, but we can talk to Rajiv and get some insights.
+S Speaker 338:36Let's get some insights from him first. He might be very biased, yeah. It
+Let's get some insights from him first. He might be very biased, yeah. It
+Let's get some insights from him first. He might be very biased, yeah. It
+Let's get some insights from him first. He might be very biased, yeah. It
+S Speaker 338:48we got to basically try to talk to some people in the industry to figure this one out. Yeah,
+we got to basically try to talk to some people in the industry to figure this one out. Yeah,
+we got to basically try to talk to some people in the industry to figure this one out. Yeah,
+we got to basically try to talk to some people in the industry to figure this one out. Yeah,
+S Speaker 338:59Takes the eight minute maybe 30 seconds, which is within 10 minutes, right? Yes, perfect, yeah,
+Takes the eight minute maybe 30 seconds, which is within 10 minutes, right? Yes, perfect, yeah,
+Takes the eight minute maybe 30 seconds, which is within 10 minutes, right? Yes, perfect, yeah,
+Takes the eight minute maybe 30 seconds, which is within 10 minutes, right? Yes, perfect, yeah,
+S Speaker 139:08yeah, this will be, this will be faster, because we discussed this before. So I presented this in May, May of 2024, so a few months ago, and at that time they were not raising capital, so the founder reached out last week, saying that, hey, we have a preemptive term sheet coming, and he wanted to, because of the work we've done in the past, I also connected them with Qualcomm it, which didn't go anywhere. So that's a separate story, but he was, he was, of course, interested in the effort that we put in to actually get him as a customer, get him Qualcomm as a customer. So here's what they solve, right? The pain point that exists today in enterprises, including
+yeah, this will be, this will be faster, because we discussed this before. So I presented this in May, May of 2024, so a few months ago, and at that time they were not raising capital, so the founder reached out last week, saying that, hey, we have a preemptive term sheet coming, and he wanted to, because of the work we've done in the past, I also connected them with Qualcomm it, which didn't go anywhere. So that's a separate story, but he was, he was, of course, interested in the effort that we put in to actually get him as a customer, get him Qualcomm as a customer. So here's what they solve, right? The pain point that exists today in enterprises, including
+yeah, this will be, this will be faster, because we discussed this before. So I presented this in May, May of 2024, so a few months ago, and at that time they were not raising capital, so the founder reached out last week, saying that, hey, we have a preemptive term sheet coming, and he wanted to, because of the work we've done in the past, I also connected them with Qualcomm it, which didn't go anywhere. So that's a separate story, but he was, he was, of course, interested in the effort that we put in to actually get him as a customer, get him Qualcomm as a customer. So here's what they solve, right? The pain point that exists today in enterprises, including
+yeah, this will be, this will be faster, because we discussed this before. So I presented this in May, May of 2024, so a few months ago, and at that time they were not raising capital, so the founder reached out last week, saying that, hey, we have a preemptive term sheet coming, and he wanted to, because of the work we've done in the past, I also connected them with Qualcomm it, which didn't go anywhere. So that's a separate story, but he was, he was, of course, interested in the effort that we put in to actually get him as a customer, get him Qualcomm as a customer. So here's what they solve, right? The pain point that exists today in enterprises, including
+S Speaker 339:51Qualcomm, it seems like it's ampable for every company. That
+Qualcomm, it seems like it's ampable for every company. That
+Qualcomm, it seems like it's ampable for every company. That
+Qualcomm, it seems like it's ampable for every company. That
+S Speaker 139:55is exactly true, but more so for large, mid to large size enterprises, right? With multiple developer teams, multiple development environments. So the stack here is 20 plus different dev tools are being used in any organization. And I think within Qualcomm, probably it will be more if, because, because of the number of developer teams we have, and it takes months to just set it up. So when you set it up, you have to come up with the you know, your security policies, your role based access, and you know the configuration. It is not standardized across the organization, right? And in terms of managing every tool is managed by somebody else, like the Sonic, right? So somebody is sitting and managing the sonic but this is not solving the sonic problem. What I'm what I'm saying is there are multiple tools. It's highly complex, it's costly to maintain and and it's resource intensive. What do these guys do? So they've built an orchestration platform for their tools. So this is a Gartner defined category. So it's not like creating something new, which is a they solve for these complex integrations beforehand. So when you go to the website, you can just plug and play, click, click, click, and you'll have Jenkins, you know, tool ready that can be used across the organization, right? And it is, it can be automatically deployed to the cloud environment that you've already integrated with, with the security policies and configs that you've defined for the entire organization. So think of it as reducing management headache and optimizing the tool span for your organization.
+is exactly true, but more so for large, mid to large size enterprises, right? With multiple developer teams, multiple development environments. So the stack here is 20 plus different dev tools are being used in any organization. And I think within Qualcomm, probably it will be more if, because, because of the number of developer teams we have, and it takes months to just set it up. So when you set it up, you have to come up with the you know, your security policies, your role based access, and you know the configuration. It is not standardized across the organization, right? And in terms of managing every tool is managed by somebody else, like the Sonic, right? So somebody is sitting and managing the sonic but this is not solving the sonic problem. What I'm what I'm saying is there are multiple tools. It's highly complex, it's costly to maintain and and it's resource intensive. What do these guys do? So they've built an orchestration platform for their tools. So this is a Gartner defined category. So it's not like creating something new, which is a they solve for these complex integrations beforehand. So when you go to the website, you can just plug and play, click, click, click, and you'll have Jenkins, you know, tool ready that can be used across the organization, right? And it is, it can be automatically deployed to the cloud environment that you've already integrated with, with the security policies and configs that you've defined for the entire organization. So think of it as reducing management headache and optimizing the tool span for your organization.
+is exactly true, but more so for large, mid to large size enterprises, right? With multiple developer teams, multiple development environments. So the stack here is 20 plus different dev tools are being used in any organization. And I think within Qualcomm, probably it will be more if, because, because of the number of developer teams we have, and it takes months to just set it up. So when you set it up, you have to come up with the you know, your security policies, your role based access, and you know the configuration. It is not standardized across the organization, right? And in terms of managing every tool is managed by somebody else, like the Sonic, right? So somebody is sitting and managing the sonic but this is not solving the sonic problem. What I'm what I'm saying is there are multiple tools. It's highly complex, it's costly to maintain and and it's resource intensive. What do these guys do? So they've built an orchestration platform for their tools. So this is a Gartner defined category. So it's not like creating something new, which is a they solve for these complex integrations beforehand. So when you go to the website, you can just plug and play, click, click, click, and you'll have Jenkins, you know, tool ready that can be used across the organization, right? And it is, it can be automatically deployed to the cloud environment that you've already integrated with, with the security policies and configs that you've defined for the entire organization. So think of it as reducing management headache and optimizing the tool span for your organization.
+is exactly true, but more so for large, mid to large size enterprises, right? With multiple developer teams, multiple development environments. So the stack here is 20 plus different dev tools are being used in any organization. And I think within Qualcomm, probably it will be more if, because, because of the number of developer teams we have, and it takes months to just set it up. So when you set it up, you have to come up with the you know, your security policies, your role based access, and you know the configuration. It is not standardized across the organization, right? And in terms of managing every tool is managed by somebody else, like the Sonic, right? So somebody is sitting and managing the sonic but this is not solving the sonic problem. What I'm what I'm saying is there are multiple tools. It's highly complex, it's costly to maintain and and it's resource intensive. What do these guys do? So they've built an orchestration platform for their tools. So this is a Gartner defined category. So it's not like creating something new, which is a they solve for these complex integrations beforehand. So when you go to the website, you can just plug and play, click, click, click, and you'll have Jenkins, you know, tool ready that can be used across the organization, right? And it is, it can be automatically deployed to the cloud environment that you've already integrated with, with the security policies and configs that you've defined for the entire organization. So think of it as reducing management headache and optimizing the tool span for your organization.
+41:39But didn't we do you talk to companies in this category?
+But didn't we do you talk to companies in this category?
+But didn't we do you talk to companies in this category?
+But didn't we do you talk to companies in this category?
+S Speaker 441:41It's more infrastructure. This is more on the tools.
+It's more infrastructure. This is more on the tools.
+It's more infrastructure. This is more on the tools.
+It's more infrastructure. This is more on the tools.
+S Speaker 141:45That is different, that's completely different in the Tools everything.
+That is different, that's completely different in the Tools everything.
+That is different, that's completely different in the Tools everything.
+That is different, that's completely different in the Tools everything.
+S Speaker 441:55Because generally, you know, we have my conversations. It they're very negative. They're about tool space. It's a very small market. It's very saturated, okay? And we have internal team, you know, doing this kind of stuff. So every time we show them, like desktop tools, there's a we don't need this. This one, you
+Because generally, you know, we have my conversations. It they're very negative. They're about tool space. It's a very small market. It's very saturated, okay? And we have internal team, you know, doing this kind of stuff. So every time we show them, like desktop tools, there's a we don't need this. This one, you
+Because generally, you know, we have my conversations. It they're very negative. They're about tool space. It's a very small market. It's very saturated, okay? And we have internal team, you know, doing this kind of stuff. So every time we show them, like desktop tools, there's a we don't need this. This one, you
+Because generally, you know, we have my conversations. It they're very negative. They're about tool space. It's a very small market. It's very saturated, okay? And we have internal team, you know, doing this kind of stuff. So every time we show them, like desktop tools, there's a we don't need this. This one, you
+S Speaker 942:17have an independent opinion on this.
+42:21I think our work is small, too small. Opinion on
+S Speaker 442:26work as small, small, but not just my opinion. I think multiple. I think tech blogs out there complaining is very hard to sell these kind of solutions into the space.
+work as small, small, but not just my opinion. I think multiple. I think tech blogs out there complaining is very hard to sell these kind of solutions into the space.
+work as small, small, but not just my opinion. I think multiple. I think tech blogs out there complaining is very hard to sell these kind of solutions into the space.
+work as small, small, but not just my opinion. I think multiple. I think tech blogs out there complaining is very hard to sell these kind of solutions into the space.
+S Speaker 144:31I can get the average ACV. It could be more than at least 150 k.
+I can get the average ACV. It could be more than at least 150 k.
+I can get the average ACV. It could be more than at least 150 k.
+I can get the average ACV. It could be more than at least 150 k.
+44:39So the run is they have a term sheet yet, or not yet,
+So the run is they have a term sheet yet, or not yet,
+So the run is they have a term sheet yet, or not yet,
+So the run is they have a term sheet yet, or not yet,
+S Speaker 144:42it is a preemptive they were not planning on raising Quinn because when I last presented, I had told the team that they will come QR next year, but they're getting a preemptive term sheet from a financial VC. He's not, he's a bit cagey about the details until he signs the term sheet so but what he told me is, there's a $20 million round coming together. Lead might put in 10 to 12. The last course was 80. And from what I understand from these guys, it won't be like a spectral valuation, like 300 million on 5 million. It will be very reasonable than that. So from from a lot of different factors, I like this opportunity, but it is a first time, first time founder, like Alis networks as well. It's first time founder.
+it is a preemptive they were not planning on raising Quinn because when I last presented, I had told the team that they will come QR next year, but they're getting a preemptive term sheet from a financial VC. He's not, he's a bit cagey about the details until he signs the term sheet so but what he told me is, there's a $20 million round coming together. Lead might put in 10 to 12. The last course was 80. And from what I understand from these guys, it won't be like a spectral valuation, like 300 million on 5 million. It will be very reasonable than that. So from from a lot of different factors, I like this opportunity, but it is a first time, first time founder, like Alis networks as well. It's first time founder.
+it is a preemptive they were not planning on raising Quinn because when I last presented, I had told the team that they will come QR next year, but they're getting a preemptive term sheet from a financial VC. He's not, he's a bit cagey about the details until he signs the term sheet so but what he told me is, there's a $20 million round coming together. Lead might put in 10 to 12. The last course was 80. And from what I understand from these guys, it won't be like a spectral valuation, like 300 million on 5 million. It will be very reasonable than that. So from from a lot of different factors, I like this opportunity, but it is a first time, first time founder, like Alis networks as well. It's first time founder.
+it is a preemptive they were not planning on raising Quinn because when I last presented, I had told the team that they will come QR next year, but they're getting a preemptive term sheet from a financial VC. He's not, he's a bit cagey about the details until he signs the term sheet so but what he told me is, there's a $20 million round coming together. Lead might put in 10 to 12. The last course was 80. And from what I understand from these guys, it won't be like a spectral valuation, like 300 million on 5 million. It will be very reasonable than that. So from from a lot of different factors, I like this opportunity, but it is a first time, first time founder, like Alis networks as well. It's first time founder.
+S Speaker 145:32So I know we a couple of companies in this domain, and Tushar had connected me with harness. Harness
+So I know we a couple of companies in this domain, and Tushar had connected me with harness. Harness
+So I know we a couple of companies in this domain, and Tushar had connected me with harness. Harness
+So I know we a couple of companies in this domain, and Tushar had connected me with harness. Harness
+45:47Yeah, I can't reach out to Mohit see if he knows these guys.
+Yeah, I can't reach out to Mohit see if he knows these guys.
+Yeah, I can't reach out to Mohit see if he knows these guys.
+Yeah, I can't reach out to Mohit see if he knows these guys.
+S Speaker 145:50Mohit himself might not know, but yeah, he might connect us with somebody who knows he
+Mohit himself might not know, but yeah, he might connect us with somebody who knows he
+Mohit himself might not know, but yeah, he might connect us with somebody who knows he
+Mohit himself might not know, but yeah, he might connect us with somebody who knows he

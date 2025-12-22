@@ -1,0 +1,255 @@
+Meeting: Hawke Ventures on Creati
+Fri, Sep 5
+11:01 AM
+27 min
+Priyesh P
+Introduction and Participant Roles
+0:2
+URL: https://otter.ai/u/HGF0xOpVnnXWjTDFKNQS19IpMf4
+Downloaded: 2025-12-21T20:26:04.211325
+Method: text_extraction
+============================================================
+
+0:20The day, but okay.
+S Speaker 10:23Hey, hi, Mara. Hey, Priyesh, how are you? You're doing good. Thanks a lot for taking the time. Really appreciate it. Yeah, absolutely, yeah. I remember Eric had earlier told me that you guys were early investors at Klaviyo, so we felt must be a space that you have looked at.
+Hey, hi, Mara. Hey, Priyesh, how are you? You're doing good. Thanks a lot for taking the time. Really appreciate it. Yeah, absolutely, yeah. I remember Eric had earlier told me that you guys were early investors at Klaviyo, so we felt must be a space that you have looked at.
+Hey, hi, Mara. Hey, Priyesh, how are you? You're doing good. Thanks a lot for taking the time. Really appreciate it. Yeah, absolutely, yeah. I remember Eric had earlier told me that you guys were early investors at Klaviyo, so we felt must be a space that you have looked at.
+Hey, hi, Mara. Hey, Priyesh, how are you? You're doing good. Thanks a lot for taking the time. Really appreciate it. Yeah, absolutely, yeah. I remember Eric had earlier told me that you guys were early investors at Klaviyo, so we felt must be a space that you have looked at.
+S Speaker 31:01so we can introduce ourselves, Mark. So, you know, I manage the North America investments for Qualcomm ventures. Qualcomm ventures, we're a strategic investment arm for Qualcomm. Areas that we invest in are range across many different verticals and many different horizontals. Our businesses are around mobile our businesses are around IoT, automotive, networking, cloud, PCs, XR, a lot of different
+so we can introduce ourselves, Mark. So, you know, I manage the North America investments for Qualcomm ventures. Qualcomm ventures, we're a strategic investment arm for Qualcomm. Areas that we invest in are range across many different verticals and many different horizontals. Our businesses are around mobile our businesses are around IoT, automotive, networking, cloud, PCs, XR, a lot of different
+so we can introduce ourselves, Mark. So, you know, I manage the North America investments for Qualcomm ventures. Qualcomm ventures, we're a strategic investment arm for Qualcomm. Areas that we invest in are range across many different verticals and many different horizontals. Our businesses are around mobile our businesses are around IoT, automotive, networking, cloud, PCs, XR, a lot of different
+so we can introduce ourselves, Mark. So, you know, I manage the North America investments for Qualcomm ventures. Qualcomm ventures, we're a strategic investment arm for Qualcomm. Areas that we invest in are range across many different verticals and many different horizontals. Our businesses are around mobile our businesses are around IoT, automotive, networking, cloud, PCs, XR, a lot of different
+1:37device form factors, and even cloud compute as well.
+device form factors, and even cloud compute as well.
+device form factors, and even cloud compute as well.
+device form factors, and even cloud compute as well.
+S Speaker 31:41So we invest in areas that are pushing the boundaries of compute and connectivity across the board. So we think that edge will be a an inference node, just another inference node
+So we invest in areas that are pushing the boundaries of compute and connectivity across the board. So we think that edge will be a an inference node, just another inference node
+So we invest in areas that are pushing the boundaries of compute and connectivity across the board. So we think that edge will be a an inference node, just another inference node
+So we invest in areas that are pushing the boundaries of compute and connectivity across the board. So we think that edge will be a an inference node, just another inference node
+S Speaker 32:01And many of these AI models will inference on edge devices in the future. And hence, like for example, a lot of our interests are on video, generative video use cases. We think that for latency and cost reasons, these models will run on these edge devices down the road. So we've been spending
+And many of these AI models will inference on edge devices in the future. And hence, like for example, a lot of our interests are on video, generative video use cases. We think that for latency and cost reasons, these models will run on these edge devices down the road. So we've been spending
+And many of these AI models will inference on edge devices in the future. And hence, like for example, a lot of our interests are on video, generative video use cases. We think that for latency and cost reasons, these models will run on these edge devices down the road. So we've been spending
+And many of these AI models will inference on edge devices in the future. And hence, like for example, a lot of our interests are on video, generative video use cases. We think that for latency and cost reasons, these models will run on these edge devices down the road. So we've been spending
+2:25a lot of time across
+S Speaker 32:30AI generative videos, including companies that are building their own models to companies that are using other people's models, and then marketing and ads tends to be like that's where most of the companies in this space are getting built. And of course, there's companies like Synthesia that are building more content for training and also now marketing now. So we've been talking to many companies in the space and more recent one that we've been talking to is creatively, but at the same time, we've been talking to a cool and we've been talking to we've talked to captions as well. We've talked to
+AI generative videos, including companies that are building their own models to companies that are using other people's models, and then marketing and ads tends to be like that's where most of the companies in this space are getting built. And of course, there's companies like Synthesia that are building more content for training and also now marketing now. So we've been talking to many companies in the space and more recent one that we've been talking to is creatively, but at the same time, we've been talking to a cool and we've been talking to we've talked to captions as well. We've talked to
+AI generative videos, including companies that are building their own models to companies that are using other people's models, and then marketing and ads tends to be like that's where most of the companies in this space are getting built. And of course, there's companies like Synthesia that are building more content for training and also now marketing now. So we've been talking to many companies in the space and more recent one that we've been talking to is creatively, but at the same time, we've been talking to a cool and we've been talking to we've talked to captions as well. We've talked to
+AI generative videos, including companies that are building their own models to companies that are using other people's models, and then marketing and ads tends to be like that's where most of the companies in this space are getting built. And of course, there's companies like Synthesia that are building more content for training and also now marketing now. So we've been talking to many companies in the space and more recent one that we've been talking to is creatively, but at the same time, we've been talking to a cool and we've been talking to we've talked to captions as well. We've talked to
+3:12Higgs fields of the world. And so
+Higgs fields of the world. And so
+Higgs fields of the world. And so
+Higgs fields of the world. And so
+S Speaker 24:01Sounds great. And what stage you guys typically invest at
+Sounds great. And what stage you guys typically invest at
+Sounds great. And what stage you guys typically invest at
+Sounds great. And what stage you guys typically invest at
+S Speaker 34:07seeds, agnostically, there where I would say ABC tends to be our sweet spot, okay, but we've done seed done later stage as well.
+seeds, agnostically, there where I would say ABC tends to be our sweet spot, okay, but we've done seed done later stage as well.
+seeds, agnostically, there where I would say ABC tends to be our sweet spot, okay, but we've done seed done later stage as well.
+seeds, agnostically, there where I would say ABC tends to be our sweet spot, okay, but we've done seed done later stage as well.
+S Speaker 35:07yeah, pre seed, and seed is all about betting on founders. So yeah,
+yeah, pre seed, and seed is all about betting on founders. So yeah,
+yeah, pre seed, and seed is all about betting on founders. So yeah,
+yeah, pre seed, and seed is all about betting on founders. So yeah,
+S Speaker 37:27So mark there. I mean, the company has been around for longer, I think, 2220
+So mark there. I mean, the company has been around for longer, I think, 2220
+So mark there. I mean, the company has been around for longer, I think, 2220
+So mark there. I mean, the company has been around for longer, I think, 2220
+S Speaker 17:3422 Yes, 22 and
+S Speaker 37:37then they had a different product before, and then about 1415, minutes months ago, they decided to do this generative video product for ads and marketing and and then they over the Last 1415, months, they're now at closer to 14
+then they had a different product before, and then about 1415, minutes months ago, they decided to do this generative video product for ads and marketing and and then they over the Last 1415, months, they're now at closer to 14
+then they had a different product before, and then about 1415, minutes months ago, they decided to do this generative video product for ads and marketing and and then they over the Last 1415, months, they're now at closer to 14
+then they had a different product before, and then about 1415, minutes months ago, they decided to do this generative video product for ads and marketing and and then they over the Last 1415, months, they're now at closer to 14
+8:02million run rate.
+8:06So the growth is pretty good.
+So the growth is pretty good.
+So the growth is pretty good.
+So the growth is pretty good.
+S Speaker 38:11But at the same time, you know, like, if you take a look at captions, over the last two years, captions has gone from zero 100, I believe if you take a look at Hagen,
+But at the same time, you know, like, if you take a look at captions, over the last two years, captions has gone from zero 100, I believe if you take a look at Hagen,
+But at the same time, you know, like, if you take a look at captions, over the last two years, captions has gone from zero 100, I believe if you take a look at Hagen,
+But at the same time, you know, like, if you take a look at captions, over the last two years, captions has gone from zero 100, I believe if you take a look at Hagen,
+8:25there are similar
+8:28stage at as as captions.
+stage at as as captions.
+stage at as as captions.
+stage at as as captions.
+S Speaker 38:35Then there's Higgs field, also doing really, really well. And then there's other companies in the space, like creative by and a bunch of others that have had viral growth. So clearly, one trend that we're seeing is that a lot of these influencers love this, because now this lowers the barrier to entry to this market, to for them to be able to create ads and marketing content. But then I think what we are looking at is like, okay, is this a winner takes all market? Is this multiple winners? Market is what differentiates one platform from another? Can they really differentiate over time with this if you're not building your own models, and even if you're building your own models, you need to then, if you're building your own models, you're a different company altogether, because you have to grow, go raise hundreds of millions of dollars. So those are some of the questions. And then, what does exit look like in this space? Are these companies that get acquired, and who are the acquirers, and
+Then there's Higgs field, also doing really, really well. And then there's other companies in the space, like creative by and a bunch of others that have had viral growth. So clearly, one trend that we're seeing is that a lot of these influencers love this, because now this lowers the barrier to entry to this market, to for them to be able to create ads and marketing content. But then I think what we are looking at is like, okay, is this a winner takes all market? Is this multiple winners? Market is what differentiates one platform from another? Can they really differentiate over time with this if you're not building your own models, and even if you're building your own models, you need to then, if you're building your own models, you're a different company altogether, because you have to grow, go raise hundreds of millions of dollars. So those are some of the questions. And then, what does exit look like in this space? Are these companies that get acquired, and who are the acquirers, and
+Then there's Higgs field, also doing really, really well. And then there's other companies in the space, like creative by and a bunch of others that have had viral growth. So clearly, one trend that we're seeing is that a lot of these influencers love this, because now this lowers the barrier to entry to this market, to for them to be able to create ads and marketing content. But then I think what we are looking at is like, okay, is this a winner takes all market? Is this multiple winners? Market is what differentiates one platform from another? Can they really differentiate over time with this if you're not building your own models, and even if you're building your own models, you need to then, if you're building your own models, you're a different company altogether, because you have to grow, go raise hundreds of millions of dollars. So those are some of the questions. And then, what does exit look like in this space? Are these companies that get acquired, and who are the acquirers, and
+Then there's Higgs field, also doing really, really well. And then there's other companies in the space, like creative by and a bunch of others that have had viral growth. So clearly, one trend that we're seeing is that a lot of these influencers love this, because now this lowers the barrier to entry to this market, to for them to be able to create ads and marketing content. But then I think what we are looking at is like, okay, is this a winner takes all market? Is this multiple winners? Market is what differentiates one platform from another? Can they really differentiate over time with this if you're not building your own models, and even if you're building your own models, you need to then, if you're building your own models, you're a different company altogether, because you have to grow, go raise hundreds of millions of dollars. So those are some of the questions. And then, what does exit look like in this space? Are these companies that get acquired, and who are the acquirers, and
+9:50is this an IPO space?
+is this an IPO space?
+is this an IPO space?
+is this an IPO space?
+S Speaker 29:55Okay, those are all really good questions, just a couple of clarifying questions about the company, just so I fully understand the value problem on their site right now too. So it looks like they generate videos for ads and then do they also deploy them on ad channels, directly through Tiktok, Instagram, etc, yes.
+Okay, those are all really good questions, just a couple of clarifying questions about the company, just so I fully understand the value problem on their site right now too. So it looks like they generate videos for ads and then do they also deploy them on ad channels, directly through Tiktok, Instagram, etc, yes.
+Okay, those are all really good questions, just a couple of clarifying questions about the company, just so I fully understand the value problem on their site right now too. So it looks like they generate videos for ads and then do they also deploy them on ad channels, directly through Tiktok, Instagram, etc, yes.
+Okay, those are all really good questions, just a couple of clarifying questions about the company, just so I fully understand the value problem on their site right now too. So it looks like they generate videos for ads and then do they also deploy them on ad channels, directly through Tiktok, Instagram, etc, yes.
+S Speaker 310:19So the product is you they use their product to also generate ideas and storyboard the ads. So they have an LLM based product that they use to for creators to generate ads and content. Then that content gets used for actually generating the video frames. Then they when you push these ads to your social media platforms like Instagram, Tiktok, YouTube. Then after that, they have their own product that collects analytics of how these ads are performing on these platforms, and they use that data to go then feed into their ideation engine again to generate better ads to
+So the product is you they use their product to also generate ideas and storyboard the ads. So they have an LLM based product that they use to for creators to generate ads and content. Then that content gets used for actually generating the video frames. Then they when you push these ads to your social media platforms like Instagram, Tiktok, YouTube. Then after that, they have their own product that collects analytics of how these ads are performing on these platforms, and they use that data to go then feed into their ideation engine again to generate better ads to
+So the product is you they use their product to also generate ideas and storyboard the ads. So they have an LLM based product that they use to for creators to generate ads and content. Then that content gets used for actually generating the video frames. Then they when you push these ads to your social media platforms like Instagram, Tiktok, YouTube. Then after that, they have their own product that collects analytics of how these ads are performing on these platforms, and they use that data to go then feed into their ideation engine again to generate better ads to
+So the product is you they use their product to also generate ideas and storyboard the ads. So they have an LLM based product that they use to for creators to generate ads and content. Then that content gets used for actually generating the video frames. Then they when you push these ads to your social media platforms like Instagram, Tiktok, YouTube. Then after that, they have their own product that collects analytics of how these ads are performing on these platforms, and they use that data to go then feed into their ideation engine again to generate better ads to
+11:13That's how the product works.
+That's how the product works.
+That's how the product works.
+That's how the product works.
+S Speaker 211:16And does it automatically optimize the ad as it's running in campaign in real time, or does it just kind of direct you in the next campaign?
+And does it automatically optimize the ad as it's running in campaign in real time, or does it just kind of direct you in the next campaign?
+And does it automatically optimize the ad as it's running in campaign in real time, or does it just kind of direct you in the next campaign?
+And does it automatically optimize the ad as it's running in campaign in real time, or does it just kind of direct you in the next campaign?
+S Speaker 311:28That's the next product. Okay, okay.
+That's the next product. Okay, okay.
+That's the next product. Okay, okay.
+That's the next product. Okay, okay.
+S Speaker 211:32And then one thing that's important to understand, how many ad channels are they integrated with, right now,
+And then one thing that's important to understand, how many ad channels are they integrated with, right now,
+And then one thing that's important to understand, how many ad channels are they integrated with, right now,
+And then one thing that's important to understand, how many ad channels are they integrated with, right now,
+S Speaker 111:43currently with meta and Tiktok,
+currently with meta and Tiktok,
+currently with meta and Tiktok,
+currently with meta and Tiktok,
+S Speaker 211:47okay, okay, cool. And then in terms of their wedge customer, like, who is their ICP? Are they targeting agencies a certain level of brand in terms of revenue.
+okay, okay, cool. And then in terms of their wedge customer, like, who is their ICP? Are they targeting agencies a certain level of brand in terms of revenue.
+okay, okay, cool. And then in terms of their wedge customer, like, who is their ICP? Are they targeting agencies a certain level of brand in terms of revenue.
+okay, okay, cool. And then in terms of their wedge customer, like, who is their ICP? Are they targeting agencies a certain level of brand in terms of revenue.
+S Speaker 112:03So they're mostly mid market, I would say Mara, a lot of SMBs and some influencers.
+So they're mostly mid market, I would say Mara, a lot of SMBs and some influencers.
+So they're mostly mid market, I would say Mara, a lot of SMBs and some influencers.
+So they're mostly mid market, I would say Mara, a lot of SMBs and some influencers.
+S Speaker 315:31and for play. So one of the things Mara which is so what our thesis is heavily also dependent on investing in founders that are deep tech. So we look at the research backgrounds of people. That's something that we index towards as well. So create these team what we found is, it's the team is has got a bunch of really strong researchers, PhDs, that have done AI research, and then they've got their own proprietary decoder models, they've got their own proprietary fine tuning techniques, and they've got their own so that's why you see the Quality of videos, and they've got a bunch of different differentiators today around the quality of videos.
+and for play. So one of the things Mara which is so what our thesis is heavily also dependent on investing in founders that are deep tech. So we look at the research backgrounds of people. That's something that we index towards as well. So create these team what we found is, it's the team is has got a bunch of really strong researchers, PhDs, that have done AI research, and then they've got their own proprietary decoder models, they've got their own proprietary fine tuning techniques, and they've got their own so that's why you see the Quality of videos, and they've got a bunch of different differentiators today around the quality of videos.
+and for play. So one of the things Mara which is so what our thesis is heavily also dependent on investing in founders that are deep tech. So we look at the research backgrounds of people. That's something that we index towards as well. So create these team what we found is, it's the team is has got a bunch of really strong researchers, PhDs, that have done AI research, and then they've got their own proprietary decoder models, they've got their own proprietary fine tuning techniques, and they've got their own so that's why you see the Quality of videos, and they've got a bunch of different differentiators today around the quality of videos.
+and for play. So one of the things Mara which is so what our thesis is heavily also dependent on investing in founders that are deep tech. So we look at the research backgrounds of people. That's something that we index towards as well. So create these team what we found is, it's the team is has got a bunch of really strong researchers, PhDs, that have done AI research, and then they've got their own proprietary decoder models, they've got their own proprietary fine tuning techniques, and they've got their own so that's why you see the Quality of videos, and they've got a bunch of different differentiators today around the quality of videos.
+16:27We still don't think they're defensible enough,
+We still don't think they're defensible enough,
+We still don't think they're defensible enough,
+We still don't think they're defensible enough,
+S Speaker 217:08Yeah, it's a good question. It's also it's a little bit of a tough call, especially because play and I assume creating Studio will continue to build across more ad channels, but the value prop is that they're on multiple ad channels, and you can easily run campaigns on many ad channels at once. And so
+Yeah, it's a good question. It's also it's a little bit of a tough call, especially because play and I assume creating Studio will continue to build across more ad channels, but the value prop is that they're on multiple ad channels, and you can easily run campaigns on many ad channels at once. And so
+Yeah, it's a good question. It's also it's a little bit of a tough call, especially because play and I assume creating Studio will continue to build across more ad channels, but the value prop is that they're on multiple ad channels, and you can easily run campaigns on many ad channels at once. And so
+Yeah, it's a good question. It's also it's a little bit of a tough call, especially because play and I assume creating Studio will continue to build across more ad channels, but the value prop is that they're on multiple ad channels, and you can easily run campaigns on many ad channels at once. And so
+S Speaker 317:30adding more channels, I don't think Mara is a function of them not being able to add more channels. Adding more channels is a decision that they made because most of the ads, most of the revenue that's coming from is Instagram and Tiktok. Yeah, that's a adding more channels these days through like
+adding more channels, I don't think Mara is a function of them not being able to add more channels. Adding more channels is a decision that they made because most of the ads, most of the revenue that's coming from is Instagram and Tiktok. Yeah, that's a adding more channels these days through like
+adding more channels, I don't think Mara is a function of them not being able to add more channels. Adding more channels is a decision that they made because most of the ads, most of the revenue that's coming from is Instagram and Tiktok. Yeah, that's a adding more channels these days through like
+adding more channels, I don't think Mara is a function of them not being able to add more channels. Adding more channels is a decision that they made because most of the ads, most of the revenue that's coming from is Instagram and Tiktok. Yeah, that's a adding more channels these days through like
+17:58it's it's just adding more API support,
+it's it's just adding more API support,
+it's it's just adding more API support,
+it's it's just adding more API support,
+S Speaker 318:02or more connectors, building more connectors, and then there's third party to add connectors. I'm more like, I think like, the question is, has Have there been like, do ad agencies acquire these companies, if they ask them, what, what price, what are the multiples? Is that like? Is this an acquisitive space, even? Or do big tech acquire Are you familiar with any of the exit dynamics in this space?
+or more connectors, building more connectors, and then there's third party to add connectors. I'm more like, I think like, the question is, has Have there been like, do ad agencies acquire these companies, if they ask them, what, what price, what are the multiples? Is that like? Is this an acquisitive space, even? Or do big tech acquire Are you familiar with any of the exit dynamics in this space?
+or more connectors, building more connectors, and then there's third party to add connectors. I'm more like, I think like, the question is, has Have there been like, do ad agencies acquire these companies, if they ask them, what, what price, what are the multiples? Is that like? Is this an acquisitive space, even? Or do big tech acquire Are you familiar with any of the exit dynamics in this space?
+or more connectors, building more connectors, and then there's third party to add connectors. I'm more like, I think like, the question is, has Have there been like, do ad agencies acquire these companies, if they ask them, what, what price, what are the multiples? Is that like? Is this an acquisitive space, even? Or do big tech acquire Are you familiar with any of the exit dynamics in this space?
+S Speaker 218:40I mean, I would say a space is changing, because previously you could only run an ad on meta by going to meta ads manager itself, and now you can run ads outside of those platforms. And that's another competitor is like the ad channels itself, if they get better at their own generative creative and their own optimization, that's also a competitor to create a studio and everyone in this space, although you
+I mean, I would say a space is changing, because previously you could only run an ad on meta by going to meta ads manager itself, and now you can run ads outside of those platforms. And that's another competitor is like the ad channels itself, if they get better at their own generative creative and their own optimization, that's also a competitor to create a studio and everyone in this space, although you
+I mean, I would say a space is changing, because previously you could only run an ad on meta by going to meta ads manager itself, and now you can run ads outside of those platforms. And that's another competitor is like the ad channels itself, if they get better at their own generative creative and their own optimization, that's also a competitor to create a studio and everyone in this space, although you
+I mean, I would say a space is changing, because previously you could only run an ad on meta by going to meta ads manager itself, and now you can run ads outside of those platforms. And that's another competitor is like the ad channels itself, if they get better at their own generative creative and their own optimization, that's also a competitor to create a studio and everyone in this space, although you
+S Speaker 319:12think, oh, meta, and that's another concern, which is meta and Google themselves
+think, oh, meta, and that's another concern, which is meta and Google themselves
+think, oh, meta, and that's another concern, which is meta and Google themselves
+think, oh, meta, and that's another concern, which is meta and Google themselves
+19:18will create their own ads platforms,
+will create their own ads platforms,
+will create their own ads platforms,
+will create their own ads platforms,
+S Speaker 320:53to their clients, which is but then that means that the agencies have to be 20, $30
+to their clients, which is but then that means that the agencies have to be 20, $30
+to their clients, which is but then that means that the agencies have to be 20, $30
+to their clients, which is but then that means that the agencies have to be 20, $30
+21:02billion $30 billion plus, right?
+billion $30 billion plus, right?
+billion $30 billion plus, right?
+billion $30 billion plus, right?
+S Speaker 221:07So I don't actually know what will end up in this market. I think that. I think that the future of media buying in an automated fashion like I think that thesis in itself is something that will unfold,
+So I don't actually know what will end up in this market. I think that. I think that the future of media buying in an automated fashion like I think that thesis in itself is something that will unfold,
+So I don't actually know what will end up in this market. I think that. I think that the future of media buying in an automated fashion like I think that thesis in itself is something that will unfold,
+So I don't actually know what will end up in this market. I think that. I think that the future of media buying in an automated fashion like I think that thesis in itself is something that will unfold,
+21:28but I don't know who would acquire a business like that.
+but I don't know who would acquire a business like that.
+but I don't know who would acquire a business like that.
+but I don't know who would acquire a business like that.
+21:57So that's the biggest filter
+So that's the biggest filter
+So that's the biggest filter
+So that's the biggest filter
+22:01for us. And then after that, we think,
+for us. And then after that, we think,
+for us. And then after that, we think,
+for us. And then after that, we think,
+S Speaker 322:46Yeah, that's good. Thank you. Have you guys looked at pigs field and some of these others? I haven't heard
+Yeah, that's good. Thank you. Have you guys looked at pigs field and some of these others? I haven't heard
+Yeah, that's good. Thank you. Have you guys looked at pigs field and some of these others? I haven't heard
+Yeah, that's good. Thank you. Have you guys looked at pigs field and some of these others? I haven't heard
+S Speaker 222:54that one I know that I mentioned in my email, icon got
+that one I know that I mentioned in my email, icon got
+that one I know that I mentioned in my email, icon got
+that one I know that I mentioned in my email, icon got
+23:00icon because icon.
+S Speaker 323:04I know they had a wider launch, but I don't know how they're doing now.
+I know they had a wider launch, but I don't know how they're doing now.
+I know they had a wider launch, but I don't know how they're doing now.
+I know they had a wider launch, but I don't know how they're doing now.
+23:08I heard they're not doing well
+I heard they're not doing well
+I heard they're not doing well
+I heard they're not doing well
+S Speaker 223:11as well, and then I'm not sure if you saw notch as well. They're more focused on like photos, right? I don't think they do.
+as well, and then I'm not sure if you saw notch as well. They're more focused on like photos, right? I don't think they do.
+as well, and then I'm not sure if you saw notch as well. They're more focused on like photos, right? I don't think they do.
+as well, and then I'm not sure if you saw notch as well. They're more focused on like photos, right? I don't think they do.
+S Speaker 323:25product is not as good as creativity, like, if you just go try their product, yeah, but it's it's not as good as creativity today. But, yeah, icon exactly the same, same space.
+product is not as good as creativity, like, if you just go try their product, yeah, but it's it's not as good as creativity today. But, yeah, icon exactly the same, same space.
+product is not as good as creativity, like, if you just go try their product, yeah, but it's it's not as good as creativity today. But, yeah, icon exactly the same, same space.
+product is not as good as creativity, like, if you just go try their product, yeah, but it's it's not as good as creativity today. But, yeah, icon exactly the same, same space.
+S Speaker 223:44So, yeah, it's almost like, Well, does creating do any photos?
+So, yeah, it's almost like, Well, does creating do any photos?
+So, yeah, it's almost like, Well, does creating do any photos?
+So, yeah, it's almost like, Well, does creating do any photos?
+S Speaker 223:53Okay, that's good. Yeah. I just looked at another company this morning called lock that does these are also for, like, product photos, not just ads, but they generate creative with models and other things. I think if a company was big enough to have a strong exit in this space, they have all of this under one umbrella where, like, I
+Okay, that's good. Yeah. I just looked at another company this morning called lock that does these are also for, like, product photos, not just ads, but they generate creative with models and other things. I think if a company was big enough to have a strong exit in this space, they have all of this under one umbrella where, like, I
+Okay, that's good. Yeah. I just looked at another company this morning called lock that does these are also for, like, product photos, not just ads, but they generate creative with models and other things. I think if a company was big enough to have a strong exit in this space, they have all of this under one umbrella where, like, I
+Okay, that's good. Yeah. I just looked at another company this morning called lock that does these are also for, like, product photos, not just ads, but they generate creative with models and other things. I think if a company was big enough to have a strong exit in this space, they have all of this under one umbrella where, like, I
+24:25mean, there's, like, the companies like that as well,
+mean, there's, like, the companies like that as well,
+mean, there's, like, the companies like that as well,
+mean, there's, like, the companies like that as well,
+24:29but there's Yeah.
+24:33I mean, I think that'll be Yeah. I mean, there's because,
+I mean, I think that'll be Yeah. I mean, there's because,
+I mean, I think that'll be Yeah. I mean, there's because,
+I mean, I think that'll be Yeah. I mean, there's because,
+S Speaker 324:40like, pretty itself does images as well. The only thing is, I think doing images these days is commodity, yeah, and especially now, like Google is coming up with some really interesting like this nano banana and everything is also very, very interesting.
+like, pretty itself does images as well. The only thing is, I think doing images these days is commodity, yeah, and especially now, like Google is coming up with some really interesting like this nano banana and everything is also very, very interesting.
+like, pretty itself does images as well. The only thing is, I think doing images these days is commodity, yeah, and especially now, like Google is coming up with some really interesting like this nano banana and everything is also very, very interesting.
+like, pretty itself does images as well. The only thing is, I think doing images these days is commodity, yeah, and especially now, like Google is coming up with some really interesting like this nano banana and everything is also very, very interesting.
+S Speaker 224:57So, yeah, do you think that video will become a commodity as well. That's my worry.
+So, yeah, do you think that video will become a commodity as well. That's my worry.
+So, yeah, do you think that video will become a commodity as well. That's my worry.
+So, yeah, do you think that video will become a commodity as well. That's my worry.
+S Speaker 325:03Yeah, so so worry, that's that's why we're
+Yeah, so so worry, that's that's why we're
+Yeah, so so worry, that's that's why we're
+Yeah, so so worry, that's that's why we're
+25:09otherwise. You know, the numbers look amazing, pretty.
+otherwise. You know, the numbers look amazing, pretty.
+otherwise. You know, the numbers look amazing, pretty.
+otherwise. You know, the numbers look amazing, pretty.
+S Speaker 325:15Yeah, I think video also becomes commodity in a year, especially where things are today. So if it becomes commodity, then how do you differentiate, right? So the cost of switching is super low. The other thing is, you know, like, what's the cost of like for for these influencer types, like enterprises, I get it that the cost of switching is high because they get used to the tool. They have the data there and everything. But what about influencers? Is there like a high cost of switching for them as well
+Yeah, I think video also becomes commodity in a year, especially where things are today. So if it becomes commodity, then how do you differentiate, right? So the cost of switching is super low. The other thing is, you know, like, what's the cost of like for for these influencer types, like enterprises, I get it that the cost of switching is high because they get used to the tool. They have the data there and everything. But what about influencers? Is there like a high cost of switching for them as well
+Yeah, I think video also becomes commodity in a year, especially where things are today. So if it becomes commodity, then how do you differentiate, right? So the cost of switching is super low. The other thing is, you know, like, what's the cost of like for for these influencer types, like enterprises, I get it that the cost of switching is high because they get used to the tool. They have the data there and everything. But what about influencers? Is there like a high cost of switching for them as well
+Yeah, I think video also becomes commodity in a year, especially where things are today. So if it becomes commodity, then how do you differentiate, right? So the cost of switching is super low. The other thing is, you know, like, what's the cost of like for for these influencer types, like enterprises, I get it that the cost of switching is high because they get used to the tool. They have the data there and everything. But what about influencers? Is there like a high cost of switching for them as well
+26:03for like in general, like
+for like in general, like
+for like in general, like
+for like in general, like
+S Speaker 326:08influencers that use these types of products, generative products, or just me do not generate products, even legacy, when they Were using products to create content, is there a high cost of switching for them?
+influencers that use these types of products, generative products, or just me do not generate products, even legacy, when they Were using products to create content, is there a high cost of switching for them?
+influencers that use these types of products, generative products, or just me do not generate products, even legacy, when they Were using products to create content, is there a high cost of switching for them?
+influencers that use these types of products, generative products, or just me do not generate products, even legacy, when they Were using products to create content, is there a high cost of switching for them?
+S Speaker 227:29Thank you so much. I appreciate that, and it was great to meet you guys. Good luck in making this decision, and keep us posted on where you net out. Will do Thank you. Thank you.
+Thank you so much. I appreciate that, and it was great to meet you guys. Good luck in making this decision, and keep us posted on where you net out. Will do Thank you. Thank you.
+Thank you so much. I appreciate that, and it was great to meet you guys. Good luck in making this decision, and keep us posted on where you net out. Will do Thank you. Thank you.
+Thank you so much. I appreciate that, and it was great to meet you guys. Good luck in making this decision, and keep us posted on where you net out. Will do Thank you. Thank you.

@@ -1,0 +1,49 @@
+Meeting: Tushar on Mobot
+Fri, Nov 15, 2024
+11:50 AM
+2 min
+Priyesh P
+Competitor Analysis and Differentiation
+0
+URL: https://otter.ai/u/GznXhngJrzpPchX0G-iYL_zB9fg
+Downloaded: 2025-12-22T13:42:01.085464
+Method: text_extraction
+============================================================
+
+S Speaker 10:00So my key question here is, what? I'm pretty sure there must be similar solutions in market. Key question here is, who else is the competitor here? Why is mobile better than the competitor? Pretty sure I've seen videos of, you know, these Chinese farms, where they have these device farms with robotic fingers doing this. So what's the differentiation with mobot And yeah, I mean, that's, that's my top of my question here, when did they start?
+So my key question here is, what? I'm pretty sure there must be similar solutions in market. Key question here is, who else is the competitor here? Why is mobile better than the competitor? Pretty sure I've seen videos of, you know, these Chinese farms, where they have these device farms with robotic fingers doing this. So what's the differentiation with mobot And yeah, I mean, that's, that's my top of my question here, when did they start?
+So my key question here is, what? I'm pretty sure there must be similar solutions in market. Key question here is, who else is the competitor here? Why is mobile better than the competitor? Pretty sure I've seen videos of, you know, these Chinese farms, where they have these device farms with robotic fingers doing this. So what's the differentiation with mobot And yeah, I mean, that's, that's my top of my question here, when did they start?
+So my key question here is, what? I'm pretty sure there must be similar solutions in market. Key question here is, who else is the competitor here? Why is mobile better than the competitor? Pretty sure I've seen videos of, you know, these Chinese farms, where they have these device farms with robotic fingers doing this. So what's the differentiation with mobot And yeah, I mean, that's, that's my top of my question here, when did they start?
+S Speaker 20:51They started an I guess she said about
+They started an I guess she said about
+They started an I guess she said about
+They started an I guess she said about
+S Speaker 11:002018 Yeah. So, so they've been around for a while.
+2018 Yeah. So, so they've been around for a while.
+2018 Yeah. So, so they've been around for a while.
+2018 Yeah. So, so they've been around for a while.
+1:11what, like six years now?
+what, like six years now?
+what, like six years now?
+what, like six years now?
+S Speaker 11:15What's taken that long? Who are the other investors here?
+What's taken that long? Who are the other investors here?
+What's taken that long? Who are the other investors here?
+What's taken that long? Who are the other investors here?
+S Speaker 21:21So it's, it's a YC company that is uncorrelated and primary venture that I could recognize. Okay,
+So it's, it's a YC company that is uncorrelated and primary venture that I could recognize. Okay,
+So it's, it's a YC company that is uncorrelated and primary venture that I could recognize. Okay,
+So it's, it's a YC company that is uncorrelated and primary venture that I could recognize. Okay,
+S Speaker 11:31yeah, that's, I mean, it's interesting enough, but I would say, let's find out who else is in this space.
+yeah, that's, I mean, it's interesting enough, but I would say, let's find out who else is in this space.
+yeah, that's, I mean, it's interesting enough, but I would say, let's find out who else is in this space.
+yeah, that's, I mean, it's interesting enough, but I would say, let's find out who else is in this space.
+S Speaker 21:37Okay, I'll do a little bit of digging, try to answer some of the questions you have. Also try to understand the tech stack is, is the software part of it more similar to lambda test or not? Can are they also test?
+Okay, I'll do a little bit of digging, try to answer some of the questions you have. Also try to understand the tech stack is, is the software part of it more similar to lambda test or not? Can are they also test?
+Okay, I'll do a little bit of digging, try to answer some of the questions you have. Also try to understand the tech stack is, is the software part of it more similar to lambda test or not? Can are they also test?
+Okay, I'll do a little bit of digging, try to answer some of the questions you have. Also try to understand the tech stack is, is the software part of it more similar to lambda test or not? Can are they also test?
+1:54But you know, this
+S Speaker 11:58is different from lambda test, and they have their own device form, right? They don't sell hardware to the customer, no mobile app testing. This is mobile app testing, really? Yeah, definitely. Yeah, it's in a it's relevant for us. Can relevance can be built here.
+is different from lambda test, and they have their own device form, right? They don't sell hardware to the customer, no mobile app testing. This is mobile app testing, really? Yeah, definitely. Yeah, it's in a it's relevant for us. Can relevance can be built here.
+is different from lambda test, and they have their own device form, right? They don't sell hardware to the customer, no mobile app testing. This is mobile app testing, really? Yeah, definitely. Yeah, it's in a it's relevant for us. Can relevance can be built here.
+is different from lambda test, and they have their own device form, right? They don't sell hardware to the customer, no mobile app testing. This is mobile app testing, really? Yeah, definitely. Yeah, it's in a it's relevant for us. Can relevance can be built here.

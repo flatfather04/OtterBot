@@ -1,0 +1,1038 @@
+Meeting: AI Startup Investment Meeting
+Fri, Mar 21
+12:11 PM
+48 min
+Priyesh P
+Introduction and Background of P
+URL: https://otter.ai/u/RgDCGm0SAItpf8aMgh7OBWEZBuE
+Downloaded: 2025-12-22T12:32:26.443267
+Method: text_extraction
+============================================================
+
+I'm Priyesh. Priyesh Qualcomm ventures,
+I'm Priyesh. Priyesh Qualcomm ventures,
+I'm Priyesh. Priyesh Qualcomm ventures,
+I'm Priyesh. Priyesh Qualcomm ventures,
+yes, I used to work with parlors capital when he ran all Latin America. He is one of the
+yes, I used to work with parlors capital when he ran all Latin America. He is one of the
+yes, I used to work with parlors capital when he ran all Latin America. He is one of the
+yes, I used to work with parlors capital when he ran all Latin America. He is one of the
+Speaker 1
+nicest in the world. He's such a wonderful person. I recently
+nicest in the world. He's such a wonderful person. I recently
+nicest in the world. He's such a wonderful person. I recently
+nicest in the world. He's such a wonderful person. I recently
+joined the team with he
+joined the team with he
+joined the team with he
+joined the team with he
+would love to see what you guys are building a position in the market.
+would love to see what you guys are building a position in the market.
+would love to see what you guys are building a position in the market.
+would love to see what you guys are building a position in the market.
+Speaker 2
+CEO is what I would like to do, have him explain with the right perspective to give you a broad view, and you should need origin automating some form of behavior.
+CEO is what I would like to do, have him explain with the right perspective to give you a broad view, and you should need origin automating some form of behavior.
+CEO is what I would like to do, have him explain with the right perspective to give you a broad view, and you should need origin automating some form of behavior.
+CEO is what I would like to do, have him explain with the right perspective to give you a broad view, and you should need origin automating some form of behavior.
+Speaker 1
+Yeah, he's a guy in AI, you should know correctly, serial entrepreneur. His first startup was beyond core that got acquired by Salesforce. Became Salesforce Einstein discovery. So I worked with a lot of founders, yeah, third AI startup. He is an incredible combination of technical expertise and business pragmatism, very so just as
+Yeah, he's a guy in AI, you should know correctly, serial entrepreneur. His first startup was beyond core that got acquired by Salesforce. Became Salesforce Einstein discovery. So I worked with a lot of founders, yeah, third AI startup. He is an incredible combination of technical expertise and business pragmatism, very so just as
+Yeah, he's a guy in AI, you should know correctly, serial entrepreneur. His first startup was beyond core that got acquired by Salesforce. Became Salesforce Einstein discovery. So I worked with a lot of founders, yeah, third AI startup. He is an incredible combination of technical expertise and business pragmatism, very so just as
+Yeah, he's a guy in AI, you should know correctly, serial entrepreneur. His first startup was beyond core that got acquired by Salesforce. Became Salesforce Einstein discovery. So I worked with a lot of founders, yeah, third AI startup. He is an incredible combination of technical expertise and business pragmatism, very so just as
+Speaker 3
+legal I lead Alliance, I leverage a lot of what I did in South Africa. How do we collaborate with them? I want to introduce you to how are the Qualcomm chips similar
+legal I lead Alliance, I leverage a lot of what I did in South Africa. How do we collaborate with them? I want to introduce you to how are the Qualcomm chips similar
+legal I lead Alliance, I leverage a lot of what I did in South Africa. How do we collaborate with them? I want to introduce you to how are the Qualcomm chips similar
+legal I lead Alliance, I leverage a lot of what I did in South Africa. How do we collaborate with them? I want to introduce you to how are the Qualcomm chips similar
+Speaker 1
+or different from the grace? Not the best person to tell you that I come from external industries and have recently joined the team probably a year now, but I can connect you to someone, if that's being
+or different from the grace? Not the best person to tell you that I come from external industries and have recently joined the team probably a year now, but I can connect you to someone, if that's being
+or different from the grace? Not the best person to tell you that I come from external industries and have recently joined the team probably a year now, but I can connect you to someone, if that's being
+or different from the grace? Not the best person to tell you that I come from external industries and have recently joined the team probably a year now, but I can connect you to someone, if that's being
+Speaker 2
+quoted onto the grace Yeah. And sometimes people are asking, I say, could you run a processor? Because it's the same underlying architecture, but it will be interesting thing to quickly check, yeah.
+quoted onto the grace Yeah. And sometimes people are asking, I say, could you run a processor? Because it's the same underlying architecture, but it will be interesting thing to quickly check, yeah.
+quoted onto the grace Yeah. And sometimes people are asking, I say, could you run a processor? Because it's the same underlying architecture, but it will be interesting thing to quickly check, yeah.
+quoted onto the grace Yeah. And sometimes people are asking, I say, could you run a processor? Because it's the same underlying architecture, but it will be interesting thing to quickly check, yeah.
+Speaker 1
+I can connect you to someone in our developer relations team, and that could be a conversation you can have from there, very
+I can connect you to someone in our developer relations team, and that could be a conversation you can have from there, very
+I can connect you to someone in our developer relations team, and that could be a conversation you can have from there, very
+I can connect you to someone in our developer relations team, and that could be a conversation you can have from there, very
+top of the mind, I would say we
+top of the mind, I would say we
+top of the mind, I would say we
+top of the mind, I would say we
+Speaker 2
+would have better knowledge, right? Like, if we don't have to quote our code to make it work, then it's a no brainer for us. So very
+would have better knowledge, right? Like, if we don't have to quote our code to make it work, then it's a no brainer for us. So very
+would have better knowledge, right? Like, if we don't have to quote our code to make it work, then it's a no brainer for us. So very
+would have better knowledge, right? Like, if we don't have to quote our code to make it work, then it's a no brainer for us. So very
+Speaker 1
+Speaker 2
+you're actually going to start raising money next week. So we were just doing some bunch of stuff with Nvidia that we couldn't announce, really see, yeah, so we couldn't, like, we have to get this stuff out. So three key things, first is, if you want to do agents, unless your agent gets specialized to your user interface, your data, your process, it won't actually work, and that process is manual. Today, if you do anything, you do reinforcement learning or fine tuning, which we call training an AI like a pet, you're like, good job, bad job. But that's not a high resolution feedback. So you need a lot of data to fine tune. That's how you end up with a bunch of synthetic data approaches which actually creates problems. Yeah, what we did is we added the reasoning to models using certain techniques, like time, using an in person learning. We chain of thought examples, then we allow people to provide feedback on the reasoning steps, okay, getting much higher fidelity feedback, right? What we have shown is, with just 100 bits of feedback, we can improve accuracy by about six percentage points, and with 1000 bits of feedback, with Nvidia's partnership, we took 8 billion parameter model and got it to beat deep sea and got it to beat Gemini and got it to be like all the big on the same Use case, the total fine tuning cost was less than five bucks, starting from the reasoning model, 100,000 bits of feedback on doing. Secondly, the whole fine tuning cycle is completely automated, so every time you give feedback, we immediately adjust the model by using free shot learning and from documentation, the user doesn't need to know, because we are designed for the business user, like the tagline is, I am able, so anybody can do this, so the user doesn't need to know, but we immediately adjust the app to confirm closed loop cycle, right? So that way the user is motivated to go more feedback every 100 observations. We fine tune every 1000 observations. We do reinforcement, and we constantly test to see, did it make it better? Really make it worse, so we can back this right, that approach. Then what we did is we took it to the hardware level to optimize it. So what happens today when you have agents? So let's say a five models an agent that communication is asynchronous, because each of the models are running on different set of servers. We first took it to the same server, then we took it to the same super chip, and that made it massively optimal. So we are seeing about a 2x to 5x performance difference between doing it the open, AI, Google Cloud way to doing it this way. And it's only going to get better as Blackwell comes into play. Sorry, I can't see your
+you're actually going to start raising money next week. So we were just doing some bunch of stuff with Nvidia that we couldn't announce, really see, yeah, so we couldn't, like, we have to get this stuff out. So three key things, first is, if you want to do agents, unless your agent gets specialized to your user interface, your data, your process, it won't actually work, and that process is manual. Today, if you do anything, you do reinforcement learning or fine tuning, which we call training an AI like a pet, you're like, good job, bad job. But that's not a high resolution feedback. So you need a lot of data to fine tune. That's how you end up with a bunch of synthetic data approaches which actually creates problems. Yeah, what we did is we added the reasoning to models using certain techniques, like time, using an in person learning. We chain of thought examples, then we allow people to provide feedback on the reasoning steps, okay, getting much higher fidelity feedback, right? What we have shown is, with just 100 bits of feedback, we can improve accuracy by about six percentage points, and with 1000 bits of feedback, with Nvidia's partnership, we took 8 billion parameter model and got it to beat deep sea and got it to beat Gemini and got it to be like all the big on the same Use case, the total fine tuning cost was less than five bucks, starting from the reasoning model, 100,000 bits of feedback on doing. Secondly, the whole fine tuning cycle is completely automated, so every time you give feedback, we immediately adjust the model by using free shot learning and from documentation, the user doesn't need to know, because we are designed for the business user, like the tagline is, I am able, so anybody can do this, so the user doesn't need to know, but we immediately adjust the app to confirm closed loop cycle, right? So that way the user is motivated to go more feedback every 100 observations. We fine tune every 1000 observations. We do reinforcement, and we constantly test to see, did it make it better? Really make it worse, so we can back this right, that approach. Then what we did is we took it to the hardware level to optimize it. So what happens today when you have agents? So let's say a five models an agent that communication is asynchronous, because each of the models are running on different set of servers. We first took it to the same server, then we took it to the same super chip, and that made it massively optimal. So we are seeing about a 2x to 5x performance difference between doing it the open, AI, Google Cloud way to doing it this way. And it's only going to get better as Blackwell comes into play. Sorry, I can't see your
+you're actually going to start raising money next week. So we were just doing some bunch of stuff with Nvidia that we couldn't announce, really see, yeah, so we couldn't, like, we have to get this stuff out. So three key things, first is, if you want to do agents, unless your agent gets specialized to your user interface, your data, your process, it won't actually work, and that process is manual. Today, if you do anything, you do reinforcement learning or fine tuning, which we call training an AI like a pet, you're like, good job, bad job. But that's not a high resolution feedback. So you need a lot of data to fine tune. That's how you end up with a bunch of synthetic data approaches which actually creates problems. Yeah, what we did is we added the reasoning to models using certain techniques, like time, using an in person learning. We chain of thought examples, then we allow people to provide feedback on the reasoning steps, okay, getting much higher fidelity feedback, right? What we have shown is, with just 100 bits of feedback, we can improve accuracy by about six percentage points, and with 1000 bits of feedback, with Nvidia's partnership, we took 8 billion parameter model and got it to beat deep sea and got it to beat Gemini and got it to be like all the big on the same Use case, the total fine tuning cost was less than five bucks, starting from the reasoning model, 100,000 bits of feedback on doing. Secondly, the whole fine tuning cycle is completely automated, so every time you give feedback, we immediately adjust the model by using free shot learning and from documentation, the user doesn't need to know, because we are designed for the business user, like the tagline is, I am able, so anybody can do this, so the user doesn't need to know, but we immediately adjust the app to confirm closed loop cycle, right? So that way the user is motivated to go more feedback every 100 observations. We fine tune every 1000 observations. We do reinforcement, and we constantly test to see, did it make it better? Really make it worse, so we can back this right, that approach. Then what we did is we took it to the hardware level to optimize it. So what happens today when you have agents? So let's say a five models an agent that communication is asynchronous, because each of the models are running on different set of servers. We first took it to the same server, then we took it to the same super chip, and that made it massively optimal. So we are seeing about a 2x to 5x performance difference between doing it the open, AI, Google Cloud way to doing it this way. And it's only going to get better as Blackwell comes into play. Sorry, I can't see your
+you're actually going to start raising money next week. So we were just doing some bunch of stuff with Nvidia that we couldn't announce, really see, yeah, so we couldn't, like, we have to get this stuff out. So three key things, first is, if you want to do agents, unless your agent gets specialized to your user interface, your data, your process, it won't actually work, and that process is manual. Today, if you do anything, you do reinforcement learning or fine tuning, which we call training an AI like a pet, you're like, good job, bad job. But that's not a high resolution feedback. So you need a lot of data to fine tune. That's how you end up with a bunch of synthetic data approaches which actually creates problems. Yeah, what we did is we added the reasoning to models using certain techniques, like time, using an in person learning. We chain of thought examples, then we allow people to provide feedback on the reasoning steps, okay, getting much higher fidelity feedback, right? What we have shown is, with just 100 bits of feedback, we can improve accuracy by about six percentage points, and with 1000 bits of feedback, with Nvidia's partnership, we took 8 billion parameter model and got it to beat deep sea and got it to beat Gemini and got it to be like all the big on the same Use case, the total fine tuning cost was less than five bucks, starting from the reasoning model, 100,000 bits of feedback on doing. Secondly, the whole fine tuning cycle is completely automated, so every time you give feedback, we immediately adjust the model by using free shot learning and from documentation, the user doesn't need to know, because we are designed for the business user, like the tagline is, I am able, so anybody can do this, so the user doesn't need to know, but we immediately adjust the app to confirm closed loop cycle, right? So that way the user is motivated to go more feedback every 100 observations. We fine tune every 1000 observations. We do reinforcement, and we constantly test to see, did it make it better? Really make it worse, so we can back this right, that approach. Then what we did is we took it to the hardware level to optimize it. So what happens today when you have agents? So let's say a five models an agent that communication is asynchronous, because each of the models are running on different set of servers. We first took it to the same server, then we took it to the same super chip, and that made it massively optimal. So we are seeing about a 2x to 5x performance difference between doing it the open, AI, Google Cloud way to doing it this way. And it's only going to get better as Blackwell comes into play. Sorry, I can't see your
+Okay. Cool. So hopefully
+Okay. Cool. So hopefully
+Okay. Cool. So hopefully
+Okay. Cool. So hopefully
+Speaker 2
+that makes sense. Yeah, in terms of customers, publicly, CVS, health care on Verizon, like 50 of the Fortune 500 have used us. But paying customers include some of the ones I was talking
+that makes sense. Yeah, in terms of customers, publicly, CVS, health care on Verizon, like 50 of the Fortune 500 have used us. But paying customers include some of the ones I was talking
+that makes sense. Yeah, in terms of customers, publicly, CVS, health care on Verizon, like 50 of the Fortune 500 have used us. But paying customers include some of the ones I was talking
+that makes sense. Yeah, in terms of customers, publicly, CVS, health care on Verizon, like 50 of the Fortune 500 have used us. But paying customers include some of the ones I was talking
+Speaker 1
+and what kind of workflows are these customers using? For you, for today, very
+and what kind of workflows are these customers using? For you, for today, very
+and what kind of workflows are these customers using? For you, for today, very
+and what kind of workflows are these customers using? For you, for today, very
+Speaker 2
+wide variety. So like, typically, what ends up? So we have 37 templates already ready. You're gonna have 100 templates in the next couple of months. Customers just start from a template and start going in different directions. So across the bigger industry, we have probably done work. So for the first several years, we did a lot of hand crafted projects. So we have done like, at least 1000 projects over the last few years, two, three years, we learned what worked, what didn't work, and we Templars the heck out of it. That's the starting point. And then the AI just becomes automatically customized to the user.
+wide variety. So like, typically, what ends up? So we have 37 templates already ready. You're gonna have 100 templates in the next couple of months. Customers just start from a template and start going in different directions. So across the bigger industry, we have probably done work. So for the first several years, we did a lot of hand crafted projects. So we have done like, at least 1000 projects over the last few years, two, three years, we learned what worked, what didn't work, and we Templars the heck out of it. That's the starting point. And then the AI just becomes automatically customized to the user.
+wide variety. So like, typically, what ends up? So we have 37 templates already ready. You're gonna have 100 templates in the next couple of months. Customers just start from a template and start going in different directions. So across the bigger industry, we have probably done work. So for the first several years, we did a lot of hand crafted projects. So we have done like, at least 1000 projects over the last few years, two, three years, we learned what worked, what didn't work, and we Templars the heck out of it. That's the starting point. And then the AI just becomes automatically customized to the user.
+wide variety. So like, typically, what ends up? So we have 37 templates already ready. You're gonna have 100 templates in the next couple of months. Customers just start from a template and start going in different directions. So across the bigger industry, we have probably done work. So for the first several years, we did a lot of hand crafted projects. So we have done like, at least 1000 projects over the last few years, two, three years, we learned what worked, what didn't work, and we Templars the heck out of it. That's the starting point. And then the AI just becomes automatically customized to the user.
+Speaker 1
+It's very interesting. You You mentioned. So how big a round do you plan to raise? And where's the company today? Which round Have you already raised?
+It's very interesting. You You mentioned. So how big a round do you plan to raise? And where's the company today? Which round Have you already raised?
+It's very interesting. You You mentioned. So how big a round do you plan to raise? And where's the company today? Which round Have you already raised?
+It's very interesting. You You mentioned. So how big a round do you plan to raise? And where's the company today? Which round Have you already raised?
+Speaker 2
+Yeah. So we have raised up to 50. We have raised 50 mils a day. So, but we never took money from institutions. My last company was beyond four, which became Salesforce, sites and discovery, yeah. So I made a bunch of people a bunch of money, so they put in money this time around, because they trusted me. But now that we have the thing built and Nvidia has validated, yeah, next week we are going to start like we are. Our first meeting is with Nvidia ventures on Monday, right? Because, you know, if we take money, we'd love to take money from them, but, but it makes sense to have more people to the party, because otherwise people will think we are in video only that causes issues. So we would love to get a party like we would love to be suited.
+Yeah. So we have raised up to 50. We have raised 50 mils a day. So, but we never took money from institutions. My last company was beyond four, which became Salesforce, sites and discovery, yeah. So I made a bunch of people a bunch of money, so they put in money this time around, because they trusted me. But now that we have the thing built and Nvidia has validated, yeah, next week we are going to start like we are. Our first meeting is with Nvidia ventures on Monday, right? Because, you know, if we take money, we'd love to take money from them, but, but it makes sense to have more people to the party, because otherwise people will think we are in video only that causes issues. So we would love to get a party like we would love to be suited.
+Yeah. So we have raised up to 50. We have raised 50 mils a day. So, but we never took money from institutions. My last company was beyond four, which became Salesforce, sites and discovery, yeah. So I made a bunch of people a bunch of money, so they put in money this time around, because they trusted me. But now that we have the thing built and Nvidia has validated, yeah, next week we are going to start like we are. Our first meeting is with Nvidia ventures on Monday, right? Because, you know, if we take money, we'd love to take money from them, but, but it makes sense to have more people to the party, because otherwise people will think we are in video only that causes issues. So we would love to get a party like we would love to be suited.
+Yeah. So we have raised up to 50. We have raised 50 mils a day. So, but we never took money from institutions. My last company was beyond four, which became Salesforce, sites and discovery, yeah. So I made a bunch of people a bunch of money, so they put in money this time around, because they trusted me. But now that we have the thing built and Nvidia has validated, yeah, next week we are going to start like we are. Our first meeting is with Nvidia ventures on Monday, right? Because, you know, if we take money, we'd love to take money from them, but, but it makes sense to have more people to the party, because otherwise people will think we are in video only that causes issues. So we would love to get a party like we would love to be suited.
+Speaker 1
+Makes sense. I would love to have a conversation with the team and maybe get one of our partners join the meeting and have a follow up conversation
+Makes sense. I would love to have a conversation with the team and maybe get one of our partners join the meeting and have a follow up conversation
+Makes sense. I would love to have a conversation with the team and maybe get one of our partners join the meeting and have a follow up conversation
+Makes sense. I would love to have a conversation with the team and maybe get one of our partners join the meeting and have a follow up conversation
+Speaker 2
+if I'm originally the table, if you just shoot
+if I'm originally the table, if you just shoot
+if I'm originally the table, if you just shoot
+if I'm originally the table, if you just shoot
+Speaker 1
+me an email and We can a an email and we can
+me an email and We can a an email and we can
+me an email and We can a an email and we can
+me an email and We can a an email and we can
+AIB, absolutely.
+Speaker 1
+I think I we had a good conversation. Good
+I think I we had a good conversation. Good
+I think I we had a good conversation. Good
+I think I we had a good conversation. Good
+Speaker 1
+Personal industry. Look at all my mom, 50 mil already.
+Personal industry. Look at all my mom, 50 mil already.
+Personal industry. Look at all my mom, 50 mil already.
+Personal industry. Look at all my mom, 50 mil already.
+Then next week, send email.
+Then next week, send email.
+Then next week, send email.
+Then next week, send email.
+is Very Good. Transcribing
+is Very Good. Transcribing
+is Very Good. Transcribing
+is Very Good. Transcribing
+Speaker 1
+would say agents for CX is a space where you're building perspective. Are you looking at investing?
+would say agents for CX is a space where you're building perspective. Are you looking at investing?
+would say agents for CX is a space where you're building perspective. Are you looking at investing?
+would say agents for CX is a space where you're building perspective. Are you looking at investing?
+Are you looking at investing? Are you
+Are you looking at investing? Are you
+Are you looking at investing? Are you
+Are you looking at investing? Are you
+Speaker 1
+looking at so we do both consulting, and primarily my role would be investing and looking at from an investor, but we also act as the pathfinder for the cooperative. So a lot of introductions,
+looking at so we do both consulting, and primarily my role would be investing and looking at from an investor, but we also act as the pathfinder for the cooperative. So a lot of introductions,
+looking at so we do both consulting, and primarily my role would be investing and looking at from an investor, but we also act as the pathfinder for the cooperative. So a lot of introductions,
+looking at so we do both consulting, and primarily my role would be investing and looking at from an investor, but we also act as the pathfinder for the cooperative. So a lot of introductions,
+Speaker 3
+or even providing intelligence over service. Give you an example. Recently, we were talking to a customer who wanted to do a pilot with us. They were currently using Salesforce. Their efficiency was only 14% then they should get their data on their agents are still
+or even providing intelligence over service. Give you an example. Recently, we were talking to a customer who wanted to do a pilot with us. They were currently using Salesforce. Their efficiency was only 14% then they should get their data on their agents are still
+or even providing intelligence over service. Give you an example. Recently, we were talking to a customer who wanted to do a pilot with us. They were currently using Salesforce. Their efficiency was only 14% then they should get their data on their agents are still
+or even providing intelligence over service. Give you an example. Recently, we were talking to a customer who wanted to do a pilot with us. They were currently using Salesforce. Their efficiency was only 14% then they should get their data on their agents are still
+Speaker 1
+using their sales data, maybe just for clarity, if you didn't tell me one work which could be used on example
+using their sales data, maybe just for clarity, if you didn't tell me one work which could be used on example
+using their sales data, maybe just for clarity, if you didn't tell me one work which could be used on example
+using their sales data, maybe just for clarity, if you didn't tell me one work which could be used on example
+Speaker 3
+they can actually see customer question deflection from about 980 6% where can I find different documentation, etc, which is documentation, etc? Normally, because once an agent is involved, you go from cents on the draft dollars, right? Because they're paying a human being. So when customers are talking to the large enterprise, there are developers they're talking to, are developing documents they normally service and because they think, and now, if we can actually change across multiple different platforms and provide it to your AI and very human agent. Can you then take the Customer Support Center, convert it into an experience center so it's not a car center? Second is, can we reduce up level your agents, reducing the number of tickets and everything. There are so many organizations that are understood to just spend whatever one tickets. You can literally think like, Hey, have you reviewed your own things? But in the new world, everybody is used to a conversation. They want to ask a question and get an answer for our customers.
+they can actually see customer question deflection from about 980 6% where can I find different documentation, etc, which is documentation, etc? Normally, because once an agent is involved, you go from cents on the draft dollars, right? Because they're paying a human being. So when customers are talking to the large enterprise, there are developers they're talking to, are developing documents they normally service and because they think, and now, if we can actually change across multiple different platforms and provide it to your AI and very human agent. Can you then take the Customer Support Center, convert it into an experience center so it's not a car center? Second is, can we reduce up level your agents, reducing the number of tickets and everything. There are so many organizations that are understood to just spend whatever one tickets. You can literally think like, Hey, have you reviewed your own things? But in the new world, everybody is used to a conversation. They want to ask a question and get an answer for our customers.
+they can actually see customer question deflection from about 980 6% where can I find different documentation, etc, which is documentation, etc? Normally, because once an agent is involved, you go from cents on the draft dollars, right? Because they're paying a human being. So when customers are talking to the large enterprise, there are developers they're talking to, are developing documents they normally service and because they think, and now, if we can actually change across multiple different platforms and provide it to your AI and very human agent. Can you then take the Customer Support Center, convert it into an experience center so it's not a car center? Second is, can we reduce up level your agents, reducing the number of tickets and everything. There are so many organizations that are understood to just spend whatever one tickets. You can literally think like, Hey, have you reviewed your own things? But in the new world, everybody is used to a conversation. They want to ask a question and get an answer for our customers.
+they can actually see customer question deflection from about 980 6% where can I find different documentation, etc, which is documentation, etc? Normally, because once an agent is involved, you go from cents on the draft dollars, right? Because they're paying a human being. So when customers are talking to the large enterprise, there are developers they're talking to, are developing documents they normally service and because they think, and now, if we can actually change across multiple different platforms and provide it to your AI and very human agent. Can you then take the Customer Support Center, convert it into an experience center so it's not a car center? Second is, can we reduce up level your agents, reducing the number of tickets and everything. There are so many organizations that are understood to just spend whatever one tickets. You can literally think like, Hey, have you reviewed your own things? But in the new world, everybody is used to a conversation. They want to ask a question and get an answer for our customers.
+Speaker 1
+Very interesting. So we've done some work in this space. I wouldn't say level one ticket, but slightly more complex.
+Very interesting. So we've done some work in this space. I wouldn't say level one ticket, but slightly more complex.
+Very interesting. So we've done some work in this space. I wouldn't say level one ticket, but slightly more complex.
+Very interesting. So we've done some work in this space. I wouldn't say level one ticket, but slightly more complex.
+Speaker 3
+So here's another example, right as you get prior in the complexity of the tickets, let's say a ticket comes in. What is an agent look at the ticket, and they'll reply back over email to the customer, saying, Hey, I just received your ticket. Give me 24 hours. What do they do in the 24 Coronavirus? Okay, they're trying to find out which issue that ticket goes to talk to the product manager and just then connect the ticket. That's all they do. What if, when the ticket comes in, the AI, when the ticket is assigned to the agent, the AI is able to prompt saying, hey, here are four issues that's related to this ticket. These are the people on the session you want me to connect it automatically. You want to find this is a priority, right there. You say, half a day of work. This is the difference between your smartest customer support people and your average customers support people know the names because they start in COVID and multiple products. Your average customer support people don't have the names. What was the AI? We were able to give the names. They don't have an excuse to not make that connection. They cannot say product management document customers. On the flip side of things, product management ignores customer support issues, because it doesn't have visibility what's going on in customers. They don't have revenue implications. And normally every customer company, customer support and product markets,
+So here's another example, right as you get prior in the complexity of the tickets, let's say a ticket comes in. What is an agent look at the ticket, and they'll reply back over email to the customer, saying, Hey, I just received your ticket. Give me 24 hours. What do they do in the 24 Coronavirus? Okay, they're trying to find out which issue that ticket goes to talk to the product manager and just then connect the ticket. That's all they do. What if, when the ticket comes in, the AI, when the ticket is assigned to the agent, the AI is able to prompt saying, hey, here are four issues that's related to this ticket. These are the people on the session you want me to connect it automatically. You want to find this is a priority, right there. You say, half a day of work. This is the difference between your smartest customer support people and your average customers support people know the names because they start in COVID and multiple products. Your average customer support people don't have the names. What was the AI? We were able to give the names. They don't have an excuse to not make that connection. They cannot say product management document customers. On the flip side of things, product management ignores customer support issues, because it doesn't have visibility what's going on in customers. They don't have revenue implications. And normally every customer company, customer support and product markets,
+So here's another example, right as you get prior in the complexity of the tickets, let's say a ticket comes in. What is an agent look at the ticket, and they'll reply back over email to the customer, saying, Hey, I just received your ticket. Give me 24 hours. What do they do in the 24 Coronavirus? Okay, they're trying to find out which issue that ticket goes to talk to the product manager and just then connect the ticket. That's all they do. What if, when the ticket comes in, the AI, when the ticket is assigned to the agent, the AI is able to prompt saying, hey, here are four issues that's related to this ticket. These are the people on the session you want me to connect it automatically. You want to find this is a priority, right there. You say, half a day of work. This is the difference between your smartest customer support people and your average customers support people know the names because they start in COVID and multiple products. Your average customer support people don't have the names. What was the AI? We were able to give the names. They don't have an excuse to not make that connection. They cannot say product management document customers. On the flip side of things, product management ignores customer support issues, because it doesn't have visibility what's going on in customers. They don't have revenue implications. And normally every customer company, customer support and product markets,
+So here's another example, right as you get prior in the complexity of the tickets, let's say a ticket comes in. What is an agent look at the ticket, and they'll reply back over email to the customer, saying, Hey, I just received your ticket. Give me 24 hours. What do they do in the 24 Coronavirus? Okay, they're trying to find out which issue that ticket goes to talk to the product manager and just then connect the ticket. That's all they do. What if, when the ticket comes in, the AI, when the ticket is assigned to the agent, the AI is able to prompt saying, hey, here are four issues that's related to this ticket. These are the people on the session you want me to connect it automatically. You want to find this is a priority, right there. You say, half a day of work. This is the difference between your smartest customer support people and your average customers support people know the names because they start in COVID and multiple products. Your average customer support people don't have the names. What was the AI? We were able to give the names. They don't have an excuse to not make that connection. They cannot say product management document customers. On the flip side of things, product management ignores customer support issues, because it doesn't have visibility what's going on in customers. They don't have revenue implications. And normally every customer company, customer support and product markets,
+part of every time product is prioritizing its features,
+part of every time product is prioritizing its features,
+part of every time product is prioritizing its features,
+part of every time product is prioritizing its features,
+Speaker 3
+when you're able to tell product SAME DESTINATION here is we're talking to you. I thank pasture. Can I scan you? Because I'd love to Congress more with you. What if you were able to,
+when you're able to tell product SAME DESTINATION here is we're talking to you. I thank pasture. Can I scan you? Because I'd love to Congress more with you. What if you were able to,
+when you're able to tell product SAME DESTINATION here is we're talking to you. I thank pasture. Can I scan you? Because I'd love to Congress more with you. What if you were able to,
+when you're able to tell product SAME DESTINATION here is we're talking to you. I thank pasture. Can I scan you? Because I'd love to Congress more with you. What if you were able to,
+Speaker 3
+what if you were able to prioritize and say, by the way, here's your list of features and issues and customer support tickets. Here's all the revenue associated now more prioritized properly, we're all on the same page. There is no contention.
+what if you were able to prioritize and say, by the way, here's your list of features and issues and customer support tickets. Here's all the revenue associated now more prioritized properly, we're all on the same page. There is no contention.
+what if you were able to prioritize and say, by the way, here's your list of features and issues and customer support tickets. Here's all the revenue associated now more prioritized properly, we're all on the same page. There is no contention.
+what if you were able to prioritize and say, by the way, here's your list of features and issues and customer support tickets. Here's all the revenue associated now more prioritized properly, we're all on the same page. There is no contention.
+Trying to solve it earlier,
+Trying to solve it earlier,
+Trying to solve it earlier,
+Trying to solve it earlier,
+my thought and reach out to me, please. Find
+my thought and reach out to me, please. Find
+my thought and reach out to me, please. Find
+my thought and reach out to me, please. Find
+Speaker 3
+thought and reach out to me, please, absolutely. A lot of the Nutanix people joined you.
+thought and reach out to me, please, absolutely. A lot of the Nutanix people joined you.
+thought and reach out to me, please, absolutely. A lot of the Nutanix people joined you.
+thought and reach out to me, please, absolutely. A lot of the Nutanix people joined you.
+Speaker 3
+I used to know Palo Alto from way back when, when it worked with Aruba Networks,
+I used to know Palo Alto from way back when, when it worked with Aruba Networks,
+I used to know Palo Alto from way back when, when it worked with Aruba Networks,
+I used to know Palo Alto from way back when, when it worked with Aruba Networks,
+Speaker 3
+company, apologies. Can I get a card or something? I'm not able to scan it. So what do you do with Palo Alto? I'm the technique for musician QA. Give me one second. Let me just let
+company, apologies. Can I get a card or something? I'm not able to scan it. So what do you do with Palo Alto? I'm the technique for musician QA. Give me one second. Let me just let
+company, apologies. Can I get a card or something? I'm not able to scan it. So what do you do with Palo Alto? I'm the technique for musician QA. Give me one second. Let me just let
+company, apologies. Can I get a card or something? I'm not able to scan it. So what do you do with Palo Alto? I'm the technique for musician QA. Give me one second. Let me just let
+Speaker 1
+him. Yeah, don't want to hold on. Here's my big shift business card. Perfect. That works, and we'll have to come back for a follow up question. Yeah, appreciate your time today. Sure Is
+him. Yeah, don't want to hold on. Here's my big shift business card. Perfect. That works, and we'll have to come back for a follow up question. Yeah, appreciate your time today. Sure Is
+him. Yeah, don't want to hold on. Here's my big shift business card. Perfect. That works, and we'll have to come back for a follow up question. Yeah, appreciate your time today. Sure Is
+him. Yeah, don't want to hold on. Here's my big shift business card. Perfect. That works, and we'll have to come back for a follow up question. Yeah, appreciate your time today. Sure Is
+Speaker 4
+there like A There Should
+there like A There Should
+there like A There Should
+there like A There Should
+much. Bucha So,
+Yeah, cool to Hear. You, thank You. Thank You.
+Yeah, cool to Hear. You, thank You. Thank You.
+Yeah, cool to Hear. You, thank You. Thank You.
+Yeah, cool to Hear. You, thank You. Thank You.
+Speaker 4
+We love it. It's Our marketing. Our system is our
+We love it. It's Our marketing. Our system is our
+We love it. It's Our marketing. Our system is our
+We love it. It's Our marketing. Our system is our
+Speaker 5
+marketing. Percent
+Speaker 6
+offsets and access for developers, reuse and expander
+offsets and access for developers, reuse and expander
+offsets and access for developers, reuse and expander
+offsets and access for developers, reuse and expander
+that's nearly access to the product. I.
+that's nearly access to the product. I.
+that's nearly access to the product. I.
+that's nearly access to the product. I.
+Speaker 6
+What you want to return is just feedback. Did you manage to build an event? Did you connect with Was it useful?
+What you want to return is just feedback. Did you manage to build an event? Did you connect with Was it useful?
+What you want to return is just feedback. Did you manage to build an event? Did you connect with Was it useful?
+What you want to return is just feedback. Did you manage to build an event? Did you connect with Was it useful?
+That's it. We just want to make you right so you can use that feedback to go back.
+That's it. We just want to make you right so you can use that feedback to go back.
+That's it. We just want to make you right so you can use that feedback to go back.
+That's it. We just want to make you right so you can use that feedback to go back.
+Speaker 1
+Hi, David, I'm Priyesh. Qualcomm ventures, so we're looking at a lot of agent building platforms we're talking to through AI audit chain. A few of those would love to understand how you are differentiating with the other players in the market. Sure, another layer, we have a mistake in what sense we
+Hi, David, I'm Priyesh. Qualcomm ventures, so we're looking at a lot of agent building platforms we're talking to through AI audit chain. A few of those would love to understand how you are differentiating with the other players in the market. Sure, another layer, we have a mistake in what sense we
+Hi, David, I'm Priyesh. Qualcomm ventures, so we're looking at a lot of agent building platforms we're talking to through AI audit chain. A few of those would love to understand how you are differentiating with the other players in the market. Sure, another layer, we have a mistake in what sense we
+Hi, David, I'm Priyesh. Qualcomm ventures, so we're looking at a lot of agent building platforms we're talking to through AI audit chain. A few of those would love to understand how you are differentiating with the other players in the market. Sure, another layer, we have a mistake in what sense we
+give it a free try. Open House
+give it a free try. Open House
+give it a free try. Open House
+give it a free try. Open House
+spin appeal tenant,
+so you should access in three to four
+so you should access in three to four
+so you should access in three to four
+so you should access in three to four
+minutes. Get an email in three to five minutes.
+minutes. Get an email in three to five minutes.
+minutes. Get an email in three to five minutes.
+minutes. Get an email in three to five minutes.
+Thank you so much. Can I just
+Thank you so much. Can I just
+Thank you so much. Can I just
+Thank you so much. Can I just
+be good? So our entire value prop is that
+be good? So our entire value prop is that
+be good? So our entire value prop is that
+be good? So our entire value prop is that
+customers now have too many things
+customers now have too many things
+customers now have too many things
+customers now have too many things
+to be too many. That's the real answer,
+to be too many. That's the real answer,
+to be too many. That's the real answer,
+to be too many. That's the real answer,
+Speaker 6
+state machine and human interface.
+state machine and human interface.
+state machine and human interface.
+state machine and human interface.
+Speaker 6
+Okay. Connector, state machine, state machine, so smooth, okay? Machine and human interface. Chat, gold, slap, gold. How do you scale your agents so customers love and appreciate our product? Because first, they are free of vendors, they can mix between different go to the open AI on topic levels, and we don't care, because we try to monetize about our open source. Oh, yeah, they are in a serious problem, I think, because then you can monetize about their friends. We use their framework. You can run the framework of the open source so expensive that they cannot run on topic. Don't want to do that's like the
+Okay. Connector, state machine, state machine, so smooth, okay? Machine and human interface. Chat, gold, slap, gold. How do you scale your agents so customers love and appreciate our product? Because first, they are free of vendors, they can mix between different go to the open AI on topic levels, and we don't care, because we try to monetize about our open source. Oh, yeah, they are in a serious problem, I think, because then you can monetize about their friends. We use their framework. You can run the framework of the open source so expensive that they cannot run on topic. Don't want to do that's like the
+Okay. Connector, state machine, state machine, so smooth, okay? Machine and human interface. Chat, gold, slap, gold. How do you scale your agents so customers love and appreciate our product? Because first, they are free of vendors, they can mix between different go to the open AI on topic levels, and we don't care, because we try to monetize about our open source. Oh, yeah, they are in a serious problem, I think, because then you can monetize about their friends. We use their framework. You can run the framework of the open source so expensive that they cannot run on topic. Don't want to do that's like the
+Okay. Connector, state machine, state machine, so smooth, okay? Machine and human interface. Chat, gold, slap, gold. How do you scale your agents so customers love and appreciate our product? Because first, they are free of vendors, they can mix between different go to the open AI on topic levels, and we don't care, because we try to monetize about our open source. Oh, yeah, they are in a serious problem, I think, because then you can monetize about their friends. We use their framework. You can run the framework of the open source so expensive that they cannot run on topic. Don't want to do that's like the
+Speaker 1
+meaning, how does that change? Like, what kind of customers are you serving? What kind let's say I created an agent on crew. Ai, what would be the use for an expander? For
+meaning, how does that change? Like, what kind of customers are you serving? What kind let's say I created an agent on crew. Ai, what would be the use for an expander? For
+meaning, how does that change? Like, what kind of customers are you serving? What kind let's say I created an agent on crew. Ai, what would be the use for an expander? For
+meaning, how does that change? Like, what kind of customers are you serving? What kind let's say I created an agent on crew. Ai, what would be the use for an expander? For
+me, down the line,
+if you build an agent, if you already
+if you build an agent, if you already
+if you build an agent, if you already
+if you build an agent, if you already
+Speaker 7
+built an agent with the open
+built an agent with the open
+built an agent with the open
+built an agent with the open
+Speaker 6
+source crew connectors, need to build it. Situations.
+source crew connectors, need to build it. Situations.
+source crew connectors, need to build it. Situations.
+source crew connectors, need to build it. Situations.
+Speaker 6
+But if you want to mix it, we are, we are the only solution in
+But if you want to mix it, we are, we are the only solution in
+But if you want to mix it, we are, we are the only solution in
+But if you want to mix it, we are, we are the only solution in
+the market, and
+a lot of that second thing is that really good chain are really good at planting
+a lot of that second thing is that really good chain are really good at planting
+a lot of that second thing is that really good chain are really good at planting
+a lot of that second thing is that really good chain are really good at planting
+Speaker 6
+engineering, good computer use. So you cannot combine all of the two in one place. You
+engineering, good computer use. So you cannot combine all of the two in one place. You
+engineering, good computer use. So you cannot combine all of the two in one place. You
+engineering, good computer use. So you cannot combine all of the two in one place. You
+Speaker 6
+it expander. You can expand there. We are just released. The product wasn't yet available. We just released it right now it will be available for everyone in the next month as
+it expander. You can expand there. We are just released. The product wasn't yet available. We just released it right now it will be available for everyone in the next month as
+it expander. You can expand there. We are just released. The product wasn't yet available. We just released it right now it will be available for everyone in the next month as
+it expander. You can expand there. We are just released. The product wasn't yet available. We just released it right now it will be available for everyone in the next month as
+an open source.
+Speaker 6
+That's why I go to market. We hear a lot about it, and we are building with customers. Really serious about customers.
+That's why I go to market. We hear a lot about it, and we are building with customers. Really serious about customers.
+That's why I go to market. We hear a lot about it, and we are building with customers. Really serious about customers.
+That's why I go to market. We hear a lot about it, and we are building with customers. Really serious about customers.
+Speaker 1
+So you're targeting more, I would say, on the price, use cases, more agents, SMEs
+So you're targeting more, I would say, on the price, use cases, more agents, SMEs
+So you're targeting more, I would say, on the price, use cases, more agents, SMEs
+So you're targeting more, I would say, on the price, use cases, more agents, SMEs
+and agents in production. Very interesting.
+and agents in production. Very interesting.
+and agents in production. Very interesting.
+and agents in production. Very interesting.
+Speaker 1
+David, so I wouldn't hold you for long. It's an interesting space. I would love to get connected to someone and have a follow on conversation around it. Would that be, would you be able to connect me to someone? Oh, perfect, perfect. Connect on LinkedIn. If that's easier.
+David, so I wouldn't hold you for long. It's an interesting space. I would love to get connected to someone and have a follow on conversation around it. Would that be, would you be able to connect me to someone? Oh, perfect, perfect. Connect on LinkedIn. If that's easier.
+David, so I wouldn't hold you for long. It's an interesting space. I would love to get connected to someone and have a follow on conversation around it. Would that be, would you be able to connect me to someone? Oh, perfect, perfect. Connect on LinkedIn. If that's easier.
+David, so I wouldn't hold you for long. It's an interesting space. I would love to get connected to someone and have a follow on conversation around it. Would that be, would you be able to connect me to someone? Oh, perfect, perfect. Connect on LinkedIn. If that's easier.
+And then warning. Wise do you plan to sort of raise
+And then warning. Wise do you plan to sort of raise
+And then warning. Wise do you plan to sort of raise
+And then warning. Wise do you plan to sort of raise
+anytime soon? Yeah, I'm gonna raise sit around in
+anytime soon? Yeah, I'm gonna raise sit around in
+anytime soon? Yeah, I'm gonna raise sit around in
+anytime soon? Yeah, I'm gonna raise sit around in
+two months. Okay,
+we already have strong
+we already have strong
+we already have strong
+we already have strong
+interest. We took so many for safe just here, very
+interest. We took so many for safe just here, very
+interest. We took so many for safe just here, very
+interest. We took so many for safe just here, very
+Speaker 1
+nicely. So I think that would be a good conversation to have as well. I would follow up sometime next week, and we can have a conversation around some of those things
+nicely. So I think that would be a good conversation to have as well. I would follow up sometime next week, and we can have a conversation around some of those things
+nicely. So I think that would be a good conversation to have as well. I would follow up sometime next week, and we can have a conversation around some of those things
+nicely. So I think that would be a good conversation to have as well. I would follow up sometime next week, and we can have a conversation around some of those things
+right now. Sure,
+Speaker 1
+would be a couple of months down the line, okay? And that would be a price round for you. And can I just go on the platform to play around with it myself? Today, I have taken a picture, so I'll scan it. Okay, got it? I'll do that. We'll come continue with some feedback on my end, if I can. Sure. Love. Good luck to you. Nice. I
+would be a couple of months down the line, okay? And that would be a price round for you. And can I just go on the platform to play around with it myself? Today, I have taken a picture, so I'll scan it. Okay, got it? I'll do that. We'll come continue with some feedback on my end, if I can. Sure. Love. Good luck to you. Nice. I
+would be a couple of months down the line, okay? And that would be a price round for you. And can I just go on the platform to play around with it myself? Today, I have taken a picture, so I'll scan it. Okay, got it? I'll do that. We'll come continue with some feedback on my end, if I can. Sure. Love. Good luck to you. Nice. I
+would be a couple of months down the line, okay? And that would be a price round for you. And can I just go on the platform to play around with it myself? Today, I have taken a picture, so I'll scan it. Okay, got it? I'll do that. We'll come continue with some feedback on my end, if I can. Sure. Love. Good luck to you. Nice. I
+think we focus on Well, Which one check it's
+think we focus on Well, Which one check it's
+think we focus on Well, Which one check it's
+think we focus on Well, Which one check it's
+Speaker 5
+is the mix and match, whatever or not, we need to find like the best way to just say that general communication or the person, the developer that will take it to general this is why we're building on kind of enterprise capitals and
+is the mix and match, whatever or not, we need to find like the best way to just say that general communication or the person, the developer that will take it to general this is why we're building on kind of enterprise capitals and
+is the mix and match, whatever or not, we need to find like the best way to just say that general communication or the person, the developer that will take it to general this is why we're building on kind of enterprise capitals and
+is the mix and match, whatever or not, we need to find like the best way to just say that general communication or the person, the developer that will take it to general this is why we're building on kind of enterprise capitals and
+Speaker 5
+developer, something we call AI abstraction, it's much easier to use one of the pain points that we have good reasoning when we get we have good
+developer, something we call AI abstraction, it's much easier to use one of the pain points that we have good reasoning when we get we have good
+developer, something we call AI abstraction, it's much easier to use one of the pain points that we have good reasoning when we get we have good
+developer, something we call AI abstraction, it's much easier to use one of the pain points that we have good reasoning when we get we have good
+Speaker 6
+reasoning, but it's very easy to see what happens. Okay, what you did, you built for your campus that us, it gives you the ability to notice. But what to do? You give the number size of the grass to reduce the next step,
+reasoning, but it's very easy to see what happens. Okay, what you did, you built for your campus that us, it gives you the ability to notice. But what to do? You give the number size of the grass to reduce the next step,
+reasoning, but it's very easy to see what happens. Okay, what you did, you built for your campus that us, it gives you the ability to notice. But what to do? You give the number size of the grass to reduce the next step,
+reasoning, but it's very easy to see what happens. Okay, what you did, you built for your campus that us, it gives you the ability to notice. But what to do? You give the number size of the grass to reduce the next step,
+what AI is doing?
+How does it think?
+Speaker 6
+Functional? Right
+Speaker 6
+now, every time you
+Speaker 4
+this process
+change every time. Of course, maybe there is a change with more
+change every time. Of course, maybe there is a change with more
+change every time. Of course, maybe there is a change with more
+change every time. Of course, maybe there is a change with more
+documentation to do
+something like this, task starters,
+something like this, task starters,
+something like this, task starters,
+something like this, task starters,
+And then the resistance, very much
+And then the resistance, very much
+And then the resistance, very much
+And then the resistance, very much
+based on connectors. Basically,
+based on connectors. Basically,
+based on connectors. Basically,
+based on connectors. Basically,
+Speaker 5
+efforts, basically, and we run into an enrichment
+efforts, basically, and we run into an enrichment
+efforts, basically, and we run into an enrichment
+efforts, basically, and we run into an enrichment
+operations, and
+we corrupt it out and see what this API can do.
+we corrupt it out and see what this API can do.
+we corrupt it out and see what this API can do.
+we corrupt it out and see what this API can do.
+Speaker 5
+So each one of these when we make it available as a tool called information,
+So each one of these when we make it available as a tool called information,
+So each one of these when we make it available as a tool called information,
+So each one of these when we make it available as a tool called information,
+Speaker 6
+today, they want to be able to send slack
+today, they want to be able to send slack
+today, they want to be able to send slack
+today, they want to be able to send slack
+messages, information build dividend. So this is the
+messages, information build dividend. So this is the
+messages, information build dividend. So this is the
+messages, information build dividend. So this is the
+Speaker 5
+agent declaration. The agent runs in a loop. All we can do is enforce the agent like next we rise and that's it, because it's just a. Decide
+agent declaration. The agent runs in a loop. All we can do is enforce the agent like next we rise and that's it, because it's just a. Decide
+agent declaration. The agent runs in a loop. All we can do is enforce the agent like next we rise and that's it, because it's just a. Decide
+agent declaration. The agent runs in a loop. All we can do is enforce the agent like next we rise and that's it, because it's just a. Decide
+Speaker 6
+Which you decide, how do you want the eye agent transfer the number object
+Which you decide, how do you want the eye agent transfer the number object
+Which you decide, how do you want the eye agent transfer the number object
+Which you decide, how do you want the eye agent transfer the number object
+to another. This is why we
+to another. This is why we
+to another. This is why we
+to another. This is why we
+Speaker 5
+have so if it fails in one step, it's going to state side, it's going to let the SDK know exactly which state can stop that, and then it can continue. This is one of the power to do there. Is
+have so if it fails in one step, it's going to state side, it's going to let the SDK know exactly which state can stop that, and then it can continue. This is one of the power to do there. Is
+have so if it fails in one step, it's going to state side, it's going to let the SDK know exactly which state can stop that, and then it can continue. This is one of the power to do there. Is
+have so if it fails in one step, it's going to state side, it's going to let the SDK know exactly which state can stop that, and then it can continue. This is one of the power to do there. Is
+one of the power Oh,
+yeah, so it's what we build potential
+yeah, so it's what we build potential
+yeah, so it's what we build potential
+yeah, so it's what we build potential
+frameworks to do reliable workshops.
+frameworks to do reliable workshops.
+frameworks to do reliable workshops.
+frameworks to do reliable workshops.
+Speaker 8
+So let's say that. Let's say that you wanted to write different I think
+So let's say that. Let's say that you wanted to write different I think
+So let's say that. Let's say that you wanted to write different I think
+So let's say that. Let's say that you wanted to write different I think
+that what you guys do,
+that what you guys do,
+that what you guys do,
+that what you guys do,
+it's like, I want to write
+it's like, I want to write
+it's like, I want to write
+it's like, I want to write
+Python program.
+Let's say I want to write a Python program, and the patent program
+Let's say I want to write a Python program, and the patent program
+Let's say I want to write a Python program, and the patent program
+Let's say I want to write a Python program, and the patent program
+has built something
+Speaker 8
+steps like that. Your pattern program is just to work through and say, step one, step two. And you want to make it reliable and only try it automatically in the field. Trash will start with you just have to agitate
+steps like that. Your pattern program is just to work through and say, step one, step two. And you want to make it reliable and only try it automatically in the field. Trash will start with you just have to agitate
+steps like that. Your pattern program is just to work through and say, step one, step two. And you want to make it reliable and only try it automatically in the field. Trash will start with you just have to agitate
+steps like that. Your pattern program is just to work through and say, step one, step two. And you want to make it reliable and only try it automatically in the field. Trash will start with you just have to agitate
+Speaker 5
+it's a library. You can just import it. I'll tell you what. Reach out to our head of engineering. You can have a look at
+it's a library. You can just import it. I'll tell you what. Reach out to our head of engineering. You can have a look at
+it's a library. You can just import it. I'll tell you what. Reach out to our head of engineering. You can have a look at
+it's a library. You can just import it. I'll tell you what. Reach out to our head of engineering. You can have a look at
+Speaker 8
+tvOS. That's pretty cool. I think I was thinking of building something
+tvOS. That's pretty cool. I think I was thinking of building something
+tvOS. That's pretty cool. I think I was thinking of building something
+tvOS. That's pretty cool. I think I was thinking of building something
+Speaker 5
+serious. Send him a request on LinkedIn and send him the details so he will have a look at it. Yeah. Sure. At all to give
+serious. Send him a request on LinkedIn and send him the details so he will have a look at it. Yeah. Sure. At all to give
+serious. Send him a request on LinkedIn and send him the details so he will have a look at it. Yeah. Sure. At all to give
+serious. Send him a request on LinkedIn and send him the details so he will have a look at it. Yeah. Sure. At all to give
+Speaker 8
+you like a blueprint, you like a blueprint So you can complete stuff
+you like a blueprint, you like a blueprint So you can complete stuff
+you like a blueprint, you like a blueprint So you can complete stuff
+you like a blueprint, you like a blueprint So you can complete stuff
+Speaker 5
+where you guys stage so
+where you guys stage so
+where you guys stage so
+where you guys stage so
+Speaker 8
+years ago, particularly challenging exactly what the market strategy
+years ago, particularly challenging exactly what the market strategy
+years ago, particularly challenging exactly what the market strategy
+years ago, particularly challenging exactly what the market strategy
+Speaker 8
+people are. Are fairly happy with what we do, but we still think there is, like, one market that will explode, but we just don't know exactly what
+people are. Are fairly happy with what we do, but we still think there is, like, one market that will explode, but we just don't know exactly what
+people are. Are fairly happy with what we do, but we still think there is, like, one market that will explode, but we just don't know exactly what
+people are. Are fairly happy with what we do, but we still think there is, like, one market that will explode, but we just don't know exactly what
+Speaker 5
+it is coming to the Bucha and you want to sell
+it is coming to the Bucha and you want to sell
+it is coming to the Bucha and you want to sell
+it is coming to the Bucha and you want to sell
+the head of engineering, yeah,
+the head of engineering, yeah,
+the head of engineering, yeah,
+the head of engineering, yeah,
+Speaker 5
+because I can answer your questions, but it's not going to take you anymore. Let's propose to him to have a look at it, but like, I'm not going
+because I can answer your questions, but it's not going to take you anymore. Let's propose to him to have a look at it, but like, I'm not going
+because I can answer your questions, but it's not going to take you anymore. Let's propose to him to have a look at it, but like, I'm not going
+because I can answer your questions, but it's not going to take you anymore. Let's propose to him to have a look at it, but like, I'm not going
+To get anything
+the product. Yeah,
+oh, yeah, I asked
+Speaker 6
+the banner to do. Oh, wow, is such a messy API. See how many dependencies you've identified.
+the banner to do. Oh, wow, is such a messy API. See how many dependencies you've identified.
+the banner to do. Oh, wow, is such a messy API. See how many dependencies you've identified.
+the banner to do. Oh, wow, is such a messy API. See how many dependencies you've identified.
+You try some prompt. And so
+You try some prompt. And so
+You try some prompt. And so
+You try some prompt. And so
+Speaker 9
+I know you said it's framework agnostic, but would it tell you
+I know you said it's framework agnostic, but would it tell you
+I know you said it's framework agnostic, but would it tell you
+I know you said it's framework agnostic, but would it tell you
+what sort of tool useful
+what sort of tool useful
+what sort of tool useful
+what sort of tool useful
+Speaker 7
+for this like now we're living second?
+for this like now we're living second?
+for this like now we're living second?
+for this like now we're living second?
+like, let's say you have media
+like, let's say you have media
+like, let's say you have media
+like, let's say you have media
+GPUs. Want to tell
+you how the best views
+you how the best views
+you how the best views
+you how the best views
+Speaker 7
+on the most efficient way right now You
+on the most efficient way right now You
+on the most efficient way right now You
+on the most efficient way right now You
+just thought about
+Speaker 4
+giving you a degree. You start
+giving you a degree. You start
+giving you a degree. You start
+giving you a degree. You start
+Speaker 9
+you have, and what would you guys say? So obviously, I think this is a great workflow. It makes sense. How often does
+you have, and what would you guys say? So obviously, I think this is a great workflow. It makes sense. How often does
+you have, and what would you guys say? So obviously, I think this is a great workflow. It makes sense. How often does
+you have, and what would you guys say? So obviously, I think this is a great workflow. It makes sense. How often does
+the workflow not produce the
+the workflow not produce the
+the workflow not produce the
+the workflow not produce the
+Speaker 6
+most efficient, most likely in single shot. This is acceptable if it was working from zero shot. It was good for everyone,
+most efficient, most likely in single shot. This is acceptable if it was working from zero shot. It was good for everyone,
+most efficient, most likely in single shot. This is acceptable if it was working from zero shot. It was good for everyone,
+most efficient, most likely in single shot. This is acceptable if it was working from zero shot. It was good for everyone,
+Speaker 9
+just for the better. Yeah. I mean, obviously you guys could have a higher false positive rate. There's a lot of pollution. Yeah. Treatment.
+just for the better. Yeah. I mean, obviously you guys could have a higher false positive rate. There's a lot of pollution. Yeah. Treatment.
+just for the better. Yeah. I mean, obviously you guys could have a higher false positive rate. There's a lot of pollution. Yeah. Treatment.
+just for the better. Yeah. I mean, obviously you guys could have a higher false positive rate. There's a lot of pollution. Yeah. Treatment.
+Speaker 6
+For example, he decided to do gear door properties and then search the company, even though I asked her to search for the eye and it know that it knew that it needs to go to our properties before it's doing that. And it's founded. I surprisingly, I'm surprised. Our expectation is
+For example, he decided to do gear door properties and then search the company, even though I asked her to search for the eye and it know that it knew that it needs to go to our properties before it's doing that. And it's founded. I surprisingly, I'm surprised. Our expectation is
+For example, he decided to do gear door properties and then search the company, even though I asked her to search for the eye and it know that it knew that it needs to go to our properties before it's doing that. And it's founded. I surprisingly, I'm surprised. Our expectation is
+For example, he decided to do gear door properties and then search the company, even though I asked her to search for the eye and it know that it knew that it needs to go to our properties before it's doing that. And it's founded. I surprisingly, I'm surprised. Our expectation is
+that actually working the data,
+that actually working the data,
+that actually working the data,
+that actually working the data,
+Speaker 6
+let's say now it's and you see the state Now, let's say now you can use whatever
+let's say now it's and you see the state Now, let's say now you can use whatever
+let's say now it's and you see the state Now, let's say now you can use whatever
+let's say now it's and you see the state Now, let's say now you can use whatever
+Speaker 5
+you do. Whoa,
+Speaker 9
+I was lucky. That, so
+I was lucky. That, so
+I was lucky. That, so
+I was lucky. That, so
+I didn't need to take over. This is a great
+I didn't need to take over. This is a great
+I didn't need to take over. This is a great
+I didn't need to take over. This is a great
+Speaker 1
+conversation, because I come from a venture perspective, but you would probably be the user for this. So this
+conversation, because I come from a venture perspective, but you would probably be the user for this. So this
+conversation, because I come from a venture perspective, but you would probably be the user for this. So this
+conversation, because I come from a venture perspective, but you would probably be the user for this. So this
+Speaker 6
+conversation is so let me say, and I went into semi production, and I have a chat for now, ready and saying, and it knows what is purpose in life? Purpose in life is to do shopping management engine. Just know this, just by moving all the APIs. Yes,
+conversation is so let me say, and I went into semi production, and I have a chat for now, ready and saying, and it knows what is purpose in life? Purpose in life is to do shopping management engine. Just know this, just by moving all the APIs. Yes,
+conversation is so let me say, and I went into semi production, and I have a chat for now, ready and saying, and it knows what is purpose in life? Purpose in life is to do shopping management engine. Just know this, just by moving all the APIs. Yes,
+conversation is so let me say, and I went into semi production, and I have a chat for now, ready and saying, and it knows what is purpose in life? Purpose in life is to do shopping management engine. Just know this, just by moving all the APIs. Yes,
+Speaker 10
+trying to start a workflow are those who never signed up the manager.
+trying to start a workflow are those who never signed up the manager.
+trying to start a workflow are those who never signed up the manager.
+trying to start a workflow are those who never signed up the manager.
+manager for other clients. These are useful
+manager for other clients. These are useful
+manager for other clients. These are useful
+manager for other clients. These are useful
+markets. Nothing. Is considered
+markets. Nothing. Is considered
+markets. Nothing. Is considered
+markets. Nothing. Is considered
+Speaker 6
+easy as what can you do and what exactly?
+easy as what can you do and what exactly?
+easy as what can you do and what exactly?
+easy as what can you do and what exactly?
+Companies for developers,
+Companies for developers,
+Companies for developers,
+Companies for developers,
+Speaker 6
+think the developers should have self costing solution for themselves, like a broker with a state machine. What I like about my own open? Ai, okay? COVID,
+think the developers should have self costing solution for themselves, like a broker with a state machine. What I like about my own open? Ai, okay? COVID,
+think the developers should have self costing solution for themselves, like a broker with a state machine. What I like about my own open? Ai, okay? COVID,
+think the developers should have self costing solution for themselves, like a broker with a state machine. What I like about my own open? Ai, okay? COVID,
+Speaker 6
+we can bring you home. That's great. We're thinking about the way that you're going to monetize.
+we can bring you home. That's great. We're thinking about the way that you're going to monetize.
+we can bring you home. That's great. We're thinking about the way that you're going to monetize.
+we can bring you home. That's great. We're thinking about the way that you're going to monetize.
+It is that companies such as Apple environment,
+It is that companies such as Apple environment,
+It is that companies such as Apple environment,
+It is that companies such as Apple environment,
+Speaker 6
+which has company is gonna do hybrid, use the hybrid solution. Just need some of the data inside my companies, and I want to purchase
+which has company is gonna do hybrid, use the hybrid solution. Just need some of the data inside my companies, and I want to purchase
+which has company is gonna do hybrid, use the hybrid solution. Just need some of the data inside my companies, and I want to purchase
+which has company is gonna do hybrid, use the hybrid solution. Just need some of the data inside my companies, and I want to purchase
+Actually no, I know crazy. We do use iCal though, really, yeah, but we don't use FaceTime
+Actually no, I know crazy. We do use iCal though, really, yeah, but we don't use FaceTime
+Actually no, I know crazy. We do use iCal though, really, yeah, but we don't use FaceTime
+Actually no, I know crazy. We do use iCal though, really, yeah, but we don't use FaceTime
+right now. Yeah. Know it's
+right now. Yeah. Know it's
+right now. Yeah. Know it's
+right now. Yeah. Know it's
+not like, it's like, amazing
+not like, it's like, amazing
+not like, it's like, amazing
+not like, it's like, amazing
+problems, different teams,
+problems, different teams,
+problems, different teams,
+problems, different teams,
+different departments,
+different departments,
+different departments,
+different departments,
+don't want to tackle that piece.
+don't want to tackle that piece.
+don't want to tackle that piece.
+don't want to tackle that piece.
+Speaker 7
+If you make sense, you
+If you make sense, you
+If you make sense, you
+If you make sense, you
+Speaker 9
+have to know so this power of
+have to know so this power of
+have to know so this power of
+have to know so this power of
+Speaker 6
+the connector, because we did the agency in general connectors and connect that to the existing Adi system.
+the connector, because we did the agency in general connectors and connect that to the existing Adi system.
+the connector, because we did the agency in general connectors and connect that to the existing Adi system.
+the connector, because we did the agency in general connectors and connect that to the existing Adi system.
+Totally, totally,
+Speaker 9
+yeah, let's connect. I'd love to just use this for like a personal use case, play around with it, but I also have this is something that we have big projects and a lot of different flowing cars, and it does get complicated.
+yeah, let's connect. I'd love to just use this for like a personal use case, play around with it, but I also have this is something that we have big projects and a lot of different flowing cars, and it does get complicated.
+yeah, let's connect. I'd love to just use this for like a personal use case, play around with it, but I also have this is something that we have big projects and a lot of different flowing cars, and it does get complicated.
+yeah, let's connect. I'd love to just use this for like a personal use case, play around with it, but I also have this is something that we have big projects and a lot of different flowing cars, and it does get complicated.
+Speaker 4
+I think it's.
+I'm Priyesh. Priyesh Qualcomm ventures,
+yes, I used to work with parlors capital when he ran all Latin America. He is one of the
+Speaker 1
+nicest in the world. He's such a wonderful person. I recently
+joined the team with he
+would love to see what you guys are building a position in the market.
+Speaker 2
+CEO is what I would like to do, have him explain with the right perspective to give you a broad view, and you should need origin automating some form of behavior.
+Speaker 1
+Yeah, he's a guy in AI, you should know correctly, serial entrepreneur. His first startup was beyond core that got acquired by Salesforce. Became Salesforce Einstein discovery. So I worked with a lot of founders, yeah, third AI startup. He is an incredible combination of technical expertise and business pragmatism, very so just as
+Speaker 3
+legal I lead Alliance, I leverage a lot of what I did in South Africa. How do we collaborate with them? I want to introduce you to how are the Qualcomm chips similar
+Speaker 1
+or different from the grace? Not the best person to tell you that I come from external industries and have recently joined the team probably a year now, but I can connect you to someone, if that's being
+Speaker 2
+quoted onto the grace Yeah. And sometimes people are asking, I say, could you run a processor? Because it's the same underlying architecture, but it will be interesting thing to quickly check, yeah.
+Speaker 1
+I can connect you to someone in our developer relations team, and that could be a conversation you can have from there, very
+top of the mind, I would say we
+Speaker 2
+would have better knowledge, right? Like, if we don't have to quote our code to make it work, then it's a no brainer for us. So very
+Speaker 1
+Speaker 2
+you're actually going to start raising money next week. So we were just doing some bunch of stuff with Nvidia that we couldn't announce, really see, yeah, so we couldn't, like, we have to get this stuff out. So three key things, first is, if you want to do agents, unless your agent gets specialized to your user interface, your data, your process, it won't actually work, and that process is manual. Today, if you do anything, you do reinforcement learning or fine tuning, which we call training an AI like a pet, you're like, good job, bad job. But that's not a high resolution feedback. So you need a lot of data to fine tune. That's how you end up with a bunch of synthetic data approaches which actually creates problems. Yeah, what we did is we added the reasoning to models using certain techniques, like time, using an in person learning. We chain of thought examples, then we allow people to provide feedback on the reasoning steps, okay, getting much higher fidelity feedback, right? What we have shown is, with just 100 bits of feedback, we can improve accuracy by about six percentage points, and with 1000 bits of feedback, with Nvidia's partnership, we took 8 billion parameter model and got it to beat deep sea and got it to beat Gemini and got it to be like all the big on the same Use case, the total fine tuning cost was less than five bucks, starting from the reasoning model, 100,000 bits of feedback on doing. Secondly, the whole fine tuning cycle is completely automated, so every time you give feedback, we immediately adjust the model by using free shot learning and from documentation, the user doesn't need to know, because we are designed for the business user, like the tagline is, I am able, so anybody can do this, so the user doesn't need to know, but we immediately adjust the app to confirm closed loop cycle, right? So that way the user is motivated to go more feedback every 100 observations. We fine tune every 1000 observations. We do reinforcement, and we constantly test to see, did it make it better? Really make it worse, so we can back this right, that approach. Then what we did is we took it to the hardware level to optimize it. So what happens today when you have agents? So let's say a five models an agent that communication is asynchronous, because each of the models are running on different set of servers. We first took it to the same server, then we took it to the same super chip, and that made it massively optimal. So we are seeing about a 2x to 5x performance difference between doing it the open, AI, Google Cloud way to doing it this way. And it's only going to get better as Blackwell comes into play. Sorry, I can't see your
+Okay. Cool. So hopefully
+Speaker 2
+that makes sense. Yeah, in terms of customers, publicly, CVS, health care on Verizon, like 50 of the Fortune 500 have used us. But paying customers include some of the ones I was talking
+Speaker 1
+and what kind of workflows are these customers using? For you, for today, very
+Speaker 2
+wide variety. So like, typically, what ends up? So we have 37 templates already ready. You're gonna have 100 templates in the next couple of months. Customers just start from a template and start going in different directions. So across the bigger industry, we have probably done work. So for the first several years, we did a lot of hand crafted projects. So we have done like, at least 1000 projects over the last few years, two, three years, we learned what worked, what didn't work, and we Templars the heck out of it. That's the starting point. And then the AI just becomes automatically customized to the user.
+Speaker 1
+It's very interesting. You You mentioned. So how big a round do you plan to raise? And where's the company today? Which round Have you already raised?
+Speaker 2
+Yeah. So we have raised up to 50. We have raised 50 mils a day. So, but we never took money from institutions. My last company was beyond four, which became Salesforce, sites and discovery, yeah. So I made a bunch of people a bunch of money, so they put in money this time around, because they trusted me. But now that we have the thing built and Nvidia has validated, yeah, next week we are going to start like we are. Our first meeting is with Nvidia ventures on Monday, right? Because, you know, if we take money, we'd love to take money from them, but, but it makes sense to have more people to the party, because otherwise people will think we are in video only that causes issues. So we would love to get a party like we would love to be suited.
+Speaker 1
+Makes sense. I would love to have a conversation with the team and maybe get one of our partners join the meeting and have a follow up conversation
+Speaker 2
+if I'm originally the table, if you just shoot
+Speaker 1
+me an email and We can a an email and we can
+AIB, absolutely.
+Do this.
+Speaker 1
+I think I we had a good conversation. Good
+thank you.
+Speaker 1
+Personal industry. Look at all my mom, 50 mil already.
+Then next week, send email.
+is Very Good. Transcribing
+example. So I
+Speaker 1
+would say agents for CX is a space where you're building perspective. Are you looking at investing?
+Are you looking at investing? Are you
+Speaker 1
+looking at so we do both consulting, and primarily my role would be investing and looking at from an investor, but we also act as the pathfinder for the cooperative. So a lot of introductions,
+Speaker 3
+or even providing intelligence over service. Give you an example. Recently, we were talking to a customer who wanted to do a pilot with us. They were currently using Salesforce. Their efficiency was only 14% then they should get their data on their agents are still
+Speaker 1
+using their sales data, maybe just for clarity, if you didn't tell me one work which could be used on example
+here. So this,
+Speaker 3
+they can actually see customer question deflection from about 980 6% where can I find different documentation, etc, which is documentation, etc? Normally, because once an agent is involved, you go from cents on the draft dollars, right? Because they're paying a human being. So when customers are talking to the large enterprise, there are developers they're talking to, are developing documents they normally service and because they think, and now, if we can actually change across multiple different platforms and provide it to your AI and very human agent. Can you then take the Customer Support Center, convert it into an experience center so it's not a car center? Second is, can we reduce up level your agents, reducing the number of tickets and everything. There are so many organizations that are understood to just spend whatever one tickets. You can literally think like, Hey, have you reviewed your own things? But in the new world, everybody is used to a conversation. They want to ask a question and get an answer for our customers.
+Speaker 1
+Very interesting. So we've done some work in this space. I wouldn't say level one ticket, but slightly more complex.
+Speaker 3
+So here's another example, right as you get prior in the complexity of the tickets, let's say a ticket comes in. What is an agent look at the ticket, and they'll reply back over email to the customer, saying, Hey, I just received your ticket. Give me 24 hours. What do they do in the 24 Coronavirus? Okay, they're trying to find out which issue that ticket goes to talk to the product manager and just then connect the ticket. That's all they do. What if, when the ticket comes in, the AI, when the ticket is assigned to the agent, the AI is able to prompt saying, hey, here are four issues that's related to this ticket. These are the people on the session you want me to connect it automatically. You want to find this is a priority, right there. You say, half a day of work. This is the difference between your smartest customer support people and your average customers support people know the names because they start in COVID and multiple products. Your average customer support people don't have the names. What was the AI? We were able to give the names. They don't have an excuse to not make that connection. They cannot say product management document customers. On the flip side of things, product management ignores customer support issues, because it doesn't have visibility what's going on in customers. They don't have revenue implications. And normally every customer company, customer support and product markets,
+part of every time product is prioritizing its features,
+Speaker 3
+when you're able to tell product SAME DESTINATION here is we're talking to you. I thank pasture. Can I scan you? Because I'd love to Congress more with you. What if you were able to,
+Speaker 3
+what if you were able to prioritize and say, by the way, here's your list of features and issues and customer support tickets. Here's all the revenue associated now more prioritized properly, we're all on the same page. There is no contention.
+Trying to solve it earlier,
+my thought and reach out to me, please. Find
+Speaker 3
+thought and reach out to me, please, absolutely. A lot of the Nutanix people joined you.
+Speaker 3
+I used to know Palo Alto from way back when, when it worked with Aruba Networks,
+Speaker 3
+company, apologies. Can I get a card or something? I'm not able to scan it. So what do you do with Palo Alto? I'm the technique for musician QA. Give me one second. Let me just let
+Speaker 1
+him. Yeah, don't want to hold on. Here's my big shift business card. Perfect. That works, and we'll have to come back for a follow up question. Yeah, appreciate your time today. Sure Is
+Speaker 4
+there like A There Should
+up very
+much. Bucha So,
+Yeah, cool to Hear. You, thank You. Thank You.
+Speaker 4
+We love it. It's Our marketing. Our system is our
+Speaker 5
+marketing. Percent
+Speaker 6
+offsets and access for developers, reuse and expander
+that's nearly access to the product. I.
+Speaker 6
+What you want to return is just feedback. Did you manage to build an event? Did you connect with Was it useful?
+That's it. We just want to make you right so you can use that feedback to go back.
+Speaker 1
+Hi, David, I'm Priyesh. Qualcomm ventures, so we're looking at a lot of agent building platforms we're talking to through AI audit chain. A few of those would love to understand how you are differentiating with the other players in the market. Sure, another layer, we have a mistake in what sense we
+give it a free try. Open House
+application,
+spin appeal tenant,
+so you should access in three to four
+minutes. Get an email in three to five minutes.
+Thank you so much. Can I just
+be good? So our entire value prop is that
+customers now have too many things
+to be too many. That's the real answer,
+Google, open,
+Speaker 6
+state machine and human interface.
+Speaker 6
+Okay. Connector, state machine, state machine, so smooth, okay? Machine and human interface. Chat, gold, slap, gold. How do you scale your agents so customers love and appreciate our product? Because first, they are free of vendors, they can mix between different go to the open AI on topic levels, and we don't care, because we try to monetize about our open source. Oh, yeah, they are in a serious problem, I think, because then you can monetize about their friends. We use their framework. You can run the framework of the open source so expensive that they cannot run on topic. Don't want to do that's like the
+variable,
+Speaker 1
+meaning, how does that change? Like, what kind of customers are you serving? What kind let's say I created an agent on crew. Ai, what would be the use for an expander? For
+me, down the line,
+if you build an agent, if you already
+Speaker 7
+built an agent with the open
+Speaker 6
+source crew connectors, need to build it. Situations.
+Speaker 6
+But if you want to mix it, we are, we are the only solution in
+the market, and
+a lot of that second thing is that really good chain are really good at planting
+Speaker 6
+engineering, good computer use. So you cannot combine all of the two in one place. You
+cannot just do
+Speaker 6
+it expander. You can expand there. We are just released. The product wasn't yet available. We just released it right now it will be available for everyone in the next month as
+an open source.
+Speaker 6
+That's why I go to market. We hear a lot about it, and we are building with customers. Really serious about customers.
+Speaker 1
+So you're targeting more, I would say, on the price, use cases, more agents, SMEs
+and agents in production. Very interesting.
+Speaker 1
+David, so I wouldn't hold you for long. It's an interesting space. I would love to get connected to someone and have a follow on conversation around it. Would that be, would you be able to connect me to someone? Oh, perfect, perfect. Connect on LinkedIn. If that's easier.
+And then warning. Wise do you plan to sort of raise
+anytime soon? Yeah, I'm gonna raise sit around in
+two months. Okay,
+we already have strong
+interest. We took so many for safe just here, very
+Speaker 1
+nicely. So I think that would be a good conversation to have as well. I would follow up sometime next week, and we can have a conversation around some of those things
+right now. Sure,
+Speaker 1
+would be a couple of months down the line, okay? And that would be a price round for you. And can I just go on the platform to play around with it myself? Today, I have taken a picture, so I'll scan it. Okay, got it? I'll do that. We'll come continue with some feedback on my end, if I can. Sure. Love. Good luck to you. Nice. I
+think we focus on Well, Which one check it's
+Speaker 5
+is the mix and match, whatever or not, we need to find like the best way to just say that general communication or the person, the developer that will take it to general this is why we're building on kind of enterprise capitals and
+dusting a
+Speaker 5
+developer, something we call AI abstraction, it's much easier to use one of the pain points that we have good reasoning when we get we have good
+Speaker 6
+reasoning, but it's very easy to see what happens. Okay, what you did, you built for your campus that us, it gives you the ability to notice. But what to do? You give the number size of the grass to reduce the next step,
+what AI is doing?
+How does it think?
+Speaker 6
+Functional? Right
+Speaker 6
+now, every time you
+Speaker 4
+this process
+change every time. Of course, maybe there is a change with more
+documentation to do
+something like this, task starters,
+And then the resistance, very much
+based on connectors. Basically,
+Speaker 5
+efforts, basically, and we run into an enrichment
+operations, and
+we corrupt it out and see what this API can do.
+Speaker 5
+So each one of these when we make it available as a tool called information,
+Speaker 6
+today, they want to be able to send slack
+messages, information build dividend. So this is the
+Speaker 5
+agent declaration. The agent runs in a loop. All we can do is enforce the agent like next we rise and that's it, because it's just a. Decide
+agency.
+Speaker 6
+Which you decide, how do you want the eye agent transfer the number object
+to another. This is why we
+Speaker 5
+have so if it fails in one step, it's going to state side, it's going to let the SDK know exactly which state can stop that, and then it can continue. This is one of the power to do there. Is
+one of the power Oh,
+yeah, so it's what we build potential
+frameworks to do reliable workshops.
+Speaker 8
+So let's say that. Let's say that you wanted to write different I think
+that what you guys do,
+it's like, I want to write
+Python program.
+Let's say I want to write a Python program, and the patent program
+has built something
+Speaker 8
+steps like that. Your pattern program is just to work through and say, step one, step two. And you want to make it reliable and only try it automatically in the field. Trash will start with you just have to agitate
+Speaker 5
+it's a library. You can just import it. I'll tell you what. Reach out to our head of engineering. You can have a look at
+Speaker 8
+tvOS. That's pretty cool. I think I was thinking of building something
+Speaker 5
+serious. Send him a request on LinkedIn and send him the details so he will have a look at it. Yeah. Sure. At all to give
+Speaker 8
+you like a blueprint, you like a blueprint So you can complete stuff
+Speaker 5
+where you guys stage so
+Speaker 8
+years ago, particularly challenging exactly what the market strategy
+Speaker 8
+people are. Are fairly happy with what we do, but we still think there is, like, one market that will explode, but we just don't know exactly what
+Speaker 5
+it is coming to the Bucha and you want to sell
+the head of engineering, yeah,
+Speaker 5
+because I can answer your questions, but it's not going to take you anymore. Let's propose to him to have a look at it, but like, I'm not going
+To get anything
+the product. Yeah,
+oh, yeah, I asked
+Speaker 6
+the banner to do. Oh, wow, is such a messy API. See how many dependencies you've identified.
+You try some prompt. And so
+Speaker 9
+I know you said it's framework agnostic, but would it tell you
+what sort of tool useful
+Speaker 7
+for this like now we're living second?
+It like, how
+like, let's say you have media
+GPUs. Want to tell
+you how the best views
+Speaker 7
+on the most efficient way right now You
+just thought about
+Speaker 4
+giving you a degree. You start
+Speaker 9
+you have, and what would you guys say? So obviously, I think this is a great workflow. It makes sense. How often does
+the workflow not produce the
+Speaker 6
+most efficient, most likely in single shot. This is acceptable if it was working from zero shot. It was good for everyone,
+Speaker 9
+just for the better. Yeah. I mean, obviously you guys could have a higher false positive rate. There's a lot of pollution. Yeah. Treatment.
+Speaker 6
+For example, he decided to do gear door properties and then search the company, even though I asked her to search for the eye and it know that it knew that it needs to go to our properties before it's doing that. And it's founded. I surprisingly, I'm surprised. Our expectation is
+that actually working the data,
+Speaker 6
+let's say now it's and you see the state Now, let's say now you can use whatever
+Speaker 5
+you do. Whoa,
+Speaker 9
+I was lucky. That, so
+I didn't need to take over. This is a great
+Speaker 1
+conversation, because I come from a venture perspective, but you would probably be the user for this. So this
+Speaker 6
+conversation is so let me say, and I went into semi production, and I have a chat for now, ready and saying, and it knows what is purpose in life? Purpose in life is to do shopping management engine. Just know this, just by moving all the APIs. Yes,
+definitely
+Speaker 10
+trying to start a workflow are those who never signed up the manager.
+We have the
+manager for other clients. These are useful
+markets. Nothing. Is considered
+Speaker 6
+easy as what can you do and what exactly?
+Companies for developers,
+Speaker 6
+think the developers should have self costing solution for themselves, like a broker with a state machine. What I like about my own open? Ai, okay? COVID,
+Speaker 6
+we can bring you home. That's great. We're thinking about the way that you're going to monetize.
+It is that companies such as Apple environment,
+Speaker 6
+which has company is gonna do hybrid, use the hybrid solution. Just need some of the data inside my companies, and I want to purchase
+Actually no, I know crazy. We do use iCal though, really, yeah, but we don't use FaceTime
+right now. Yeah. Know it's
+not like, it's like, amazing
+problems, different teams,
+different departments,
+don't want to tackle that piece.
+Speaker 7
+If you make sense, you
+Speaker 9
+have to know so this power of
+Speaker 6
+the connector, because we did the agency in general connectors and connect that to the existing Adi system.
+Totally, totally,
+Speaker 9
+yeah, let's connect. I'd love to just use this for like a personal use case, play around with it, but I also have this is something that we have big projects and a lot of different flowing cars, and it does get complicated.
+Speaker 4
+I think it's.
+How accurate was this transcription?

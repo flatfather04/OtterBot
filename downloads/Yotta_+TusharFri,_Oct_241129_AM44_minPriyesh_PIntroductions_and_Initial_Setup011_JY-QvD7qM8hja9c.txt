@@ -1,0 +1,412 @@
+Meeting: Yotta +Tushar
+Fri, Oct 24
+11:29 AM
+44 min
+Priyesh P
+Introductions and Initial Setup
+0:11
+Qualcomm Ve
+URL: https://otter.ai/u/JY-QvD7qM8hja9c8g0s06pm5pJg
+Downloaded: 2025-12-21T19:55:35.699136
+Method: text_extraction
+============================================================
+
+S Speaker 10:11I i Hey, Hi, Chris. How are you? I'm doing good. I'm doing good, Chris, I hope joining teams wasn't a big task.
+I i Hey, Hi, Chris. How are you? I'm doing good. I'm doing good, Chris, I hope joining teams wasn't a big task.
+I i Hey, Hi, Chris. How are you? I'm doing good. I'm doing good, Chris, I hope joining teams wasn't a big task.
+I i Hey, Hi, Chris. How are you? I'm doing good. I'm doing good, Chris, I hope joining teams wasn't a big task.
+S Speaker 21:11Definitely not. Well, we usually don't use the team call. I can imagine. Yeah, it's a little bit of time for me to get a little setup, but definitely not a big
+Definitely not. Well, we usually don't use the team call. I can imagine. Yeah, it's a little bit of time for me to get a little setup, but definitely not a big
+Definitely not. Well, we usually don't use the team call. I can imagine. Yeah, it's a little bit of time for me to get a little setup, but definitely not a big
+Definitely not. Well, we usually don't use the team call. I can imagine. Yeah, it's a little bit of time for me to get a little setup, but definitely not a big
+1:23problem. Yeah, I can imagine. Yeah, we're
+problem. Yeah, I can imagine. Yeah, we're
+problem. Yeah, I can imagine. Yeah, we're
+problem. Yeah, I can imagine. Yeah, we're
+1:30in the behavior Chris,
+in the behavior Chris,
+in the behavior Chris,
+in the behavior Chris,
+S Speaker 11:32the managing director from our team, has joined, and I believe Daniel would be joining soon as well, right?
+the managing director from our team, has joined, and I believe Daniel would be joining soon as well, right?
+the managing director from our team, has joined, and I believe Daniel would be joining soon as well, right?
+the managing director from our team, has joined, and I believe Daniel would be joining soon as well, right?
+S Speaker 21:37Yeah, yeah. So I go with Daniel and Johnny will join in soon, but right now they are in the ICCB in Hawaii. It's like focus on the generative AI conference, right? Yeah, but, but I believe they will join us. Yeah. Here it is.
+Yeah, yeah. So I go with Daniel and Johnny will join in soon, but right now they are in the ICCB in Hawaii. It's like focus on the generative AI conference, right? Yeah, but, but I believe they will join us. Yeah. Here it is.
+Yeah, yeah. So I go with Daniel and Johnny will join in soon, but right now they are in the ICCB in Hawaii. It's like focus on the generative AI conference, right? Yeah, but, but I believe they will join us. Yeah. Here it is.
+Yeah, yeah. So I go with Daniel and Johnny will join in soon, but right now they are in the ICCB in Hawaii. It's like focus on the generative AI conference, right? Yeah, but, but I believe they will join us. Yeah. Here it is.
+2:00Hey guys. Hey, hi.
+S Speaker 32:06Daniel. Me Now, yes, let me actually quickly pin Johnny. I think he's probably having something to find the meeting link, I have to actually click the invite the click.
+Daniel. Me Now, yes, let me actually quickly pin Johnny. I think he's probably having something to find the meeting link, I have to actually click the invite the click.
+Daniel. Me Now, yes, let me actually quickly pin Johnny. I think he's probably having something to find the meeting link, I have to actually click the invite the click.
+Daniel. Me Now, yes, let me actually quickly pin Johnny. I think he's probably having something to find the meeting link, I have to actually click the invite the click.
+S Speaker 12:25Yeah, Chris and I were just talking. It's usually difficult to join teams, so maybe
+Yeah, Chris and I were just talking. It's usually difficult to join teams, so maybe
+Yeah, Chris and I were just talking. It's usually difficult to join teams, so maybe
+Yeah, Chris and I were just talking. It's usually difficult to join teams, so maybe
+S Speaker 32:54yeah, I see, I'm in Seattle now. I was, I was with Johnny rcto, like at the ICCV, which using Hawaii this year. So my flight just landed this morning. Alaska airline, they had an IP outage. So yeah, it's global and only funny, like a lot of flight from Hawaii to the to the to the mainland. US actually from Alaska airline and Hawaii airline, yes, but right now, like, I mean, like half of the flight can actually schedule normally for people who want to get out of Hawaii.
+yeah, I see, I'm in Seattle now. I was, I was with Johnny rcto, like at the ICCV, which using Hawaii this year. So my flight just landed this morning. Alaska airline, they had an IP outage. So yeah, it's global and only funny, like a lot of flight from Hawaii to the to the to the mainland. US actually from Alaska airline and Hawaii airline, yes, but right now, like, I mean, like half of the flight can actually schedule normally for people who want to get out of Hawaii.
+yeah, I see, I'm in Seattle now. I was, I was with Johnny rcto, like at the ICCV, which using Hawaii this year. So my flight just landed this morning. Alaska airline, they had an IP outage. So yeah, it's global and only funny, like a lot of flight from Hawaii to the to the to the mainland. US actually from Alaska airline and Hawaii airline, yes, but right now, like, I mean, like half of the flight can actually schedule normally for people who want to get out of Hawaii.
+yeah, I see, I'm in Seattle now. I was, I was with Johnny rcto, like at the ICCV, which using Hawaii this year. So my flight just landed this morning. Alaska airline, they had an IP outage. So yeah, it's global and only funny, like a lot of flight from Hawaii to the to the to the mainland. US actually from Alaska airline and Hawaii airline, yes, but right now, like, I mean, like half of the flight can actually schedule normally for people who want to get out of Hawaii.
+3:42and you what conference is there? Daniel
+and you what conference is there? Daniel
+and you what conference is there? Daniel
+and you what conference is there? Daniel
+3:46sccb, it's a Computer Vision Conference,
+sccb, it's a Computer Vision Conference,
+sccb, it's a Computer Vision Conference,
+sccb, it's a Computer Vision Conference,
+3:50okay, ICML, but for CV
+okay, ICML, but for CV
+okay, ICML, but for CV
+okay, ICML, but for CV
+S Speaker 33:53Yeah, yeah, it's similar to CVPR, but probably not
+Yeah, yeah, it's similar to CVPR, but probably not
+Yeah, yeah, it's similar to CVPR, but probably not
+Yeah, yeah, it's similar to CVPR, but probably not
+4:02a pleasure to meet you guys. Where do you get my otherwise,
+a pleasure to meet you guys. Where do you get my otherwise,
+a pleasure to meet you guys. Where do you get my otherwise,
+a pleasure to meet you guys. Where do you get my otherwise,
+4:07I'm busy. Seattle. Okay,
+I'm busy. Seattle. Okay,
+I'm busy. Seattle. Okay,
+I'm busy. Seattle. Okay,
+4:16okay, yeah, pleasure to meet you guys. Hey, why don't we do this quickly?
+okay, yeah, pleasure to meet you guys. Hey, why don't we do this quickly?
+okay, yeah, pleasure to meet you guys. Hey, why don't we do this quickly?
+okay, yeah, pleasure to meet you guys. Hey, why don't we do this quickly?
+S Speaker 44:21Introduce me, Priyesh. You've met them, yeah. And then I'll introduce Qualcomm ventures real quick. And then we'd love to learn more about what you guys are building, and,
+Introduce me, Priyesh. You've met them, yeah. And then I'll introduce Qualcomm ventures real quick. And then we'd love to learn more about what you guys are building, and,
+Introduce me, Priyesh. You've met them, yeah. And then I'll introduce Qualcomm ventures real quick. And then we'd love to learn more about what you guys are building, and,
+Introduce me, Priyesh. You've met them, yeah. And then I'll introduce Qualcomm ventures real quick. And then we'd love to learn more about what you guys are building, and,
+4:34and, and your background.
+and, and your background.
+and, and your background.
+and, and your background.
+S Speaker 44:39my background is also actually in prior life at CV. CV, I used to be in engineering long time ago. And then I used to run a camera business as well so
+my background is also actually in prior life at CV. CV, I used to be in engineering long time ago. And then I used to run a camera business as well so
+my background is also actually in prior life at CV. CV, I used to be in engineering long time ago. And then I used to run a camera business as well so
+my background is also actually in prior life at CV. CV, I used to be in engineering long time ago. And then I used to run a camera business as well so
+S Speaker 44:57I manage the US investments at Qualcomm ventures. We are strategic investment arm for Qualcomm. So we invest about one $50 million every year in sweet spot. Tends to be more like Series A, Series B for us, and then we do up to $10 million initial checks. That's typically how we function. And then we invest in areas that are strategically relevant to Qualcomm. And then, so, of course, there's many areas for Qualcomm. We sell a lot of art chips, of course, in smartphones and
+I manage the US investments at Qualcomm ventures. We are strategic investment arm for Qualcomm. So we invest about one $50 million every year in sweet spot. Tends to be more like Series A, Series B for us, and then we do up to $10 million initial checks. That's typically how we function. And then we invest in areas that are strategically relevant to Qualcomm. And then, so, of course, there's many areas for Qualcomm. We sell a lot of art chips, of course, in smartphones and
+I manage the US investments at Qualcomm ventures. We are strategic investment arm for Qualcomm. So we invest about one $50 million every year in sweet spot. Tends to be more like Series A, Series B for us, and then we do up to $10 million initial checks. That's typically how we function. And then we invest in areas that are strategically relevant to Qualcomm. And then, so, of course, there's many areas for Qualcomm. We sell a lot of art chips, of course, in smartphones and
+I manage the US investments at Qualcomm ventures. We are strategic investment arm for Qualcomm. So we invest about one $50 million every year in sweet spot. Tends to be more like Series A, Series B for us, and then we do up to $10 million initial checks. That's typically how we function. And then we invest in areas that are strategically relevant to Qualcomm. And then, so, of course, there's many areas for Qualcomm. We sell a lot of art chips, of course, in smartphones and
+5:39PCs AIP series, but we also have
+PCs AIP series, but we also have
+PCs AIP series, but we also have
+PCs AIP series, but we also have
+S Speaker 45:41products for the cloud inference, and we have products for networking. We have products for variables. We have many like IOT and automotive or massive businesses. All these businesses are multi billion dollar businesses for Qualcomm. So we work with startups across the ecosystem to either in some cases, we become that customer. In some cases, they become a customer. In some cases, they become our partners, and vice versa.
+products for the cloud inference, and we have products for networking. We have products for variables. We have many like IOT and automotive or massive businesses. All these businesses are multi billion dollar businesses for Qualcomm. So we work with startups across the ecosystem to either in some cases, we become that customer. In some cases, they become a customer. In some cases, they become our partners, and vice versa.
+products for the cloud inference, and we have products for networking. We have products for variables. We have many like IOT and automotive or massive businesses. All these businesses are multi billion dollar businesses for Qualcomm. So we work with startups across the ecosystem to either in some cases, we become that customer. In some cases, they become a customer. In some cases, they become our partners, and vice versa.
+products for the cloud inference, and we have products for networking. We have products for variables. We have many like IOT and automotive or massive businesses. All these businesses are multi billion dollar businesses for Qualcomm. So we work with startups across the ecosystem to either in some cases, we become that customer. In some cases, they become a customer. In some cases, they become our partners, and vice versa.
+6:10And yeah, I mean,
+S Speaker 46:18we, I mean one of the key value adds that we want to provide to many startups that we invest in is, is enable some of these partnerships with the business units. Yeah, pleasure to meet you guys. And then we've been looking at this space broadly all the way from the clouds to arbitrage of GPUs, and are very curious about how what you're doing and how do you look at the space.
+we, I mean one of the key value adds that we want to provide to many startups that we invest in is, is enable some of these partnerships with the business units. Yeah, pleasure to meet you guys. And then we've been looking at this space broadly all the way from the clouds to arbitrage of GPUs, and are very curious about how what you're doing and how do you look at the space.
+we, I mean one of the key value adds that we want to provide to many startups that we invest in is, is enable some of these partnerships with the business units. Yeah, pleasure to meet you guys. And then we've been looking at this space broadly all the way from the clouds to arbitrage of GPUs, and are very curious about how what you're doing and how do you look at the space.
+we, I mean one of the key value adds that we want to provide to many startups that we invest in is, is enable some of these partnerships with the business units. Yeah, pleasure to meet you guys. And then we've been looking at this space broadly all the way from the clouds to arbitrage of GPUs, and are very curious about how what you're doing and how do you look at the space.
+6:54Thank you. Santo. Intro,
+Thank you. Santo. Intro,
+Thank you. Santo. Intro,
+Thank you. Santo. Intro,
+S Speaker 36:56so Johnny will be like, you can like. We should also introduce our team a little bit, and
+so Johnny will be like, you can like. We should also introduce our team a little bit, and
+so Johnny will be like, you can like. We should also introduce our team a little bit, and
+so Johnny will be like, you can like. We should also introduce our team a little bit, and
+7:04then maybe you can go ahead.
+then maybe you can go ahead.
+then maybe you can go ahead.
+then maybe you can go ahead.
+S Speaker 57:08Hey guys. Thanks Priyesh for the connection and Tosha, nice to meet you. I'm Johnny the CTO youth. Hello. My background is in HPC, high performance computing. Like back to 10 years I started after PhD, I started my career at Lawrence Berkeley National Lab as a HPC engineer and researcher. So basically, back then, I did a lot of work on like optimizing large scale pytorch Spark on supercomputer and working with a few professors from UC Berkeley, at that time, they have this amp lab. Now they have the skyline. So they've been involving, and I've been also involved in industry. After four years in the lab, I started a company on IoT, so basically building some intelligence into the edge sensor, security camera, and then, yeah. Over the last few years I spent, I worked at tick tock and Amazon. So building like a distributed NLP for tick tock and also foundation model for Amazon. I was the engineer lead for Amazon, Rufus building like building the foundation model from scratch and then all the way to IR and efficiency and inference deployment. So I'm the Rufus is like, if you go to amazon.com you can talk to it. It's chat. Is back end of the Amazon search now.
+Hey guys. Thanks Priyesh for the connection and Tosha, nice to meet you. I'm Johnny the CTO youth. Hello. My background is in HPC, high performance computing. Like back to 10 years I started after PhD, I started my career at Lawrence Berkeley National Lab as a HPC engineer and researcher. So basically, back then, I did a lot of work on like optimizing large scale pytorch Spark on supercomputer and working with a few professors from UC Berkeley, at that time, they have this amp lab. Now they have the skyline. So they've been involving, and I've been also involved in industry. After four years in the lab, I started a company on IoT, so basically building some intelligence into the edge sensor, security camera, and then, yeah. Over the last few years I spent, I worked at tick tock and Amazon. So building like a distributed NLP for tick tock and also foundation model for Amazon. I was the engineer lead for Amazon, Rufus building like building the foundation model from scratch and then all the way to IR and efficiency and inference deployment. So I'm the Rufus is like, if you go to amazon.com you can talk to it. It's chat. Is back end of the Amazon search now.
+Hey guys. Thanks Priyesh for the connection and Tosha, nice to meet you. I'm Johnny the CTO youth. Hello. My background is in HPC, high performance computing. Like back to 10 years I started after PhD, I started my career at Lawrence Berkeley National Lab as a HPC engineer and researcher. So basically, back then, I did a lot of work on like optimizing large scale pytorch Spark on supercomputer and working with a few professors from UC Berkeley, at that time, they have this amp lab. Now they have the skyline. So they've been involving, and I've been also involved in industry. After four years in the lab, I started a company on IoT, so basically building some intelligence into the edge sensor, security camera, and then, yeah. Over the last few years I spent, I worked at tick tock and Amazon. So building like a distributed NLP for tick tock and also foundation model for Amazon. I was the engineer lead for Amazon, Rufus building like building the foundation model from scratch and then all the way to IR and efficiency and inference deployment. So I'm the Rufus is like, if you go to amazon.com you can talk to it. It's chat. Is back end of the Amazon search now.
+Hey guys. Thanks Priyesh for the connection and Tosha, nice to meet you. I'm Johnny the CTO youth. Hello. My background is in HPC, high performance computing. Like back to 10 years I started after PhD, I started my career at Lawrence Berkeley National Lab as a HPC engineer and researcher. So basically, back then, I did a lot of work on like optimizing large scale pytorch Spark on supercomputer and working with a few professors from UC Berkeley, at that time, they have this amp lab. Now they have the skyline. So they've been involving, and I've been also involved in industry. After four years in the lab, I started a company on IoT, so basically building some intelligence into the edge sensor, security camera, and then, yeah. Over the last few years I spent, I worked at tick tock and Amazon. So building like a distributed NLP for tick tock and also foundation model for Amazon. I was the engineer lead for Amazon, Rufus building like building the foundation model from scratch and then all the way to IR and efficiency and inference deployment. So I'm the Rufus is like, if you go to amazon.com you can talk to it. It's chat. Is back end of the Amazon search now.
+8:34Oh, okay, okay, okay,
+Oh, okay, okay, okay,
+Oh, okay, okay, okay,
+Oh, okay, okay, okay,
+S Speaker 48:37Amazon Rufus. I think I came about. Is it like the Rename of Amazon Q?
+Amazon Rufus. I think I came about. Is it like the Rename of Amazon Q?
+Amazon Rufus. I think I came about. Is it like the Rename of Amazon Q?
+Amazon Rufus. I think I came about. Is it like the Rename of Amazon Q?
+S Speaker 58:44Amazon Q is for coding, yeah, I'm the roofers. Is the
+Amazon Q is for coding, yeah, I'm the roofers. Is the
+Amazon Q is for coding, yeah, I'm the roofers. Is the
+Amazon Q is for coding, yeah, I'm the roofers. Is the
+S Speaker 48:50shopping area that's shows up these days on Yeah,
+shopping area that's shows up these days on Yeah,
+shopping area that's shows up these days on Yeah,
+shopping area that's shows up these days on Yeah,
+8:54yeah. Thanks for the background, Johnny, sure.
+yeah. Thanks for the background, Johnny, sure.
+yeah. Thanks for the background, Johnny, sure.
+yeah. Thanks for the background, Johnny, sure.
+S Speaker 39:02Johnny, Chris, yeah, sure.
+Johnny, Chris, yeah, sure.
+Johnny, Chris, yeah, sure.
+Johnny, Chris, yeah, sure.
+S Speaker 29:07Hi guys. This is Chris. I'm the non technical guy of Twitter labs. Before relapse, I was in crypto space for spending a half years there's one of the largest developer incentive platform called dorahats. Basically they hosted, they were one of the very first nonprofit organizations hosting hackathons, back to 2014 in China, and evolving to right now, the one of the leading global hacker communities. And I was doing business development partnership, a little bit of venture investment there, and I left door hacks by the end of last year's and joined the last team by early this year's. And right now, partnership and BD.
+Hi guys. This is Chris. I'm the non technical guy of Twitter labs. Before relapse, I was in crypto space for spending a half years there's one of the largest developer incentive platform called dorahats. Basically they hosted, they were one of the very first nonprofit organizations hosting hackathons, back to 2014 in China, and evolving to right now, the one of the leading global hacker communities. And I was doing business development partnership, a little bit of venture investment there, and I left door hacks by the end of last year's and joined the last team by early this year's. And right now, partnership and BD.
+Hi guys. This is Chris. I'm the non technical guy of Twitter labs. Before relapse, I was in crypto space for spending a half years there's one of the largest developer incentive platform called dorahats. Basically they hosted, they were one of the very first nonprofit organizations hosting hackathons, back to 2014 in China, and evolving to right now, the one of the leading global hacker communities. And I was doing business development partnership, a little bit of venture investment there, and I left door hacks by the end of last year's and joined the last team by early this year's. And right now, partnership and BD.
+Hi guys. This is Chris. I'm the non technical guy of Twitter labs. Before relapse, I was in crypto space for spending a half years there's one of the largest developer incentive platform called dorahats. Basically they hosted, they were one of the very first nonprofit organizations hosting hackathons, back to 2014 in China, and evolving to right now, the one of the leading global hacker communities. And I was doing business development partnership, a little bit of venture investment there, and I left door hacks by the end of last year's and joined the last team by early this year's. And right now, partnership and BD.
+12:11because of the privilege
+because of the privilege
+because of the privilege
+because of the privilege
+S Speaker 413:26And you started, Daniel, you started your labs last year, yeah,
+And you started, Daniel, you started your labs last year, yeah,
+And you started, Daniel, you started your labs last year, yeah,
+And you started, Daniel, you started your labs last year, yeah,
+S Speaker 313:30last September, yeah, our first around that this April, April, this year,
+last September, yeah, our first around that this April, April, this year,
+last September, yeah, our first around that this April, April, this year,
+last September, yeah, our first around that this April, April, this year,
+13:36that was a C round. Yeah, that's
+that was a C round. Yeah, that's
+that was a C round. Yeah, that's
+that was a C round. Yeah, that's
+S Speaker 313:41it, wrong. Pardon. How much did you raise? And see 3.5 meal we raised at the valuation of 50. Meal five, zero, okay,
+it, wrong. Pardon. How much did you raise? And see 3.5 meal we raised at the valuation of 50. Meal five, zero, okay,
+it, wrong. Pardon. How much did you raise? And see 3.5 meal we raised at the valuation of 50. Meal five, zero, okay,
+it, wrong. Pardon. How much did you raise? And see 3.5 meal we raised at the valuation of 50. Meal five, zero, okay,
+13:51and that was from who
+and that was from who
+and that was from who
+and that was from who
+S Speaker 313:53from, from Eden block, and the people recording from Eden block, they are too active crypto fund, like focusing on decentralized
+from, from Eden block, and the people recording from Eden block, they are too active crypto fund, like focusing on decentralized
+from, from Eden block, and the people recording from Eden block, they are too active crypto fund, like focusing on decentralized
+from, from Eden block, and the people recording from Eden block, they are too active crypto fund, like focusing on decentralized
+14:05Are you guys? Do you guys have a crypto angle?
+Are you guys? Do you guys have a crypto angle?
+Are you guys? Do you guys have a crypto angle?
+Are you guys? Do you guys have a crypto angle?
+S Speaker 314:09Only small kitchen portion of that, like on the computer infrastructure side, we are quite interested to actually allow community provider, yeah. But the majority of the platform are focused on efficiency and the interoperability, interoperable AI infrastructure, where is actually the focus of the capital.
+Only small kitchen portion of that, like on the computer infrastructure side, we are quite interested to actually allow community provider, yeah. But the majority of the platform are focused on efficiency and the interoperability, interoperable AI infrastructure, where is actually the focus of the capital.
+Only small kitchen portion of that, like on the computer infrastructure side, we are quite interested to actually allow community provider, yeah. But the majority of the platform are focused on efficiency and the interoperability, interoperable AI infrastructure, where is actually the focus of the capital.
+Only small kitchen portion of that, like on the computer infrastructure side, we are quite interested to actually allow community provider, yeah. But the majority of the platform are focused on efficiency and the interoperability, interoperable AI infrastructure, where is actually the focus of the capital.
+S Speaker 414:26And okay, so maybe Daniel would be great to actually get an overview of Yoda and and then see like, Where does the crypto angle belong and but I guess you don't have, like, your own coin,
+And okay, so maybe Daniel would be great to actually get an overview of Yoda and and then see like, Where does the crypto angle belong and but I guess you don't have, like, your own coin,
+And okay, so maybe Daniel would be great to actually get an overview of Yoda and and then see like, Where does the crypto angle belong and but I guess you don't have, like, your own coin,
+And okay, so maybe Daniel would be great to actually get an overview of Yoda and and then see like, Where does the crypto angle belong and but I guess you don't have, like, your own coin,
+S Speaker 314:47right? So we don't, we don't, we don't have, we don't have
+right? So we don't, we don't, we don't have, we don't have
+right? So we don't, we don't, we don't have, we don't have
+right? So we don't, we don't, we don't have, we don't have
+14:51that. Yeah, okay, yeah,
+that. Yeah, okay, yeah,
+that. Yeah, okay, yeah,
+that. Yeah, okay, yeah,
+15:55when I was looking at your website,
+when I was looking at your website,
+when I was looking at your website,
+when I was looking at your website,
+S Speaker 615:58I thought, are you guys focused more on training or
+I thought, are you guys focused more on training or
+I thought, are you guys focused more on training or
+I thought, are you guys focused more on training or
+S Speaker 316:08We are we actually have technology for both, okay for inference, we have already scalable product. So we have like product for training. It's case by case, but we do have team to optimize their training workloads.
+We are we actually have technology for both, okay for inference, we have already scalable product. So we have like product for training. It's case by case, but we do have team to optimize their training workloads.
+We are we actually have technology for both, okay for inference, we have already scalable product. So we have like product for training. It's case by case, but we do have team to optimize their training workloads.
+We are we actually have technology for both, okay for inference, we have already scalable product. So we have like product for training. It's case by case, but we do have team to optimize their training workloads.
+16:25I don't know how to actually,
+I don't know how to actually,
+I don't know how to actually,
+I don't know how to actually,
+S Speaker 316:33I don't, I don't have, I don't know how to add the permission.
+I don't, I don't have, I don't know how to add the permission.
+I don't, I don't have, I don't know how to add the permission.
+I don't, I don't have, I don't know how to add the permission.
+16:38Oh, you don't have permission.
+Oh, you don't have permission.
+Oh, you don't have permission.
+Oh, you don't have permission.
+S Speaker 116:41Yeah, let me give you permission for that. Daniel,
+Yeah, let me give you permission for that. Daniel,
+Yeah, let me give you permission for that. Daniel,
+Yeah, let me give you permission for that. Daniel,
+16:47no, it's more like on my side. I
+no, it's more like on my side. I
+no, it's more like on my side. I
+no, it's more like on my side. I
+16:51teams. You can do it now.
+teams. You can do it now.
+teams. You can do it now.
+teams. You can do it now.
+S Speaker 316:56I think it's more like on my side. It's a
+I think it's more like on my side. It's a
+I think it's more like on my side. It's a
+I think it's more like on my side. It's a
+17:02security privacy setting,
+security privacy setting,
+security privacy setting,
+security privacy setting,
+S Speaker 317:07or maybe Priyesh, like, can you go to the pitch deck? I think we slide number five, if that's easier, yeah, that slides would pretty much summarize what like the emphasize on the technology side,
+or maybe Priyesh, like, can you go to the pitch deck? I think we slide number five, if that's easier, yeah, that slides would pretty much summarize what like the emphasize on the technology side,
+or maybe Priyesh, like, can you go to the pitch deck? I think we slide number five, if that's easier, yeah, that slides would pretty much summarize what like the emphasize on the technology side,
+or maybe Priyesh, like, can you go to the pitch deck? I think we slide number five, if that's easier, yeah, that slides would pretty much summarize what like the emphasize on the technology side,
+17:23yes, give me a second. Daniel,
+yes, give me a second. Daniel,
+yes, give me a second. Daniel,
+yes, give me a second. Daniel,
+S Speaker 419:27for you, where do you get like when you provide access to the GPUs or AI inference accelerator?
+for you, where do you get like when you provide access to the GPUs or AI inference accelerator?
+for you, where do you get like when you provide access to the GPUs or AI inference accelerator?
+for you, where do you get like when you provide access to the GPUs or AI inference accelerator?
+19:37Are you? Are you still?
+Are you? Are you still?
+Are you? Are you still?
+Are you? Are you still?
+19:41Do you rent it? Or this is pass through for
+Do you rent it? Or this is pass through for
+Do you rent it? Or this is pass through for
+Do you rent it? Or this is pass through for
+S Speaker 319:46for your customer? Yeah. So we have, actually, we have, like, our own, like small cup where we basically rent the GPU directly from the data center, and also, like a small colocation hosting team, so
+for your customer? Yeah. So we have, actually, we have, like, our own, like small cup where we basically rent the GPU directly from the data center, and also, like a small colocation hosting team, so
+for your customer? Yeah. So we have, actually, we have, like, our own, like small cup where we basically rent the GPU directly from the data center, and also, like a small colocation hosting team, so
+for your customer? Yeah. So we have, actually, we have, like, our own, like small cup where we basically rent the GPU directly from the data center, and also, like a small colocation hosting team, so
+S Speaker 420:02you rank the GPUs from the actual you're not going to hyperscalers.
+you rank the GPUs from the actual you're not going to hyperscalers.
+you rank the GPUs from the actual you're not going to hyperscalers.
+you rank the GPUs from the actual you're not going to hyperscalers.
+S Speaker 320:10So the hyperscaler is more like if company would like to use our software solution and supply their own GPU. And then, like we goes, we go, we go there that we basically allow them to bring their own account or bring their own
+So the hyperscaler is more like if company would like to use our software solution and supply their own GPU. And then, like we goes, we go, we go there that we basically allow them to bring their own account or bring their own
+So the hyperscaler is more like if company would like to use our software solution and supply their own GPU. And then, like we goes, we go, we go there that we basically allow them to bring their own account or bring their own
+So the hyperscaler is more like if company would like to use our software solution and supply their own GPU. And then, like we goes, we go, we go there that we basically allow them to bring their own account or bring their own
+20:23GPU. So that GPU do you have right
+GPU. So that GPU do you have right
+GPU. So that GPU do you have right
+GPU. So that GPU do you have right
+S Speaker 320:28now, we manage about the southern GPU, ranging from like the b2, 100 h2, 100 h2, 100 and also 4090, 5090,
+now, we manage about the southern GPU, ranging from like the b2, 100 h2, 100 h2, 100 and also 4090, 5090,
+now, we manage about the southern GPU, ranging from like the b2, 100 h2, 100 h2, 100 and also 4090, 5090,
+now, we manage about the southern GPU, ranging from like the b2, 100 h2, 100 h2, 100 and also 4090, 5090,
+S Speaker 420:37so would you consider yourself like if you were to compare yourself, you would you consider yourself more like a Corvi or together AI?
+so would you consider yourself like if you were to compare yourself, you would you consider yourself more like a Corvi or together AI?
+so would you consider yourself like if you were to compare yourself, you would you consider yourself more like a Corvi or together AI?
+so would you consider yourself like if you were to compare yourself, you would you consider yourself more like a Corvi or together AI?
+S Speaker 320:47I think, like most of them, are actually very focused on the data center side, especially for covid after, say, like, compared to them, like we have more like a snowflake versus AWS. Mm, that, yes,
+I think, like most of them, are actually very focused on the data center side, especially for covid after, say, like, compared to them, like we have more like a snowflake versus AWS. Mm, that, yes,
+I think, like most of them, are actually very focused on the data center side, especially for covid after, say, like, compared to them, like we have more like a snowflake versus AWS. Mm, that, yes,
+I think, like most of them, are actually very focused on the data center side, especially for covid after, say, like, compared to them, like we have more like a snowflake versus AWS. Mm, that, yes,
+S Speaker 321:17yeah, we, yeah. We want to be the software company that offer the serving and training solution got it,
+yeah, we, yeah. We want to be the software company that offer the serving and training solution got it,
+yeah, we, yeah. We want to be the software company that offer the serving and training solution got it,
+yeah, we, yeah. We want to be the software company that offer the serving and training solution got it,
+S Speaker 421:25but so is it most, I guess, together now, because you know why they buy GPUs, right? Because it's five more GPUs, because one, you want to increase the gross margin, and then two, the demand is just so high that renting GPUs wasn't viable anymore.
+but so is it most, I guess, together now, because you know why they buy GPUs, right? Because it's five more GPUs, because one, you want to increase the gross margin, and then two, the demand is just so high that renting GPUs wasn't viable anymore.
+but so is it most, I guess, together now, because you know why they buy GPUs, right? Because it's five more GPUs, because one, you want to increase the gross margin, and then two, the demand is just so high that renting GPUs wasn't viable anymore.
+but so is it most, I guess, together now, because you know why they buy GPUs, right? Because it's five more GPUs, because one, you want to increase the gross margin, and then two, the demand is just so high that renting GPUs wasn't viable anymore.
+S Speaker 321:46Yes, yes. When they actually come into certain scale, they definitely want to start their own, like data set business, yeah, so you would, okay, yeah,
+Yes, yes. When they actually come into certain scale, they definitely want to start their own, like data set business, yeah, so you would, okay, yeah,
+Yes, yes. When they actually come into certain scale, they definitely want to start their own, like data set business, yeah, so you would, okay, yeah,
+Yes, yes. When they actually come into certain scale, they definitely want to start their own, like data set business, yeah, so you would, okay, yeah,
+S Speaker 421:58different base camp, which is Basecamp is more arbitrage,
+different base camp, which is Basecamp is more arbitrage,
+different base camp, which is Basecamp is more arbitrage,
+different base camp, which is Basecamp is more arbitrage,
+S Speaker 322:04yeah, so for us, like we would more be the space of, like, base 10 and FAO fell, yeah.
+yeah, so for us, like we would more be the space of, like, base 10 and FAO fell, yeah.
+yeah, so for us, like we would more be the space of, like, base 10 and FAO fell, yeah.
+yeah, so for us, like we would more be the space of, like, base 10 and FAO fell, yeah.
+22:14Okay, got it. Got
+S Speaker 322:15it. So with the only area that we do, actually quite interested to actually deploy the hardware. Where is, like we want to actually integrate with the different AI chips in that space, like we actually quite interested to acquire and deploy the hardware.
+it. So with the only area that we do, actually quite interested to actually deploy the hardware. Where is, like we want to actually integrate with the different AI chips in that space, like we actually quite interested to acquire and deploy the hardware.
+it. So with the only area that we do, actually quite interested to actually deploy the hardware. Where is, like we want to actually integrate with the different AI chips in that space, like we actually quite interested to acquire and deploy the hardware.
+it. So with the only area that we do, actually quite interested to actually deploy the hardware. Where is, like we want to actually integrate with the different AI chips in that space, like we actually quite interested to acquire and deploy the hardware.
+22:32And in this sea,
+S Speaker 422:37you know, like the end customer is to end to an end customer. They just want to get the
+you know, like the end customer is to end to an end customer. They just want to get the
+you know, like the end customer is to end to an end customer. They just want to get the
+you know, like the end customer is to end to an end customer. They just want to get the
+S Speaker 622:46most reliable, cheapest and low latency inference
+most reliable, cheapest and low latency inference
+most reliable, cheapest and low latency inference
+most reliable, cheapest and low latency inference
+S Speaker 422:53and and they could go to any they could go to a base 10. They could go to PAL. They could go together. They could go to Nevis colvie, GMI cloud, you guys, right? Why does an end customer, which is an app, let's say cursor,
+and and they could go to any they could go to a base 10. They could go to PAL. They could go together. They could go to Nevis colvie, GMI cloud, you guys, right? Why does an end customer, which is an app, let's say cursor,
+and and they could go to any they could go to a base 10. They could go to PAL. They could go together. They could go to Nevis colvie, GMI cloud, you guys, right? Why does an end customer, which is an app, let's say cursor,
+and and they could go to any they could go to a base 10. They could go to PAL. They could go together. They could go to Nevis colvie, GMI cloud, you guys, right? Why does an end customer, which is an app, let's say cursor,
+23:08go with Yoda labs versus all of the items?
+go with Yoda labs versus all of the items?
+go with Yoda labs versus all of the items?
+go with Yoda labs versus all of the items?
+S Speaker 423:14Yeah, hyperscalers included, right? Like you've got that, AWS, GCP, Azure,
+Yeah, hyperscalers included, right? Like you've got that, AWS, GCP, Azure,
+Yeah, hyperscalers included, right? Like you've got that, AWS, GCP, Azure,
+Yeah, hyperscalers included, right? Like you've got that, AWS, GCP, Azure,
+S Speaker 323:19yeah, so that's a good question. So that's why, like, we want to actually focusing on, like, efficiency optimization and also support the multi region and the multi cloud.
+yeah, so that's a good question. So that's why, like, we want to actually focusing on, like, efficiency optimization and also support the multi region and the multi cloud.
+yeah, so that's a good question. So that's why, like, we want to actually focusing on, like, efficiency optimization and also support the multi region and the multi cloud.
+yeah, so that's a good question. So that's why, like, we want to actually focusing on, like, efficiency optimization and also support the multi region and the multi cloud.
+S Speaker 423:35Multi region, multi cloud. But everybody's offering multi region multi cloud,
+Multi region, multi cloud. But everybody's offering multi region multi cloud,
+Multi region, multi cloud. But everybody's offering multi region multi cloud,
+Multi region, multi cloud. But everybody's offering multi region multi cloud,
+23:41found us. Founders,
+23:44replicators, base 10 does
+replicators, base 10 does
+replicators, base 10 does
+replicators, base 10 does
+S Speaker 323:50so on the it's John, maybe you can come with it.
+so on the it's John, maybe you can come with it.
+so on the it's John, maybe you can come with it.
+so on the it's John, maybe you can come with it.
+25:01which is but then what you're saying is
+which is but then what you're saying is
+which is but then what you're saying is
+which is but then what you're saying is
+25:07you're doing multi region better than others.
+you're doing multi region better than others.
+you're doing multi region better than others.
+you're doing multi region better than others.
+S Speaker 425:53and then, but versus like somebody like a foul, then how do you differentiate with somebody like a foul? Then and even base 10, I
+and then, but versus like somebody like a foul, then how do you differentiate with somebody like a foul? Then and even base 10, I
+and then, but versus like somebody like a foul, then how do you differentiate with somebody like a foul? Then and even base 10, I
+and then, but versus like somebody like a foul, then how do you differentiate with somebody like a foul? Then and even base 10, I
+S Speaker 526:05think a file is doing really well in in this aigc domain, we are like, trying to, like, be more like an infer friendly, and then be more flexible so that we can cover more use cases, not just a IGC, as you see, is the has huge demand. And then still, still the market is, is much bigger. And then we are, what do you mean? Ai? GC, basically content generation with AI, like a text to image
+think a file is doing really well in in this aigc domain, we are like, trying to, like, be more like an infer friendly, and then be more flexible so that we can cover more use cases, not just a IGC, as you see, is the has huge demand. And then still, still the market is, is much bigger. And then we are, what do you mean? Ai? GC, basically content generation with AI, like a text to image
+think a file is doing really well in in this aigc domain, we are like, trying to, like, be more like an infer friendly, and then be more flexible so that we can cover more use cases, not just a IGC, as you see, is the has huge demand. And then still, still the market is, is much bigger. And then we are, what do you mean? Ai? GC, basically content generation with AI, like a text to image
+think a file is doing really well in in this aigc domain, we are like, trying to, like, be more like an infer friendly, and then be more flexible so that we can cover more use cases, not just a IGC, as you see, is the has huge demand. And then still, still the market is, is much bigger. And then we are, what do you mean? Ai? GC, basically content generation with AI, like a text to image
+26:38generated content.
+S Speaker 426:43And then, and then you're saying you can do better with
+And then, and then you're saying you can do better with
+And then, and then you're saying you can do better with
+And then, and then you're saying you can do better with
+S Speaker 526:48Yeah, we got, we can offer like because we are starting from the infrastructure layer, and they offer more flexibility, flexibility on file. You can only do like this AICc workload. They have a better support for their pipeline workflow, but our use case we are targeting is more broad, like inference. Inference can be different kind of like workload doesn't have to be argc. Can also be like traditional or like agent wise, Agent workflow, and then also IO training. And also is another huge demand, according like, when we talk to Nvidia, these they're observing, like the two huge demand is inference and post training, which is, RL,
+Yeah, we got, we can offer like because we are starting from the infrastructure layer, and they offer more flexibility, flexibility on file. You can only do like this AICc workload. They have a better support for their pipeline workflow, but our use case we are targeting is more broad, like inference. Inference can be different kind of like workload doesn't have to be argc. Can also be like traditional or like agent wise, Agent workflow, and then also IO training. And also is another huge demand, according like, when we talk to Nvidia, these they're observing, like the two huge demand is inference and post training, which is, RL,
+Yeah, we got, we can offer like because we are starting from the infrastructure layer, and they offer more flexibility, flexibility on file. You can only do like this AICc workload. They have a better support for their pipeline workflow, but our use case we are targeting is more broad, like inference. Inference can be different kind of like workload doesn't have to be argc. Can also be like traditional or like agent wise, Agent workflow, and then also IO training. And also is another huge demand, according like, when we talk to Nvidia, these they're observing, like the two huge demand is inference and post training, which is, RL,
+Yeah, we got, we can offer like because we are starting from the infrastructure layer, and they offer more flexibility, flexibility on file. You can only do like this AICc workload. They have a better support for their pipeline workflow, but our use case we are targeting is more broad, like inference. Inference can be different kind of like workload doesn't have to be argc. Can also be like traditional or like agent wise, Agent workflow, and then also IO training. And also is another huge demand, according like, when we talk to Nvidia, these they're observing, like the two huge demand is inference and post training, which is, RL,
+S Speaker 427:33yeah. RL, okay, got it. And then,
+yeah. RL, okay, got it. And then,
+yeah. RL, okay, got it. And then,
+yeah. RL, okay, got it. And then,
+27:40so your customers today?
+so your customers today?
+so your customers today?
+so your customers today?
+S Speaker 627:43Are your customers mostly on the post training?
+Are your customers mostly on the post training?
+Are your customers mostly on the post training?
+Are your customers mostly on the post training?
+S Speaker 427:48RL, those types of workloads, or your customers also going for like, generated
+RL, those types of workloads, or your customers also going for like, generated
+RL, those types of workloads, or your customers also going for like, generated
+RL, those types of workloads, or your customers also going for like, generated
+27:55content, as you see, type of workloads
+content, as you see, type of workloads
+content, as you see, type of workloads
+content, as you see, type of workloads
+27:59today, the current customers? Yeah.
+today, the current customers? Yeah.
+today, the current customers? Yeah.
+today, the current customers? Yeah.
+S Speaker 528:02I think this is a very interesting timing. I think anyway may want to bring up that side,
+I think this is a very interesting timing. I think anyway may want to bring up that side,
+I think this is a very interesting timing. I think anyway may want to bring up that side,
+I think this is a very interesting timing. I think anyway may want to bring up that side,
+28:07yeah, guys. Let me know which way you want
+yeah, guys. Let me know which way you want
+yeah, guys. Let me know which way you want
+yeah, guys. Let me know which way you want
+28:14to point to eight.

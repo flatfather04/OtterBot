@@ -1,0 +1,324 @@
+Meeting: NativeLink 3
+Tue, Jun 3
+11:00 AM
+28 min
+Priyesh P
+Understanding NativeLink's Positioning and User Pe
+URL: https://otter.ai/u/vqr9jCEvxbPs9bYv8e4kOuLglWk
+Downloaded: 2025-12-22T10:02:58.412101
+Method: text_extraction
+============================================================
+
+1:06Hey, hi, Marcus, how are you? How
+Hey, hi, Marcus, how are you? How
+Hey, hi, Marcus, how are you? How
+Hey, hi, Marcus, how are you? How
+S Speaker 22:23Let me walk you through a recent
+Let me walk you through a recent
+Let me walk you through a recent
+Let me walk you through a recent
+2:30contribution from the outside.
+contribution from the outside.
+contribution from the outside.
+contribution from the outside.
+2:46you take a look at this? Yeah,
+you take a look at this? Yeah,
+you take a look at this? Yeah,
+you take a look at this? Yeah,
+2:50so this guy, Sam eskinda, is
+so this guy, Sam eskinda, is
+so this guy, Sam eskinda, is
+so this guy, Sam eskinda, is
+S Speaker 22:54infrastructure engineer at neuralink. Do you know neuralink? Yeah, so neuralink uses an FPGA provider
+infrastructure engineer at neuralink. Do you know neuralink? Yeah, so neuralink uses an FPGA provider
+infrastructure engineer at neuralink. Do you know neuralink? Yeah, so neuralink uses an FPGA provider
+infrastructure engineer at neuralink. Do you know neuralink? Yeah, so neuralink uses an FPGA provider
+S Speaker 23:11test and validate their firmware. I
+test and validate their firmware. I
+test and validate their firmware. I
+test and validate their firmware. I
+S Speaker 13:15was thinking of a different neuralink. Sorry, I don't know about them yet.
+was thinking of a different neuralink. Sorry, I don't know about them yet.
+was thinking of a different neuralink. Sorry, I don't know about them yet.
+was thinking of a different neuralink. Sorry, I don't know about them yet.
+3:21This is neuralink.
+3:26They make brain implants, yeah?
+They make brain implants, yeah?
+They make brain implants, yeah?
+They make brain implants, yeah?
+S Speaker 23:32Elon Musk brain computer interface company, yes, yes, yes, I know about them. Okay, so that's the one I'm talking about. Okay,
+Elon Musk brain computer interface company, yes, yes, yes, I know about them. Okay, so that's the one I'm talking about. Okay,
+Elon Musk brain computer interface company, yes, yes, yes, I know about them. Okay, so that's the one I'm talking about. Okay,
+Elon Musk brain computer interface company, yes, yes, yes, I know about them. Okay, so that's the one I'm talking about. Okay,
+3:40so they make an FPGA
+3:44that goes into your brain.
+that goes into your brain.
+that goes into your brain.
+that goes into your brain.
+S Speaker 23:47It's highly customized and specialized, yeah, but it is based on an existing FPGA, all FBA. I mean, it's just too much work to try to develop an FPGA from zero, even Google will work with existing vendors, yeah, just like they work with Qualcomm on the TPU. And so you need good now and die. You need an instruction set or license you might, you know risk five is growing, but there's still vendors you would want to work with.
+It's highly customized and specialized, yeah, but it is based on an existing FPGA, all FBA. I mean, it's just too much work to try to develop an FPGA from zero, even Google will work with existing vendors, yeah, just like they work with Qualcomm on the TPU. And so you need good now and die. You need an instruction set or license you might, you know risk five is growing, but there's still vendors you would want to work with.
+It's highly customized and specialized, yeah, but it is based on an existing FPGA, all FBA. I mean, it's just too much work to try to develop an FPGA from zero, even Google will work with existing vendors, yeah, just like they work with Qualcomm on the TPU. And so you need good now and die. You need an instruction set or license you might, you know risk five is growing, but there's still vendors you would want to work with.
+It's highly customized and specialized, yeah, but it is based on an existing FPGA, all FBA. I mean, it's just too much work to try to develop an FPGA from zero, even Google will work with existing vendors, yeah, just like they work with Qualcomm on the TPU. And so you need good now and die. You need an instruction set or license you might, you know risk five is growing, but there's still vendors you would want to work with.
+S Speaker 24:31wanted to use native link, but they, they don't really, they're not really compatible with hard coding a path to a certificate.
+wanted to use native link, but they, they don't really, they're not really compatible with hard coding a path to a certificate.
+wanted to use native link, but they, they don't really, they're not really compatible with hard coding a path to a certificate.
+wanted to use native link, but they, they don't really, they're not really compatible with hard coding a path to a certificate.
+4:47This is for good reason. You can
+This is for good reason. You can
+This is for good reason. You can
+This is for good reason. You can
+S Speaker 24:48probably imagine why they'd want to be able to manage certificates. They don't want them to be exposed to a single point of failure. There's a lot of reason so they manage certificates via the trust route, which is at the OS layer.
+probably imagine why they'd want to be able to manage certificates. They don't want them to be exposed to a single point of failure. There's a lot of reason so they manage certificates via the trust route, which is at the OS layer.
+probably imagine why they'd want to be able to manage certificates. They don't want them to be exposed to a single point of failure. There's a lot of reason so they manage certificates via the trust route, which is at the OS layer.
+probably imagine why they'd want to be able to manage certificates. They don't want them to be exposed to a single point of failure. There's a lot of reason so they manage certificates via the trust route, which is at the OS layer.
+S Speaker 25:08what is native link doing? It's compiling, testing and validating the code in an accelerated fashion, when compared to,
+what is native link doing? It's compiling, testing and validating the code in an accelerated fashion, when compared to,
+what is native link doing? It's compiling, testing and validating the code in an accelerated fashion, when compared to,
+what is native link doing? It's compiling, testing and validating the code in an accelerated fashion, when compared to,
+5:19let's call it Xilinx Vivado,
+let's call it Xilinx Vivado,
+let's call it Xilinx Vivado,
+let's call it Xilinx Vivado,
+S Speaker 25:23right? Yeah. And so Vivado is probably responsible for three to $400 million of Xilinx revenue, maybe a little bit more than that. It's hard to say they don't break them out, they bundle, right? But if you're trying to do new things, or you're trying to move fast to actually get your brain computer implant interface into the market, you need to accelerate wherever there's a bottleneck. And so these companies come to us with specialized hardware, and it takes days for many and
+right? Yeah. And so Vivado is probably responsible for three to $400 million of Xilinx revenue, maybe a little bit more than that. It's hard to say they don't break them out, they bundle, right? But if you're trying to do new things, or you're trying to move fast to actually get your brain computer implant interface into the market, you need to accelerate wherever there's a bottleneck. And so these companies come to us with specialized hardware, and it takes days for many and
+right? Yeah. And so Vivado is probably responsible for three to $400 million of Xilinx revenue, maybe a little bit more than that. It's hard to say they don't break them out, they bundle, right? But if you're trying to do new things, or you're trying to move fast to actually get your brain computer implant interface into the market, you need to accelerate wherever there's a bottleneck. And so these companies come to us with specialized hardware, and it takes days for many and
+right? Yeah. And so Vivado is probably responsible for three to $400 million of Xilinx revenue, maybe a little bit more than that. It's hard to say they don't break them out, they bundle, right? But if you're trying to do new things, or you're trying to move fast to actually get your brain computer implant interface into the market, you need to accelerate wherever there's a bottleneck. And so these companies come to us with specialized hardware, and it takes days for many and
+6:03with us, it takes a couple hours. Yeah,
+with us, it takes a couple hours. Yeah,
+with us, it takes a couple hours. Yeah,
+with us, it takes a couple hours. Yeah,
+S Speaker 26:07and how that looks is they have all their C code, or their Lua code, or their C Plus Plus code, their assembly, and they press a button and Xilinx with us. It's all managed in code where you can it's kind of like infrastructure as code infrastructure before TerraForm or puppet. It was all managed by interfaces, like you had a window, windows, server, UI, and then it went to actually, let's commit this and define this so it's well understood and auditable and trackable. And so this is a dashboard where we're building natively, right? And if you want to get started, depending on which client you use this, these are the steps. Does it make sense? Yeah, you add these into your Bazel RC.
+and how that looks is they have all their C code, or their Lua code, or their C Plus Plus code, their assembly, and they press a button and Xilinx with us. It's all managed in code where you can it's kind of like infrastructure as code infrastructure before TerraForm or puppet. It was all managed by interfaces, like you had a window, windows, server, UI, and then it went to actually, let's commit this and define this so it's well understood and auditable and trackable. And so this is a dashboard where we're building natively, right? And if you want to get started, depending on which client you use this, these are the steps. Does it make sense? Yeah, you add these into your Bazel RC.
+and how that looks is they have all their C code, or their Lua code, or their C Plus Plus code, their assembly, and they press a button and Xilinx with us. It's all managed in code where you can it's kind of like infrastructure as code infrastructure before TerraForm or puppet. It was all managed by interfaces, like you had a window, windows, server, UI, and then it went to actually, let's commit this and define this so it's well understood and auditable and trackable. And so this is a dashboard where we're building natively, right? And if you want to get started, depending on which client you use this, these are the steps. Does it make sense? Yeah, you add these into your Bazel RC.
+and how that looks is they have all their C code, or their Lua code, or their C Plus Plus code, their assembly, and they press a button and Xilinx with us. It's all managed in code where you can it's kind of like infrastructure as code infrastructure before TerraForm or puppet. It was all managed by interfaces, like you had a window, windows, server, UI, and then it went to actually, let's commit this and define this so it's well understood and auditable and trackable. And so this is a dashboard where we're building natively, right? And if you want to get started, depending on which client you use this, these are the steps. Does it make sense? Yeah, you add these into your Bazel RC.
+7:13You're on Bazel build.
+You're on Bazel build.
+You're on Bazel build.
+You're on Bazel build.
+S Speaker 27:16Want to add it to your GitHub CI, we tell you exactly how right here. Yep, and that's it like. Now, there are some rules that you need to add to actually, you need to add a few dependencies for something as complex as neuralink. But
+Want to add it to your GitHub CI, we tell you exactly how right here. Yep, and that's it like. Now, there are some rules that you need to add to actually, you need to add a few dependencies for something as complex as neuralink. But
+Want to add it to your GitHub CI, we tell you exactly how right here. Yep, and that's it like. Now, there are some rules that you need to add to actually, you need to add a few dependencies for something as complex as neuralink. But
+Want to add it to your GitHub CI, we tell you exactly how right here. Yep, and that's it like. Now, there are some rules that you need to add to actually, you need to add a few dependencies for something as complex as neuralink. But
+7:41it doesn't take very long,
+it doesn't take very long,
+it doesn't take very long,
+it doesn't take very long,
+S Speaker 27:47they manage all the infrastructure on premise. So this does two things. It It challenges a a product owned by Xilinx that is closed source, proprietary and considered very sticky. It's it's kind of like when my sequel came out, or Oracle again, when Postgres came out, Oracle again, when MongoDB came out. The only way you can compete with a company as deeply entrenched as Oracle is you have to give away your product,
+they manage all the infrastructure on premise. So this does two things. It It challenges a a product owned by Xilinx that is closed source, proprietary and considered very sticky. It's it's kind of like when my sequel came out, or Oracle again, when Postgres came out, Oracle again, when MongoDB came out. The only way you can compete with a company as deeply entrenched as Oracle is you have to give away your product,
+they manage all the infrastructure on premise. So this does two things. It It challenges a a product owned by Xilinx that is closed source, proprietary and considered very sticky. It's it's kind of like when my sequel came out, or Oracle again, when Postgres came out, Oracle again, when MongoDB came out. The only way you can compete with a company as deeply entrenched as Oracle is you have to give away your product,
+they manage all the infrastructure on premise. So this does two things. It It challenges a a product owned by Xilinx that is closed source, proprietary and considered very sticky. It's it's kind of like when my sequel came out, or Oracle again, when Postgres came out, Oracle again, when MongoDB came out. The only way you can compete with a company as deeply entrenched as Oracle is you have to give away your product,
+S Speaker 28:30like owning a workflow at neuralink, which will be $100 billion company one day, I mean, they cure blindness, total blindness. It's science fiction, and so to be a critical workflow for a company like that, give the product away. We can charge them later.
+like owning a workflow at neuralink, which will be $100 billion company one day, I mean, they cure blindness, total blindness. It's science fiction, and so to be a critical workflow for a company like that, give the product away. We can charge them later.
+like owning a workflow at neuralink, which will be $100 billion company one day, I mean, they cure blindness, total blindness. It's science fiction, and so to be a critical workflow for a company like that, give the product away. We can charge them later.
+like owning a workflow at neuralink, which will be $100 billion company one day, I mean, they cure blindness, total blindness. It's science fiction, and so to be a critical workflow for a company like that, give the product away. We can charge them later.
+8:52Makes sense? Makes sense.
+Makes sense? Makes sense.
+Makes sense? Makes sense.
+Makes sense? Makes sense.
+11:36And then unit test, similarly, simulation,
+And then unit test, similarly, simulation,
+And then unit test, similarly, simulation,
+And then unit test, similarly, simulation,
+13:28there is a hash distance
+there is a hash distance
+there is a hash distance
+there is a hash distance
+S Speaker 213:33formula. There's a hash distance algorithm that's used quite a bit in video search and image search, and that's what Canvas built on. They probably want that like some prefix matching, but we'll see. And then one concrete metric for time, for each stage. Yet, I think all of those can take two to three days now, release, release, kind of packages up those three. So it's a compound. I mean, it's a sum of all those other three, compile unit tests and simulation. But they these companies today, they do all of them at the same time, the continuous integration in the continuous integration now listing now product boundaries and differentiations, the main building blocks of our stack. So our closed source versus open source are our UI, our management interface, the observability is all closed source, right? Which is, I think, what drives purchase decisions. So as we look here, observability, like in here, well, I shouldn't use this one, because this one is all customers. I
+formula. There's a hash distance algorithm that's used quite a bit in video search and image search, and that's what Canvas built on. They probably want that like some prefix matching, but we'll see. And then one concrete metric for time, for each stage. Yet, I think all of those can take two to three days now, release, release, kind of packages up those three. So it's a compound. I mean, it's a sum of all those other three, compile unit tests and simulation. But they these companies today, they do all of them at the same time, the continuous integration in the continuous integration now listing now product boundaries and differentiations, the main building blocks of our stack. So our closed source versus open source are our UI, our management interface, the observability is all closed source, right? Which is, I think, what drives purchase decisions. So as we look here, observability, like in here, well, I shouldn't use this one, because this one is all customers. I
+formula. There's a hash distance algorithm that's used quite a bit in video search and image search, and that's what Canvas built on. They probably want that like some prefix matching, but we'll see. And then one concrete metric for time, for each stage. Yet, I think all of those can take two to three days now, release, release, kind of packages up those three. So it's a compound. I mean, it's a sum of all those other three, compile unit tests and simulation. But they these companies today, they do all of them at the same time, the continuous integration in the continuous integration now listing now product boundaries and differentiations, the main building blocks of our stack. So our closed source versus open source are our UI, our management interface, the observability is all closed source, right? Which is, I think, what drives purchase decisions. So as we look here, observability, like in here, well, I shouldn't use this one, because this one is all customers. I
+formula. There's a hash distance algorithm that's used quite a bit in video search and image search, and that's what Canvas built on. They probably want that like some prefix matching, but we'll see. And then one concrete metric for time, for each stage. Yet, I think all of those can take two to three days now, release, release, kind of packages up those three. So it's a compound. I mean, it's a sum of all those other three, compile unit tests and simulation. But they these companies today, they do all of them at the same time, the continuous integration in the continuous integration now listing now product boundaries and differentiations, the main building blocks of our stack. So our closed source versus open source are our UI, our management interface, the observability is all closed source, right? Which is, I think, what drives purchase decisions. So as we look here, observability, like in here, well, I shouldn't use this one, because this one is all customers. I
+15:08claim? Let's see here. Tell you.
+claim? Let's see here. Tell you.
+claim? Let's see here. Tell you.
+claim? Let's see here. Tell you.
+S Speaker 215:19So my claim, I'll pull it up and that show you.
+So my claim, I'll pull it up and that show you.
+So my claim, I'll pull it up and that show you.
+So my claim, I'll pull it up and that show you.
+S Speaker 215:29Boom. So here you'll be able to see
+Boom. So here you'll be able to see
+Boom. So here you'll be able to see
+Boom. So here you'll be able to see
+S Speaker 215:41some builds right now, yeah, my Linux machine, you'll see a lot of the a lot of
+some builds right now, yeah, my Linux machine, you'll see a lot of the a lot of
+some builds right now, yeah, my Linux machine, you'll see a lot of the a lot of
+some builds right now, yeah, my Linux machine, you'll see a lot of the a lot of
+15:53the metrics start to change.
+the metrics start to change.
+the metrics start to change.
+the metrics start to change.
+S Speaker 215:58I have on my Linux machine. We're in a PLC right now with another company, and we're doing some stuff, right? Yeah, you'll see the like, the resource utilization. This is a company. It's called red panda. Yeah, you
+I have on my Linux machine. We're in a PLC right now with another company, and we're doing some stuff, right? Yeah, you'll see the like, the resource utilization. This is a company. It's called red panda. Yeah, you
+I have on my Linux machine. We're in a PLC right now with another company, and we're doing some stuff, right? Yeah, you'll see the like, the resource utilization. This is a company. It's called red panda. Yeah, you
+I have on my Linux machine. We're in a PLC right now with another company, and we're doing some stuff, right? Yeah, you'll see the like, the resource utilization. This is a company. It's called red panda. Yeah, you
+S Speaker 116:16know about them in the security space. They're
+know about them in the security space. They're
+know about them in the security space. They're
+know about them in the security space. They're
+S Speaker 216:19like, streaming, okay, they're useful, useful for security.
+like, streaming, okay, they're useful, useful for security.
+like, streaming, okay, they're useful, useful for security.
+like, streaming, okay, they're useful, useful for security.
+16:26We are closer to security than they are
+We are closer to security than they are
+We are closer to security than they are
+We are closer to security than they are
+S Speaker 216:31because we manage, we manage all of your dependencies. So what one thing that I'm seeing is like these llms will make a a recommendation for a dependency to bring in, but that dependency is not safe. And so like info world just wrote an article last week like, who's going to compile all this generated code and evaluate that it's safe from production? And then they mentioned native link.
+because we manage, we manage all of your dependencies. So what one thing that I'm seeing is like these llms will make a a recommendation for a dependency to bring in, but that dependency is not safe. And so like info world just wrote an article last week like, who's going to compile all this generated code and evaluate that it's safe from production? And then they mentioned native link.
+because we manage, we manage all of your dependencies. So what one thing that I'm seeing is like these llms will make a a recommendation for a dependency to bring in, but that dependency is not safe. And so like info world just wrote an article last week like, who's going to compile all this generated code and evaluate that it's safe from production? And then they mentioned native link.
+because we manage, we manage all of your dependencies. So what one thing that I'm seeing is like these llms will make a a recommendation for a dependency to bring in, but that dependency is not safe. And so like info world just wrote an article last week like, who's going to compile all this generated code and evaluate that it's safe from production? And then they mentioned native link.
+S Speaker 217:05so I just, you can see here, yeah, you can see the request volume is skyrocketing, 130 requests per second, the content addressable storage nodes, and I'm on this computer doing this, like I'm on my Linus computer, kind of going through that. See, slow store hits. So the slow store is the file system. The fast store is going to be memory. I think we're probably using, and this deployment, I'm using Redis. So let's run it again. We can see so there are four worker pods. So those worker pods are all pods that can do these jobs, kind of like just Spark cluster or Hadoop cluster, as I said, it's kind of similar in many ways, or MongoDB cluster. And then you can see the request drop off
+so I just, you can see here, yeah, you can see the request volume is skyrocketing, 130 requests per second, the content addressable storage nodes, and I'm on this computer doing this, like I'm on my Linus computer, kind of going through that. See, slow store hits. So the slow store is the file system. The fast store is going to be memory. I think we're probably using, and this deployment, I'm using Redis. So let's run it again. We can see so there are four worker pods. So those worker pods are all pods that can do these jobs, kind of like just Spark cluster or Hadoop cluster, as I said, it's kind of similar in many ways, or MongoDB cluster. And then you can see the request drop off
+so I just, you can see here, yeah, you can see the request volume is skyrocketing, 130 requests per second, the content addressable storage nodes, and I'm on this computer doing this, like I'm on my Linus computer, kind of going through that. See, slow store hits. So the slow store is the file system. The fast store is going to be memory. I think we're probably using, and this deployment, I'm using Redis. So let's run it again. We can see so there are four worker pods. So those worker pods are all pods that can do these jobs, kind of like just Spark cluster or Hadoop cluster, as I said, it's kind of similar in many ways, or MongoDB cluster. And then you can see the request drop off
+so I just, you can see here, yeah, you can see the request volume is skyrocketing, 130 requests per second, the content addressable storage nodes, and I'm on this computer doing this, like I'm on my Linus computer, kind of going through that. See, slow store hits. So the slow store is the file system. The fast store is going to be memory. I think we're probably using, and this deployment, I'm using Redis. So let's run it again. We can see so there are four worker pods. So those worker pods are all pods that can do these jobs, kind of like just Spark cluster or Hadoop cluster, as I said, it's kind of similar in many ways, or MongoDB cluster. And then you can see the request drop off
+18:04Redis. There's reddish I'll build one more time.
+Redis. There's reddish I'll build one more time.
+Redis. There's reddish I'll build one more time.
+Redis. There's reddish I'll build one more time.
+18:08Yeah, and that's really what's going on.
+Yeah, and that's really what's going on.
+Yeah, and that's really what's going on.
+Yeah, and that's really what's going on.
+18:12And you can see the success rate
+And you can see the success rate
+And you can see the success rate
+And you can see the success rate
+S Speaker 218:16requests, 100% success. Every request comes in. That's because the person who built the infrastructure built iPod so it scales dynamically. And I like, I wasn't doing anything today, like I just got started on it. You can see so I was to do one day, you won't see any spikes all day, because it's been since Sunday, since I had to do something so very idle, that's harder to do than it looks like, you know, to dynamically respond to a burst in traffic, right? I can imagine, yeah. And so, yeah, we built a robust Foundation. And so that's what's closed source for. This is all
+requests, 100% success. Every request comes in. That's because the person who built the infrastructure built iPod so it scales dynamically. And I like, I wasn't doing anything today, like I just got started on it. You can see so I was to do one day, you won't see any spikes all day, because it's been since Sunday, since I had to do something so very idle, that's harder to do than it looks like, you know, to dynamically respond to a burst in traffic, right? I can imagine, yeah. And so, yeah, we built a robust Foundation. And so that's what's closed source for. This is all
+requests, 100% success. Every request comes in. That's because the person who built the infrastructure built iPod so it scales dynamically. And I like, I wasn't doing anything today, like I just got started on it. You can see so I was to do one day, you won't see any spikes all day, because it's been since Sunday, since I had to do something so very idle, that's harder to do than it looks like, you know, to dynamically respond to a burst in traffic, right? I can imagine, yeah. And so, yeah, we built a robust Foundation. And so that's what's closed source for. This is all
+requests, 100% success. Every request comes in. That's because the person who built the infrastructure built iPod so it scales dynamically. And I like, I wasn't doing anything today, like I just got started on it. You can see so I was to do one day, you won't see any spikes all day, because it's been since Sunday, since I had to do something so very idle, that's harder to do than it looks like, you know, to dynamically respond to a burst in traffic, right? I can imagine, yeah. And so, yeah, we built a robust Foundation. And so that's what's closed source for. This is all
+18:59well source. Now, if you go back to
+well source. Now, if you go back to
+well source. Now, if you go back to
+well source. Now, if you go back to
+19:39how does native link do something
+how does native link do something
+how does native link do something
+how does native link do something
+S Speaker 219:44faster? I think we're zero abstraction. We're close to the model. We have direct hardware access. All these other tools are built with Java or go, and they're just not as fast. Now I will say that build buddy is great. I don't want to say anything bad about Bill, but he really great. It's just for our use case. It would be prohibitively expensive, right?
+faster? I think we're zero abstraction. We're close to the model. We have direct hardware access. All these other tools are built with Java or go, and they're just not as fast. Now I will say that build buddy is great. I don't want to say anything bad about Bill, but he really great. It's just for our use case. It would be prohibitively expensive, right?
+faster? I think we're zero abstraction. We're close to the model. We have direct hardware access. All these other tools are built with Java or go, and they're just not as fast. Now I will say that build buddy is great. I don't want to say anything bad about Bill, but he really great. It's just for our use case. It would be prohibitively expensive, right?
+faster? I think we're zero abstraction. We're close to the model. We have direct hardware access. All these other tools are built with Java or go, and they're just not as fast. Now I will say that build buddy is great. I don't want to say anything bad about Bill, but he really great. It's just for our use case. It would be prohibitively expensive, right?
+20:14Because of all the data transfer
+Because of all the data transfer
+Because of all the data transfer
+Because of all the data transfer
+S Speaker 220:17out of out of your VPC to their VPC, back and forth, and then in slow. It's just a legacy technology. One of the ways one one liner you can have is in slow did the first O'Reilly book? It was
+out of out of your VPC to their VPC, back and forth, and then in slow. It's just a legacy technology. One of the ways one one liner you can have is in slow did the first O'Reilly book? It was
+out of out of your VPC to their VPC, back and forth, and then in slow. It's just a legacy technology. One of the ways one one liner you can have is in slow did the first O'Reilly book? It was
+out of out of your VPC to their VPC, back and forth, and then in slow. It's just a legacy technology. One of the ways one one liner you can have is in slow did the first O'Reilly book? It was
+20:39for Basel nine, Dotto
+for Basel nine, Dotto
+for Basel nine, Dotto
+for Basel nine, Dotto
+20:42native link is the author,
+native link is the author,
+native link is the author,
+native link is the author,
+S Speaker 220:47and so like O'Reilly gave us the pen to write the new version, because we're the non legacy provider. And in that book, we talk about how we like can augment the workflows of cadence or answers we don't replace. I want to be very clear about something. We do not replace them. We don't have, even close we have, like, less than 5% of the capabilities that they have,
+and so like O'Reilly gave us the pen to write the new version, because we're the non legacy provider. And in that book, we talk about how we like can augment the workflows of cadence or answers we don't replace. I want to be very clear about something. We do not replace them. We don't have, even close we have, like, less than 5% of the capabilities that they have,
+and so like O'Reilly gave us the pen to write the new version, because we're the non legacy provider. And in that book, we talk about how we like can augment the workflows of cadence or answers we don't replace. I want to be very clear about something. We do not replace them. We don't have, even close we have, like, less than 5% of the capabilities that they have,
+and so like O'Reilly gave us the pen to write the new version, because we're the non legacy provider. And in that book, we talk about how we like can augment the workflows of cadence or answers we don't replace. I want to be very clear about something. We do not replace them. We don't have, even close we have, like, less than 5% of the capabilities that they have,
+S Speaker 121:13yeah, but they are also very mature. They're very much also, that's, that's very fair to say,
+yeah, but they are also very mature. They're very much also, that's, that's very fair to say,
+yeah, but they are also very mature. They're very much also, that's, that's very fair to say,
+yeah, but they are also very mature. They're very much also, that's, that's very fair to say,
+22:30and then expand up the stack,
+and then expand up the stack,
+and then expand up the stack,
+and then expand up the stack,
+S Speaker 222:34because it and only because it's moving into code. Like, if, like, yeah, there's going to need to be a UI for a lot of these things, like, we have to build that, but we're not there yet, and and that's really going to set off the antennas of these companies. I mean, Siemens is already using us. They have an EDA problem.
+because it and only because it's moving into code. Like, if, like, yeah, there's going to need to be a UI for a lot of these things, like, we have to build that, but we're not there yet, and and that's really going to set off the antennas of these companies. I mean, Siemens is already using us. They have an EDA problem.
+because it and only because it's moving into code. Like, if, like, yeah, there's going to need to be a UI for a lot of these things, like, we have to build that, but we're not there yet, and and that's really going to set off the antennas of these companies. I mean, Siemens is already using us. They have an EDA problem.
+because it and only because it's moving into code. Like, if, like, yeah, there's going to need to be a UI for a lot of these things, like, we have to build that, but we're not there yet, and and that's really going to set off the antennas of these companies. I mean, Siemens is already using us. They have an EDA problem.
+23:10What I want to do from here is
+What I want to do from here is
+What I want to do from here is
+What I want to do from here is
+S Speaker 223:45so on three a current ARR is like 635k
+so on three a current ARR is like 635k
+so on three a current ARR is like 635k
+so on three a current ARR is like 635k
+23:51yeah, we'll be at 680k
+yeah, we'll be at 680k
+yeah, we'll be at 680k
+yeah, we'll be at 680k
+24:04then I can show you some of the Logos we'll expand.
+then I can show you some of the Logos we'll expand.
+then I can show you some of the Logos we'll expand.
+then I can show you some of the Logos we'll expand.
+24:22yeah, you know, these are some of the logos,
+yeah, you know, these are some of the logos,
+yeah, you know, these are some of the logos,
+yeah, you know, these are some of the logos,
+24:31if that makes sense.
+S Speaker 224:35And this is for robotics. This is not for like, apps. Like if they were using, if they were to be exploring for apps, I would tell them, Go, use build money or robotics
+And this is for robotics. This is not for like, apps. Like if they were using, if they were to be exploring for apps, I would tell them, Go, use build money or robotics
+And this is for robotics. This is not for like, apps. Like if they were using, if they were to be exploring for apps, I would tell them, Go, use build money or robotics
+And this is for robotics. This is not for like, apps. Like if they were using, if they were to be exploring for apps, I would tell them, Go, use build money or robotics
+S Speaker 124:50and sorry, Marcus, I don't see the logos on my screen right? Do?
+and sorry, Marcus, I don't see the logos on my screen right? Do?
+and sorry, Marcus, I don't see the logos on my screen right? Do?
+and sorry, Marcus, I don't see the logos on my screen right? Do?
+S Speaker 125:08I think it Marcus, it seems like this is a different version of the deck that I have. Would love to have a look at this when, when you're done with the entire finishing, yeah, I will do,
+I think it Marcus, it seems like this is a different version of the deck that I have. Would love to have a look at this when, when you're done with the entire finishing, yeah, I will do,
+I think it Marcus, it seems like this is a different version of the deck that I have. Would love to have a look at this when, when you're done with the entire finishing, yeah, I will do,
+I think it Marcus, it seems like this is a different version of the deck that I have. Would love to have a look at this when, when you're done with the entire finishing, yeah, I will do,
+25:25do you know, browser base,
+do you know, browser base,
+do you know, browser base,
+do you know, browser base,
+S Speaker 125:28not really, no browser based. Is it the browser use AI agent, yeah, yeah, okay, yes,
+not really, no browser based. Is it the browser use AI agent, yeah, yeah, okay, yes,
+not really, no browser based. Is it the browser use AI agent, yeah, yeah, okay, yes,
+not really, no browser based. Is it the browser use AI agent, yeah, yeah, okay, yes,
+25:35so all the browser companies use us. Yeah,
+so all the browser companies use us. Yeah,
+so all the browser companies use us. Yeah,
+so all the browser companies use us. Yeah,
+25:41very interesting.
+25:44And what does meta use you for today?
+And what does meta use you for today?
+And what does meta use you for today?
+And what does meta use you for today?
+25:47Validating their own build infrastructure, actually.
+Validating their own build infrastructure, actually.
+Validating their own build infrastructure, actually.
+Validating their own build infrastructure, actually.
+25:53But I mean, we'll expand there, yeah.
+But I mean, we'll expand there, yeah.
+But I mean, we'll expand there, yeah.
+But I mean, we'll expand there, yeah.
+S Speaker 125:58And how, how does some of these expansions look like Marcus, When? When? How big? What's the overall potential for some of these accounts? And, yeah, this
+And how, how does some of these expansions look like Marcus, When? When? How big? What's the overall potential for some of these accounts? And, yeah, this
+And how, how does some of these expansions look like Marcus, When? When? How big? What's the overall potential for some of these accounts? And, yeah, this
+And how, how does some of these expansions look like Marcus, When? When? How big? What's the overall potential for some of these accounts? And, yeah, this
+S Speaker 226:10one, we put up like 2 million in the short term.
+one, we put up like 2 million in the short term.
+one, we put up like 2 million in the short term.
+one, we put up like 2 million in the short term.
+26:16This one is probably 50k
+This one is probably 50k
+This one is probably 50k
+This one is probably 50k
+26:19this one is this one is probably
+this one is this one is probably
+this one is this one is probably
+this one is this one is probably
+S Speaker 226:2450k this 150's K. I mean, we have 45k outstanding bill. This one. We haven't gotten to that stage where we know how big it would be. Meta. We have some idea the around there's their existing spend the days like 12 million on outside infrastructure for valid in we can show a lower cost of ownership, lower TCO. I think they'll drop. They'll pass. They could pay us three to $4 million yeah, but it's gonna take, it's just gonna take a while, like it's hard, it's been hard to work with them, but they're doing well now,
+50k this 150's K. I mean, we have 45k outstanding bill. This one. We haven't gotten to that stage where we know how big it would be. Meta. We have some idea the around there's their existing spend the days like 12 million on outside infrastructure for valid in we can show a lower cost of ownership, lower TCO. I think they'll drop. They'll pass. They could pay us three to $4 million yeah, but it's gonna take, it's just gonna take a while, like it's hard, it's been hard to work with them, but they're doing well now,
+50k this 150's K. I mean, we have 45k outstanding bill. This one. We haven't gotten to that stage where we know how big it would be. Meta. We have some idea the around there's their existing spend the days like 12 million on outside infrastructure for valid in we can show a lower cost of ownership, lower TCO. I think they'll drop. They'll pass. They could pay us three to $4 million yeah, but it's gonna take, it's just gonna take a while, like it's hard, it's been hard to work with them, but they're doing well now,
+50k this 150's K. I mean, we have 45k outstanding bill. This one. We haven't gotten to that stage where we know how big it would be. Meta. We have some idea the around there's their existing spend the days like 12 million on outside infrastructure for valid in we can show a lower cost of ownership, lower TCO. I think they'll drop. They'll pass. They could pay us three to $4 million yeah, but it's gonna take, it's just gonna take a while, like it's hard, it's been hard to work with them, but they're doing well now,
+27:05very interesting.
+28:12Thank you. Let me know absolutely
+Thank you. Let me know absolutely
+Thank you. Let me know absolutely
+Thank you. Let me know absolutely
+28:24it today. I will just have this
+it today. I will just have this
+it today. I will just have this
+it today. I will just have this
+S Speaker 128:28link. Andy, perfect. Thank you, Marcus, thanks. Thanks a lot for the time today. Let me get back to you. Thanks. See you again.
+link. Andy, perfect. Thank you, Marcus, thanks. Thanks a lot for the time today. Let me get back to you. Thanks. See you again.
+link. Andy, perfect. Thank you, Marcus, thanks. Thanks a lot for the time today. Let me get back to you. Thanks. See you again.
+link. Andy, perfect. Thank you, Marcus, thanks. Thanks a lot for the time today. Let me get back to you. Thanks. See you again.
